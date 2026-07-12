@@ -1,0 +1,103 @@
+#Saved from version 0.50.06 on 2025-11-24
+<UnitType>
+VTOL
+</UnitType>
+
+<Name>
+Rath Light Combat VTOL
+</Name>
+
+<Model>
+(Standard)
+</Model>
+
+<year>
+3032
+</year>
+
+<originalBuildYear>
+3032
+</originalBuildYear>
+
+<type>
+IS Level 5
+</type>
+
+<quirks>
+low_profile
+</quirks>
+
+<weaponQuirks>
+exposed_linkage:TU:0:Machine Gun
+</weaponQuirks>
+
+<motion_type>
+VTOL
+</motion_type>
+
+<transporters>
+troopspace:0.5
+</transporters>
+
+<cruiseMP>
+12
+</cruiseMP>
+
+<engine_type>
+1
+</engine_type>
+
+<armor_type>
+0
+</armor_type>
+
+<armor_tech_rating>
+0
+</armor_tech_rating>
+
+<armor_tech_level>
+0
+</armor_tech_level>
+
+<armor>
+8
+7
+7
+4
+2
+4
+</armor>
+
+<Body Equipment>
+IS Machine Gun Ammo - Half
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Rotor Equipment>
+ISMastMount
+ISReconCamera
+</Rotor Equipment>
+
+<Turret Equipment>
+Machine Gun
+</Turret Equipment>
+
+<tonnage>
+20.0
+</tonnage>
+
+<fuelType>
+PETROCHEMICALS
+</fuelType>
+

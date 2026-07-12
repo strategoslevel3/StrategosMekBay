@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.49.14" >
+
+		<entity chassis="Manticore Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="b5223974-fb4c-4476-9972-3024ad8ad541">
+			<pilot size="4" name="Tai-i Jarmila Hnydy" nick="" gender="FEMALE" gunnery="3" piloting="4" externalId="ac688fc8-a2a3-43db-8fc4-f6b95552d33f" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="2" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="1"/>
+		</entity>
+
+		<entity chassis="Manticore Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="feb1530e-42d6-4436-a2d2-e0316bd37f04">
+			<pilot size="4" name="Margaret Olsen" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="4626c765-0517-4ecd-8e35-eedbd6aecd61" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="2" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="2"/>
+		</entity>
+
+		<entity chassis="Manticore Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="d87993ad-08db-4302-b1b9-c2c3ad60e63b">
+			<pilot size="4" name="Raph Lopez" nick="" gender="MALE" gunnery="4" piloting="5" externalId="5ea5871f-8d07-4b5d-a160-6cf4234a5615" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="2" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="3"/>
+		</entity>
+
+		<entity chassis="Manticore Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="1d29e2d4-105d-48e0-958f-2086ac31d605">
+			<pilot size="4" name="Oliver Rankeillor" nick="" gender="MALE" gunnery="4" piloting="5" externalId="bcc2f7d8-7669-49db-8243-89a8053461f3" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="2" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="4"/>
+		</entity>
+
+		<entity chassis="Bulldog Medium Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="c935535f-6107-4cd9-bcd1-3b0cf3c6c6af">
+			<pilot size="4" name="Chu-i Bhavesh Chishti" nick="" gender="MALE" gunnery="4" piloting="5" externalId="94c40c0f-3307-4e8a-9a50-fce210f23e98" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="2" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="3" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="5"/>
+		</entity>
+
+		<entity chassis="Bulldog Medium Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="d73cf6cd-21ff-4b1b-af40-053342b15fce">
+			<pilot size="4" name="Humphrey Ferrara" nick="" gender="MALE" gunnery="4" piloting="5" externalId="45f06544-0c13-4a2b-9794-84aee3106902" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="2" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="3" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="6"/>
+		</entity>
+
+		<entity chassis="Behemoth Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="9a8f8b97-8b35-4866-a74c-fdc6f2a900ac">
+			<pilot size="7" name="Tasuku Tsuchida" nick="" gender="MALE" gunnery="3" piloting="4" externalId="c779c9dd-654d-4e6f-87cb-5e632a1f6294" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-5" shots="24"/>
+				<slot index="2" type="IS Ammo LRM-5" shots="24"/>
+				<slot index="3" type="IS Ammo MG - Full" shots="200"/>
+				<slot index="4" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="5" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="6" type="IS Ammo AC/10" shots="10"/>
+				<slot index="7" type="IS Ammo AC/10" shots="10"/>
+				<slot index="8" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="7"/>
+		</entity>
+
+		<entity chassis="Partisan Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="f88c02ad-a5dd-489f-b4a0-7c9ac0b74be2">
+			<pilot size="6" name="Fatùci Lamaj" nick="" gender="MALE" gunnery="4" piloting="5" externalId="cfc8931d-c3f7-4a7c-8c8d-734c01932d1d" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="2" type="IS Ammo AC/5" shots="20"/>
+				<slot index="3" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<Game id="8"/>
+		</entity>
+
+		<entity chassis="LRM Carrier" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="70cdaab9-218f-4633-bc99-a42f7711d97b">
+			<pilot size="4" name="Chu-i Gisela García" nick="" gender="FEMALE" gunnery="3" piloting="4" externalId="7d318805-3220-4ede-a759-afd03fefd4c3" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="2" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="3" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="4" type="IS Ammo LRM-20" shots="6"/>
+			</location>
+			<Game id="9"/>
+		</entity>
+
+		<entity chassis="LRM Carrier" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="073f637d-9e0a-4897-a13b-3c16608a9044">
+			<pilot size="4" name="Carine Cristersson" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="4ab35be0-146e-44a1-8bff-2f14e92970ff" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="2" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="3" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="4" type="IS Ammo LRM-20" shots="6"/>
+			</location>
+			<Game id="10"/>
+		</entity>
+
+		<entity chassis="SRM Carrier" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="4c9b469f-6f75-4d1f-acd9-1b0eaaeafe12">
+			<pilot size="4" name="Lidia Almli" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="e4722777-509a-4583-af06-aa4befee78dc" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="2" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="3" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="4" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="11"/>
+		</entity>
+
+		<entity chassis="Partisan Heavy Tank" model="(LRM)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="d7ab0676-2484-468d-b5eb-014bd39ae963">
+			<pilot size="6" name="Yasser Ashraf" nick="" gender="MALE" gunnery="4" piloting="5" externalId="6e8226cd-2ec0-4563-8824-558e34d2199d" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="2" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="3" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="4" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="5" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="6" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="7" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="12"/>
+		</entity>
+
+		<entity chassis="Warrior Attack Helicopter" model="H-7A" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" elevation="1" externalId="0411509e-9c18-4b56-9de8-954fa13df1bc">
+			<pilot size="2" name="Chu-i Francis Adusa" nick="" gender="MALE" gunnery="3" piloting="4" externalId="c3b923b8-a1d9-4492-8301-7bfd6334969e" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo AC/5" shots="20"/>
+				<slot index="2" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="17"/>
+		</entity>
+
+		<entity chassis="Warrior Attack Helicopter" model="H-7A" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" elevation="1" externalId="32786866-d1ff-4089-ba17-05f63c5ce24e">
+			<pilot size="2" name="Veena Nandedkar" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="8483747c-1ae9-4bd8-bf94-09ee42d17e62" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo AC/5" shots="20"/>
+				<slot index="2" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="18"/>
+		</entity>
+
+		<entity chassis="Warrior Attack Helicopter" model="H-7A" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" elevation="1" externalId="a1de8647-ca21-4ee8-88a7-4829106c1994">
+			<pilot size="2" name="Hongwu Ling" nick="" gender="MALE" gunnery="4" piloting="5" externalId="40cc02a0-43c6-4eca-93e7-a238624f9061" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo AC/5" shots="20"/>
+				<slot index="2" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="19"/>
+		</entity>
+
+		<entity chassis="Warrior Attack Helicopter" model="H-7A" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" elevation="1" externalId="7703cfc4-94cf-4772-92b5-368f549829bb">
+			<pilot size="2" name="Cedric Huml" nick="" gender="MALE" gunnery="4" piloting="5" externalId="11d497ba-09c7-423d-9dbe-70f1cca1d2a9" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo AC/5" shots="20"/>
+				<slot index="2" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="20"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(Rifle)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="abc08a5f-6112-4d65-b763-4678d4ef1bfa">
+			<pilot size="1" name="A-1" nick="" gender="FEMALE" gunnery="4" piloting="8" externalId="d72fa921-daf4-4dcd-b734-818f8a2e029c" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="21"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(Rifle)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="94aba2c7-1a1e-4b56-9a7e-435bb9ffe0ab">
+			<pilot size="1" name="A-2" nick="" gender="FEMALE" gunnery="4" piloting="8" externalId="0df61306-fca3-4861-a953-ba0d81fe2e1b" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="22"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(SRM)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="57552e6b-aa2c-4a6a-9d4a-8144296f00ff">
+			<pilot size="1" name="A-3" nick="" gender="MALE" gunnery="4" piloting="8" externalId="1312793c-2fc4-495d-8054-65a98cdf0eec" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="23"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(Rifle)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="9f838941-7702-44f2-9839-84b6c1d34244">
+			<pilot size="1" name="B-1" nick="" gender="MALE" gunnery="4" piloting="8" externalId="40710ff8-171e-4b05-8e59-0ecca9ca7ce4" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="24"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(Rifle)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="21662f5b-5c23-47a4-95e3-583ac756a25e">
+			<pilot size="1" name="B-2" nick="" gender="FEMALE" gunnery="4" piloting="8" externalId="d0cdbcbf-398e-4159-b65d-6072f6551a1c" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="25"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(SRM)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="f4cf41fb-0422-48f6-8cb1-9d15436b1336">
+			<pilot size="1" name="B-3" nick="" gender="MALE" gunnery="4" piloting="8" externalId="23cf35f3-3052-4ad5-a990-1d7cac524cee" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="26"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(Rifle)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="a56c57f2-264c-429c-96b4-d6b5f799977d">
+			<pilot size="1" name="C-1" nick="" gender="FEMALE" gunnery="4" piloting="8" externalId="c38bdcae-9b6b-449d-98d0-886880dc26aa" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="27"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(Rifle)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="4bc3b896-8b76-4183-84b9-bbe4dc4663eb">
+			<pilot size="1" name="C-2" nick="" gender="MALE" gunnery="4" piloting="8" externalId="81d9c58e-a0c3-43c0-a8b0-bcc079cb0514" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="28"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(SRM)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="20aecd9e-8160-4fd9-8bd7-580692af49a0">
+			<pilot size="1" name="C-3" nick="" gender="FEMALE" gunnery="4" piloting="8" externalId="6a239fe3-d9e9-49df-843d-3933a3625f7a" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="29"/>
+		</entity>
+
+		<entity chassis="Goblin Medium Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="98299f09-17fd-40a2-b72e-db8a2fa29097">
+			<pilot size="3" name="Cassia Koutsoubos" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="c855ac75-6deb-4a59-adb8-f100dfd9c1f3" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="30"/>
+		</entity>
+
+		<entity chassis="Goblin Medium Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="b31c8aa0-22fc-4870-9ef2-743f18847239">
+			<pilot size="3" name="Alex MacAlister" nick="" gender="MALE" gunnery="4" piloting="5" externalId="4da84439-17bf-4fbe-8222-3c5f39087302" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="31"/>
+		</entity>
+
+		<entity chassis="Goblin Medium Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="f74cb92d-7149-4d5a-af6f-f9eef8fa7f7d">
+			<pilot size="3" name="Adam Trounson" nick="" gender="MALE" gunnery="4" piloting="5" externalId="0b2c0fde-fe2b-4303-a3f7-a110dfd24a67" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="32"/>
+		</entity>
+
+		<entity chassis="Goblin Medium Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="bb24baec-c3ad-4054-8ff3-d485c661fa49">
+			<pilot size="3" name="Ozge Saswata" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="4c7feab9-744a-440b-9b2a-32b6c76bf895" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="33"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(Heavy Mortar)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="09711605-854c-4568-8de6-55010a40300b">
+			<pilot size="1" name="Takamori Yamashita" nick="" gender="MALE" gunnery="4" piloting="5" externalId="0239e514-c63e-4f72-b907-b80a9f3aad0b" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="34"/>
+		</entity>
+
+		<entity chassis="J. Edgar Light Hover Tank" model="(ICE)" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="f85a8e03-8a85-4351-bb81-9def73e5d47e">
+			<pilot size="2" name="Fidda Nasser" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="2e542ea5-31c4-4892-b7f1-757af7326e6b" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="35"/>
+		</entity>
+
+		<entity chassis="J. Edgar Light Hover Tank" model="(ICE)" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="7a40dab1-3e01-44eb-86d8-6502499d0547">
+			<pilot size="2" name="Ida Turicchia" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="9742fe69-a3d9-4f6a-9683-82931449e597" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="36"/>
+		</entity>
+
+		<entity chassis="Maxim Heavy Hover Transport" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="5e2224a3-ac5b-4191-b812-00596b79535d">
+			<pilot size="4" name="Lizette Waddingham" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="9281fdd8-f6e6-43ba-87f4-c84b09be2d54" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+				<slot index="2" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="3" type="IS Ammo SRM-2" shots="50"/>
+				<slot index="4" type="IS Ammo LRM-5" shots="24"/>
+			</location>
+			<Game id="37"/>
+		</entity>
+
+		<entity chassis="Maxim Heavy Hover Transport" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="2fd4850a-95fa-4071-880e-1b25d10a25d4">
+			<pilot size="4" name="Lyndsey bin Talal" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="bee28754-56ae-46de-98f4-dbbbee2737bb" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+				<slot index="2" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="3" type="IS Ammo SRM-2" shots="50"/>
+				<slot index="4" type="IS Ammo LRM-5" shots="24"/>
+			</location>
+			<Game id="38"/>
+		</entity>
+
+		<entity chassis="Foot Platoon (Anti-'Mech)" model="(Rifle)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="73b77b74-9a80-479b-990f-c60adeb42e19">
+			<pilot size="1" name="D-1" nick="" gender="FEMALE" gunnery="3" piloting="4" externalId="1aab2798-9a66-41a4-9b6f-86756400bb8d" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="39"/>
+		</entity>
+
+		<entity chassis="Foot Platoon (Anti-'Mech)" model="(Rifle)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="444118b0-693e-4004-89b3-9b45acf58dbd">
+			<pilot size="1" name="D-2" nick="" gender="FEMALE" gunnery="3" piloting="4" externalId="60137b5f-bbb2-4814-bcc2-16d99406b856" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="40"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(Rifle)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="17867530-fab7-4097-8bc8-351abbbdd4af">
+			<pilot size="1" name="HQ" nick="" gender="FEMALE" gunnery="4" piloting="8" externalId="63db807a-1ff1-4e48-a639-a4a10b2293ab" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="41"/>
+		</entity>
+
+		<entity chassis="Flatbed Truck" model="" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="528f3c76-8a33-4038-b5ed-07bf9ff6dc00">
+			<pilot size="1" name="Transport 1" nick="" gender="MALE" gunnery="5" piloting="6" externalId="a3230be0-5b87-4c93-9494-7a1908ac68db" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="45"/>
+		</entity>
+
+		<entity chassis="Flatbed Truck" model="" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="704e804d-1649-4e28-aff1-0de91680aa30">
+			<pilot size="1" name="Transport 2" nick="" gender="MALE" gunnery="5" piloting="6" externalId="1aaf1fc3-4b04-4ea6-b64c-95a8b9224ad5" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="46"/>
+		</entity>
+
+		<entity chassis="Flatbed Truck" model="" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="3b4e37bf-0ad2-49fd-9bc5-c91f15890577">
+			<pilot size="1" name="Transport 3" nick="" gender="MALE" gunnery="5" piloting="6" externalId="e5de7313-0ed3-449a-a27d-c6549d6e3db6" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="47"/>
+		</entity>
+
+		<entity chassis="Flatbed Truck" model="" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="f4c297e2-1e2d-45f4-947f-9437f9e5653b">
+			<pilot size="1" name="Transport 4" nick="" gender="FEMALE" gunnery="5" piloting="6" externalId="4e1312e5-df4e-4e42-9bdd-f82a952f2f9d" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="48"/>
+		</entity>
+
+		<entity chassis="Mobile Long Tom Artillery" model="LT-MOB-25" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="afc49eaf-080b-4f54-b08a-325f224b6f74">
+			<pilot size="5" name="Mark Muyaka" nick="" gender="MALE" gunnery="4" piloting="5" externalId="52f840fd-292c-4409-9d07-465f9c6b3c79" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="2" type="ISLongTomAmmo" shots="5"/>
+				<slot index="3" type="ISLongTomAmmo" shots="5"/>
+				<slot index="4" type="ISLongTomAmmo" shots="5"/>
+				<slot index="5" type="ISLongTomAmmo" shots="5"/>
+			</location>
+			<Game id="49"/>
+		</entity>
+
+		<entity chassis="Mobile Long Tom Artillery" model="LT-MOB-25 (Ammunition Carriage)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="2965dd88-cd5f-47c4-9659-e15153e59e3c">
+			<pilot size="1" name="Müjdat Üruisamoglu" nick="" gender="MALE" gunnery="4" piloting="5" externalId="b0a71d95-0ab2-4326-a78a-77814c96ef13" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="ISLongTomAmmo" shots="5"/>
+				<slot index="2" type="ISLongTomAmmo" shots="5"/>
+				<slot index="3" type="ISLongTomAmmo" shots="5"/>
+				<slot index="4" type="ISLongTomAmmo" shots="5"/>
+				<slot index="5" type="ISLongTomAmmo" shots="5"/>
+			</location>
+			<Game id="50"/>
+		</entity>
+
+		<entity chassis="Mobile Long Tom Artillery" model="LT-MOB-25 (Support Carriage)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="a25e8e06-42c4-4528-bcf5-051c721dc5e3">
+			<pilot size="1" name="Sandoval Ok" nick="" gender="MALE" gunnery="4" piloting="5" externalId="e86c9268-4e6a-4775-9d36-c9b0320a640a" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="51"/>
+		</entity>
+
+</unit>

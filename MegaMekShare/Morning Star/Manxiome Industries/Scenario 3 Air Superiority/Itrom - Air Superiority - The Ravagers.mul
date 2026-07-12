@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.51.00" >
+
+		<entity chassis="Leopard CV" model="(2581)" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="75c40d65-8c0f-415e-81a5-467d9ab03570">
+			<pilot size="8" name="Captain Liam Hainidi" nick="" gender="MALE" clanperson="false" gunnery="6" piloting="5" portraitCat="Male/Vessel Pilot/" portraitFile="VesPilot_M_4.png" externalId="c5f32af9-57ed-4d31-bcd3-18b452b978db" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="5480"/>
+			<structural integrity="7"/>
+			<heat sinks="80"/>
+			<transportBay index="1">
+				<damage>0.0</damage>
+				<doors>2</doors>
+			</transportBay>
+			<transportBay index="2">
+				<damage>0.0</damage>
+				<doors>2</doors>
+			</transportBay>
+			<transportBay index="3">
+				<damage>0.0</damage>
+				<doors>2</doors>
+			</transportBay>
+			<transportBay index="4">
+				<damage>0.0</damage>
+				<doors>0</doors>
+			</transportBay>
+			<transportBay index="0">
+				<damage>0.0</damage>
+				<doors>0</doors>
+			</transportBay>
+			<transportBay index="0">
+				<damage>0.0</damage>
+				<doors>0</doors>
+			</transportBay>
+			<transportBay index="0">
+				<damage>0.0</damage>
+				<doors>0</doors>
+			</transportBay>
+      The first slot in a location is at index="1".
+			<location index="0"> Nose
+				<slot index="6" type="IS Ammo LRM-20" shots="12" weaponsBayIndex="5"/>
+			</location>
+			<location index="1"> Left Side
+				<slot index="3" type="IS Ammo LRM-20" shots="12" weaponsBayIndex="2"/>
+			</location>
+			<location index="2"> Right Side
+				<slot index="3" type="IS Ammo LRM-20" shots="12" weaponsBayIndex="2"/>
+			</location>
+			<Game id="40"/>
+		</entity>
+
+		<entity chassis="Sabre" model="SB-26" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="610ebde6-e15d-450f-b6d0-7bbeb820c020">
+			<pilot size="1" name="Art Kalka" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="6" portraitCat="Male/Aerospace Pilot/" portraitFile="ASF_M_6.png" externalId="841e712e-d11c-4370-9a28-4938c8469104" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="160"/>
+			<structural integrity="9"/>
+			<heat sinks="10"/>
+			<Game id="41"/>
+		</entity>
+
+		<entity chassis="Sabre" model="SB-26" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="7f52a48e-774a-4d24-a741-9f03af279f4c">
+			<pilot size="1" name="Pirr Durant" nick="" gender="MALE" clanperson="false" gunnery="6" piloting="5" portraitCat="Male/Aerospace Pilot/" portraitFile="ASF_M_22.png" externalId="dbbcffca-cc11-4497-8e06-7ddc817492b7" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="160"/>
+			<structural integrity="9"/>
+			<heat sinks="10"/>
+			<Game id="42"/>
+		</entity>
+
+		<entity chassis="Lightning" model="LTN-G15" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="c27acd1f-c845-4adc-84d1-08ae1359ce98">
+			<pilot size="1" name="Corey Muruthi" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" portraitCat="Male/Aerospace Pilot/" portraitFile="ASF_M_10.png" externalId="d2558bd8-b8f2-40ce-97cd-3303b2376434" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="400"/>
+			<structural integrity="6"/>
+			<heat sinks="13"/>
+      The first slot in a location is at index="1".
+			<location index="5"> Fuselage
+				<slot index="1" type="IS Ammo AC/20" shots="5"/>
+				<slot index="2" type="IS Ammo AC/20" shots="5"/>
+			</location>
+			<Game id="43"/>
+		</entity>
+
+		<entity chassis="Lightning" model="LTN-G15" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="da2553a9-a8bf-441e-8aaa-a77e6fdc1b51">
+			<pilot size="1" name="José Ortega" nick="" gender="MALE" clanperson="false" gunnery="5" piloting="7" portraitCat="Male/Aerospace Pilot/" portraitFile="ASF_M_9.png" externalId="59bb896c-1657-47ad-8fde-23182613ba5d" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="400"/>
+			<structural integrity="6"/>
+			<heat sinks="13"/>
+      The first slot in a location is at index="1".
+			<location index="5"> Fuselage
+				<slot index="1" type="IS Ammo AC/20" shots="5"/>
+				<slot index="2" type="IS Ammo AC/20" shots="5"/>
+			</location>
+			<Game id="44"/>
+		</entity>
+
+		<entity chassis="Transgressor" model="TR-13" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="39418281-0a5b-4bae-b5ce-ed4ab217e066">
+			<pilot size="1" name="Louis Dakila" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" portraitCat="Male/Aerospace Pilot/" portraitFile="ASF_M_49.png" externalId="4649afbf-98f6-433a-b089-003099ceb16d" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="400"/>
+			<structural integrity="7"/>
+			<heat sinks="25"/>
+			<Game id="45"/>
+		</entity>
+
+		<entity chassis="Transgressor" model="TR-13" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="7e9e7e44-b7d8-41ba-ab12-6bd02389cbd3">
+			<pilot size="1" name="Joyelle McCarthy" nick="" gender="FEMALE" clanperson="false" gunnery="5" piloting="5" portraitCat="Female/Aerospace Pilot/" portraitFile="ASF_F_13.png" externalId="da2fec68-cf9f-4fbd-b20b-8343419cc0db" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="400"/>
+			<structural integrity="7"/>
+			<heat sinks="25"/>
+			<Game id="46"/>
+		</entity>
+
+</unit>

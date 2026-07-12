@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.49.12" >
+
+		<entity chassis="Striker Light Tank" model="(Standard)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="41dc80af-5c1c-4631-9b59-9ed895d90711">
+			<pilot size="3" name="Tai-i Ikimi Kino" nick="" gender="FEMALE" gunnery="3" piloting="4" externalId="a47c4185-6bf1-48e1-b61b-4ae2834ad0da" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="2" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="3" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="9"/>
+		</entity>
+
+		<entity chassis="Striker Light Tank" model="(Standard)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="453c8795-199d-41d0-8767-09240fc59ef8">
+			<pilot size="3" name="Tami Naeem" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="85564b04-b1f4-41bc-b9d9-317ec9c59c25" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="2" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="3" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="10"/>
+		</entity>
+
+		<entity chassis="Striker Light Tank" model="(Standard)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="00c5d411-9d77-48d4-8216-1a7182e65e55">
+			<pilot size="3" name="Hidekazu Krausse" nick="" gender="MALE" gunnery="4" piloting="5" externalId="5763a214-4315-48c8-8593-cff37bc00667" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="2" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="3" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="11"/>
+		</entity>
+
+		<entity chassis="Striker Light Tank" model="(Standard)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="09f13abb-7236-4449-9f52-4d07f0962574">
+			<pilot size="3" name="Alonna Hines" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="28785ad3-d016-4da9-8732-bed79c75deb4" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="2" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="3" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="12"/>
+		</entity>
+
+		<entity chassis="Harasser Missile Platform" model="(LRM)" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="cfcc9421-bb95-4ec6-b2a7-d4dd5794819c">
+			<pilot size="2" name="Chu-i Muna bin Marid" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="7526c793-1c77-4303-92f1-8a83d86274a1" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="2" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="3" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="13"/>
+		</entity>
+
+		<entity chassis="Harasser Missile Platform" model="(LRM)" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="c7760c3b-7f6d-41fa-88b2-bfaac9acae2f">
+			<pilot size="2" name="Annum Tareen" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="0742ecb4-cadb-4f72-a758-76b2fc283a94" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="2" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="3" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="14"/>
+		</entity>
+
+		<entity chassis="J. Edgar Light Hover Tank" model="(Standard)" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="10ad946e-6f22-40b0-91d5-220ab90ff050">
+			<pilot size="2" name="Kyasarin Arce" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="fb9f5479-413f-40f5-9d18-92a56acee60c" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="17"/>
+		</entity>
+
+		<entity chassis="J. Edgar Light Hover Tank" model="(Standard)" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="a09e1a69-7562-470e-9269-fa92e364de0c">
+			<pilot size="2" name="Nobuyori Yamamoto" nick="" gender="MALE" gunnery="4" piloting="5" externalId="3ab939a2-35f1-480a-afbe-d4c700971f94" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="18"/>
+		</entity>
+
+		<entity chassis="Saladin Assault Hover Tank" model="(Armor)" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="6518af6e-79d5-4f14-90f8-03973a5f8b77">
+			<pilot size="3" name="Chu-i Reniko Milind" nick="" gender="FEMALE" gunnery="3" piloting="4" externalId="b0d01c86-1196-433e-8e33-c653e62eab0d" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo AC/20" shots="5"/>
+				<slot index="2" type="IS Ammo AC/20" shots="5"/>
+			</location>
+			<Game id="19"/>
+		</entity>
+
+		<entity chassis="Saladin Assault Hover Tank" model="(Armor)" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="d8153079-9bc3-40f8-ae1f-786ed98da120">
+			<pilot size="3" name="Javed Engineer" nick="" gender="MALE" gunnery="4" piloting="5" externalId="59ecf977-4c22-4380-899e-67f7c43c5a93" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo AC/20" shots="5"/>
+				<slot index="2" type="IS Ammo AC/20" shots="5"/>
+			</location>
+			<Game id="20"/>
+		</entity>
+
+		<entity chassis="Warrior Attack Helicopter" model="H-7" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="e68d8ce2-2a75-4ced-ae52-13ecd10e6349">
+			<pilot size="2" name="Chu-i Hyun-Sil Yi" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="0c3805ac-d397-45ae-b7ad-c2652a68e01e" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="2" type="IS Ammo AC/2" shots="45"/>
+			</location>
+			<Game id="27"/>
+		</entity>
+
+		<entity chassis="Warrior Attack Helicopter" model="H-7" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="bd76cf46-735c-4ac7-85cd-5cc961b58db1">
+			<pilot size="2" name="Aida Pascal" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="9a9fe329-c363-4897-a77e-910ebf103799" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="2" type="IS Ammo AC/2" shots="45"/>
+			</location>
+			<Game id="28"/>
+		</entity>
+
+		<entity chassis="Heavy Hover APC" model="(Standard)" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="f44fb9b1-ac79-492c-8c48-7b8f4e8b465b">
+			<pilot size="2" name="Kathryn Holzknecht" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="eec8134d-8dfc-4527-92f0-5f55117ae6dc" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="31"/>
+		</entity>
+
+		<entity chassis="Heavy Hover APC" model="(Standard)" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="4e40a785-d085-43e8-afdf-6b5fa2cfdbc0">
+			<pilot size="2" name="Cacia Daugherty" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="bde17d96-2a96-4a79-85a7-086598aaa5d5" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="32"/>
+		</entity>
+
+		<entity chassis="J-37 Ordnance Transport" model="(Original)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="0f015a82-a5f6-4bc0-b31e-120c0ba29f96">
+			<pilot size="3" name="Gesang Simbolon" nick="" gender="MALE" gunnery="4" piloting="5" externalId="26518f05-c68f-4882-9d75-aacbf0500fd4" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="33"/>
+		</entity>
+
+		<entity chassis="J-37 Ordnance Transport" model="(Original)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="6997ff1c-6aa3-48b4-a4f4-d5b3390d0103">
+			<pilot size="3" name="Zahara Machupa" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="b0a8fa99-ead5-417a-9dfe-37dbc698b179" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="34"/>
+		</entity>
+
+</unit>

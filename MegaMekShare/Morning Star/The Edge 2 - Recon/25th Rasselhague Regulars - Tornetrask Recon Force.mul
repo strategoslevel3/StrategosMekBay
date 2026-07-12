@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.49.14" >
+
+		<entity chassis="Condor Heavy Hover Tank" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="06346022-b13b-4a02-8cb2-49ce2fdaafcf">
+			<pilot size="4" name="S-R Chu-i Jeff Sadozai" nick="" gender="MALE" gunnery="5" piloting="5" externalId="ce573468-074e-4da9-9b32-d9b1fc8eaac7" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo AC/5" shots="20"/>
+				<slot index="2" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="13"/>
+		</entity>
+
+		<entity chassis="Falcon Hover Tank" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="b211cfd2-befb-4f82-aac7-7d3c37c5cf38">
+			<pilot size="4" name="S-R Alissa Haavik" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="47bf133b-0f0e-478d-92e2-2220496c3626" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="14"/>
+		</entity>
+
+		<entity chassis="J. Edgar Light Hover Tank" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="2a98e0b2-80fc-4b97-aed6-8c85c30284ec">
+			<pilot size="2" name="S-R Karolina Seierstad" nick="" gender="FEMALE" gunnery="5" piloting="7" externalId="27289069-68f8-41a1-b0ca-07ea58ba6b4e" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="15"/>
+		</entity>
+
+		<entity chassis="J. Edgar Light Hover Tank" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="b752f45e-2eba-4a50-a416-c97d39036338">
+			<pilot size="2" name="S-R Edna Allen" nick="" gender="FEMALE" gunnery="6" piloting="6" externalId="1e6dbb3d-46d4-4c73-9b30-710a18d37e1c" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="16"/>
+		</entity>
+
+		<entity chassis="Stinger" model="STG-3G" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="73c900f7-c987-4d96-bf40-9dc758eb3dff">
+			<pilot size="1" name="2-3-2 Bob McMorran" nick="" gender="MALE" gunnery="2" piloting="3" externalId="28bf9976-8c98-4f9d-bb79-48e793714776" ejected="false" autoeject="false"/>
+			<Game id="178"/>
+		</entity>
+
+		<entity chassis="Wasp" model="WSP-1A" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="43fd4fc6-2752-416f-96c7-4171322f0a22">
+			<pilot size="1" name="2-3-2 Bessie Adams" nick="" gender="FEMALE" gunnery="2" piloting="3" externalId="db21fafe-9a9f-4980-89c0-60421c0afe44" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="5" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="181"/>
+		</entity>
+
+		<entity chassis="Jenner" model="JR7-D" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="c497589e-7a16-4357-b27c-c748f92a4534">
+			<pilot size="1" name="2-3-2 Alexandra bin Bahir" nick="" gender="FEMALE" gunnery="4" piloting="6" externalId="216bf16f-4335-438c-aa19-ce0e6a63491b" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="3" type="IS Ammo SRM-4" shots="25"/>
+			</location>
+			<Game id="182"/>
+		</entity>
+
+		<entity chassis="Javelin" model="JVN-10N" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="7b4920db-c978-45b6-9d36-8e0b3e302c34">
+			<pilot size="1" name="2-3-2 Chu-i Danijela van Meer" nick="" gender="FEMALE" gunnery="2" piloting="5" externalId="4847a091-639f-4c4d-b2a4-37d7ca6038cb" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="5" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="4" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="183"/>
+		</entity>
+
+</unit>

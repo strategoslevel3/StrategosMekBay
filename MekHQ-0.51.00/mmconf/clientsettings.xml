@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<MegaMekSettings>
+    <store name="ClientSettings">
+        <preference name="Locale" value="en"/>
+        <preference name="megamek.megamek.metaservername" value="https://api.megamek.org/servers/announce"/>
+        <preference name="UserDir" value="/Users/stuart/Documents/GitHub/StrategosMekBay/MegaMekShare"/>
+        <preference name="LastPlayerName" value="Strategos"/>
+        <preference name="MmlPath" value="/Users/stuart/Documents/GitHub/StrategosMekBay/MekHQ-0.51.00/MegaMekLab.jar"/>
+    </store>
+    <store name="UnitDisplayOrderPreferences"/>
+    <store name="ButtonOrderPreferences">
+        <preference name="fireFindClub" value="9"/>
+        <preference name="fireFlipArms" value="6"/>
+        <preference name="fireDisengage" value="8"/>
+        <preference name="protoPhysical" value="12"/>
+        <preference name="fireStrafe" value="12"/>
+        <preference name="fireSearchlight" value="7"/>
+        <preference name="trip" value="9"/>
+        <preference name="fireClearTurret" value="13"/>
+        <preference name="fireClearWeaponJam" value="10"/>
+        <preference name="grapple" value="10"/>
+        <preference name="jumpjet" value="11"/>
+        <preference name="fireCalled" value="14"/>
+        <preference name="fireCancel" value="9"/>
+    </store>
+    <store name="GUIPreferences">
+        <preference name="MekSelectorSizeWidth" value="1660"/>
+        <preference name="UnitDisplaySplitA1Loc" value="848"/>
+        <preference name="ShowKeybindsOverlay" value="false"/>
+        <preference name="WindowSizeWidth" value="1920"/>
+        <preference name="UnitToolTipQuirkColor" value="100 180 180"/>
+        <preference name="UnitDisplaySplitABCLoc" value="251"/>
+        <preference name="HighPerformanceGraphics" value="true"/>
+        <preference name="UnitDisplayNontabbedSizeWidth" value="1810"/>
+        <preference name="MapZoomIndex" value="3"/>
+        <preference name="MekSelectorPosY" value="202"/>
+        <preference name="MekSelectorPosX" value="187"/>
+        <preference name="PlayerListPosY" value="354"/>
+        <preference name="PlayerListPosX" value="1718"/>
+        <preference name="NagForReadme" value="false"/>
+        <preference name="MiniReportSizeHeight" value="957"/>
+        <preference name="MinimapPosX" value="2362"/>
+        <preference name="SoftCenter" value="true"/>
+        <preference name="MinimapPosY" value="40"/>
+        <preference name="MiniReportPosX" value="2345"/>
+        <preference name="ShowBombDrifts" value="true"/>
+        <preference name="UnitDisplaySplitB1Loc" value="545"/>
+        <preference name="UnitDisplayEnabled" value="false"/>
+        <preference name="MiniReportPosY" value="71"/>
+        <preference name="UnitDisplayNonTabbedSizeHeight" value="1026"/>
+        <preference name="MekSelectorSplitPos" value="646"/>
+        <preference name="AoHexShadows" value="true"/>
+        <preference name="MouseWheelZoom" value="false"/>
+        <preference name="WindowSizeHeight" value="1050"/>
+        <preference name="MiniReportSizeWidth" value="1550"/>
+        <preference name="MekSelectorRuleType" value="[0, 1, 2, 3, 4, 5, 6, 7, 8]"/>
+        <preference name="RulerPosX" value="843"/>
+        <preference name="UnitDisplaySplitC2Loc" value="545"/>
+        <preference name="RulerPosY" value="470"/>
+        <preference name="CustomUnitDialogSizeWidth" value="968"/>
+        <preference name="MekSelectorUnitType" value="0"/>
+        <preference name="ShowMapSheets" value="true"/>
+        <preference name="UnitToolTipWeaponColor" value="150 150 210"/>
+        <preference name="UnitDisplayStartTabbed" value="false"/>
+        <preference name="UnitDisplayPosX" value="2528"/>
+        <preference name="UnitDisplayPosY" value="78"/>
+        <preference name="UnitDisplayNontabbedPosY" value="30"/>
+        <preference name="SoundMuteMyTurn" value="true"/>
+        <preference name="MekSelectorSortColumn" value="2"/>
+        <preference name="MiniReportEnabled" value="false"/>
+        <preference name="WindowPosX" value="2240"/>
+        <preference name="WindowPosY" value="30"/>
+        <preference name="ShowPlanetaryConditionsOverlay" value="false"/>
+        <preference name="UnitDisplayNontabbedPosX" value="2284"/>
+        <preference name="MiniReportFontType" value=".AppleSystemUIFont"/>
+        <preference name="MinimapEnabled" value="false"/>
+        <preference name="UnitDisplaySplitBCLoc" value="10"/>
+        <preference name="PlayerListEnabled" value="false"/>
+        <preference name="MinimapZoom" value="4"/>
+        <preference name="MekSelectorSizeHeight" value="862"/>
+        <preference name="CustomUnitDialogSizeHeight" value="779"/>
+        <preference name="UnitDisplayLocation" value="1"/>
+    </store>
+</MegaMekSettings>

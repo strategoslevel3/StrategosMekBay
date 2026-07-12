@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.06" >
+
+		<entity chassis="Hunchback" model="HBK-4P" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="b23021f1-fc0d-485a-ab8b-550653e239c1" quirks="battle_fists_la::battle_fists_ra">
+			<pilot size="1" name="Sergeant Yaeko &quot;Fox&quot; Miyake" nick="Fox" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" artillery="8" portraitCat="Female/MekWarrior/" portraitFile="MW_F_78.png" externalId="53bfc1f9-e673-452e-b86d-c7b8b7d66d53" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+			<Game id="2"/>
+		</entity>
+
+		<entity chassis="Hunchback" model="HBK-4P" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="4d701f45-92eb-4873-a8e1-80f0c0cc6c84" quirks="battle_fists_la::battle_fists_ra">
+			<pilot size="1" name="Sergeant Libor &quot;Menace&quot; Bates-Strachota" nick="Menace" gender="MALE" clanperson="false" gunnery="3" piloting="5" artillery="8" portraitCat="Male/MekWarrior/" portraitFile="MW_M_87.png" externalId="9a91fbda-62c6-41ff-9c6f-2d33b415db56" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+			<Game id="9"/>
+		</entity>
+
+		<entity chassis="Thunderbolt" model="TDR-5SS" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="62f1f6cc-a398-4ef2-ab3d-9116559fe1fb" quirks="multi_trac::rugged_2::ubiquitous_is">
+			<pilot size="1" name="Lieutenant JG Misa &quot;Reset&quot; Arnold" nick="Reset" gender="FEMALE" clanperson="false" gunnery="2" piloting="4" artillery="8" portraitCat="Female/MekWarrior/" portraitFile="MW_F_21.png" externalId="ee50f9bd-fd79-43b8-ac50-1d93f3a21c25" commandB="1" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="12" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="24"/>
+		</entity>
+
+		<entity chassis="Crab" model="CRB-20" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="4a364142-7c1f-4e3f-9e6e-71eb1cb9c321" quirks="easy_maintain">
+			<pilot size="1" name="Sergeant Cheyenne &quot;Siege&quot; Isaacs" nick="Siege" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" portraitCat="Female/MekWarrior/" portraitFile="MW_F_25.png" externalId="57860942-0274-4519-bddb-04fadc2ccaec" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+			<Game id="46"/>
+		</entity>
+
+</unit>

@@ -1,0 +1,62 @@
+#Saved from version 0.50.06 on 2025-08-05
+<UnitType>
+Infantry
+</UnitType>
+
+<Name>
+Mechanized Wheeled Platoon
+</Name>
+
+<Model>
+(Rifle, Arrow IV)
+</Model>
+
+<mul id:>
+2148
+</mul id:>
+
+<year>
+2750
+</year>
+
+<originalBuildYear>
+2750
+</originalBuildYear>
+
+<type>
+IS Level 3
+</type>
+
+<role>
+Ambusher
+</role>
+
+<motion_type>
+Wheeled
+</motion_type>
+
+<Troopers Equipment>
+Generic Infantry Kit
+</Troopers Equipment>
+
+<Field Guns Equipment>
+ISArrowIV
+ISArrowIVAmmo
+</Field Guns Equipment>
+
+<source>
+Total Warfare
+</source>
+
+<squad_size>
+6
+</squad_size>
+
+<squadn>
+4
+</squadn>
+
+<Primary>
+InfantryAssaultRifle
+</Primary>
+

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.49.15" >
+
+		<entity chassis="UrbanMech" model="UM-R60" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="aa8e8f0f-1943-4085-bfcd-886796468c7c">
+			<pilot size="1" name="Elsa Caine" nick="" gender="FEMALE" gunnery="2" piloting="3" externalId="50229e2a-5c60-4fb3-a4c5-f3ed901a6a30" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="3" type="IS Ammo AC/10" shots="10"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<Game id="1"/>
+		</entity>
+
+		<entity chassis="UrbanMech" model="UM-R60L" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="ecacd36c-c611-49b0-99cf-78ad0da9040a">
+			<pilot size="1" name="Asim Stojkovic" nick="" gender="MALE" gunnery="2" piloting="2" externalId="379ddff3-74ea-420e-801e-243d00bf2c6b" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="3" type="IS Ammo AC/20" shots="5"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<Game id="2"/>
+		</entity>
+
+		<entity chassis="UrbanMech" model="UM-R63" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="c4a13397-9d13-43cf-8684-6cd7430a1d25">
+			<pilot size="1" name="Kieran Getskin" nick="" gender="MALE" gunnery="2" piloting="4" externalId="2c6c0505-2912-42d5-9430-ddb23d3996ef" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="3" type="IS LB 10-X AC Ammo" shots="10"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<Game id="3"/>
+		</entity>
+
+		<entity chassis="UrbanMech" model="UM-R68" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="fb15b16b-8776-47fd-902e-33398b103bc2">
+			<pilot size="1" name="Carlos Zavala" nick="" gender="MALE" gunnery="3" piloting="3" externalId="ca2d6e2a-055a-4a60-b880-bca3d44fe236" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="3" type="IS MRM 30 Ammo" shots="8"/>
+				<slot index="4" type="IS MRM 30 Ammo" shots="8"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<Game id="4"/>
+		</entity>
+
+		<entity chassis="UrbanMech" model="UM-R69" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="4bb3b529-4a27-4fcb-bee4-9096680b131a">
+			<pilot size="1" name="Erna Schmetzer" nick="" gender="FEMALE" gunnery="3" piloting="3" externalId="aad3df10-6daa-4ad6-9540-3ff1eb1fc240" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="3" type="IS Ultra AC/10 Ammo" shots="10"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<Game id="5"/>
+		</entity>
+
+		<entity chassis="UrbanMech" model="UM-R70" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="0a5a7f37-eecc-4982-baa7-51dc02ccdbfe">
+			<pilot size="1" name="Danja Vivo" nick="" gender="FEMALE" gunnery="3" piloting="5" externalId="d1ca0c57-8a0b-459b-989d-b5654d066437" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="3" type="ISRotaryAC5 Ammo" shots="20"/>
+				<slot index="4" type="ISRotaryAC5 Ammo" shots="20"/>
+			</location>
+			<Game id="6"/>
+		</entity>
+
+		<entity chassis="UrbanMech IIC" model="2" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="7a438e36-88b1-452b-ab1a-3d1ab89dfef3">
+			<pilot size="1" name="Zabia Kamangeni" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="f857f3f3-4c3e-48a4-8518-59052f416d02" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="3" type="Hyper-Assault Gauss Rifle/20 Ammo" shots="6"/>
+			</location>
+			<location index="4"> Right Arm
+				<slot index="9" type="Hyper-Assault Gauss Rifle/20 Ammo" shots="6"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<Game id="7"/>
+		</entity>
+
+		<entity chassis="UrbanMech IIC" model="" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="e31bdf26-18a4-4f00-ad2e-5323af83018e">
+			<pilot size="1" name="Lyle Pao" nick="" gender="MALE" gunnery="4" piloting="5" externalId="b81ce5e7-2f76-451a-bfad-ebb792b23fa9" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="3" type="Clan Ultra AC/10 Ammo" shots="10"/>
+				<slot index="4" type="Clan Ultra AC/10 Ammo" shots="10"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<Game id="8"/>
+		</entity>
+
+		<entity chassis="UrbanMech" model="UM-AIV" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="2ce9885e-b54d-42a2-a1eb-c655711cb8b7">
+			<pilot size="1" name="Hija Franciosa" nick="" gender="FEMALE" gunnery="3" piloting="4" externalId="9823da19-34f6-44e0-b292-26d745411004" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="7" type="ISArrowIVAmmo" shots="5"/>
+				<slot index="8" type="ISArrowIVHomingAmmo" shots="5"/>
+			</location>
+			<Game id="9"/>
+		</entity>
+
+		<entity chassis="UrbanMech" model="UM-R80" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="0bfe881d-8764-4fc0-b42e-0b3a487a96f8">
+			<pilot size="1" name="Ann Dallavilla" nick="" gender="FEMALE" gunnery="4" piloting="4" externalId="2ac75377-37cc-4957-a6a7-7d107c59a012" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="5"> Left Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<Game id="10"/>
+		</entity>
+
+		<entity chassis="UrbanMech" model="UM-R27" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="0405dfa7-00ae-414c-830e-8f30af9ca89e">
+			<pilot size="1" name="Bohan Jackson" nick="" gender="MALE" gunnery="3" piloting="4" externalId="03b8743a-c526-4824-98e0-1c2d522d9639" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="3" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="4" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="5" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="11"/>
+		</entity>
+
+		<entity chassis="UrbanMech" model="UM-R96" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="00e1d41d-8c5d-4879-9716-3388e5e7f2b1">
+			<pilot size="1" name="Shawn Kemp" nick="" gender="MALE" gunnery="4" piloting="5" externalId="6d4e77f1-7cf6-4d9a-ab4c-7bd84fdfd123" ejected="false" autoeject="true"/>
+			<Game id="12"/>
+		</entity>
+
+		<entity chassis="UrbanMech" model="UM-R93" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="2bcc4564-ba3e-4c48-b961-b1b12f8d4cb3">
+			<pilot size="1" name="Ralph Hamadani" nick="" gender="MALE" gunnery="4" piloting="6" externalId="c3daf521-4ead-4d28-a28c-b15db5e96bc3" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="10" type="ISPlasmaRifleAmmo" shots="10"/>
+			</location>
+			<Game id="13"/>
+		</entity>
+
+</unit>

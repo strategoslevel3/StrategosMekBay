@@ -1,0 +1,723 @@
+16:01:57,172 INFO  [mekhq.MekHQ] {main}
+mekhq.MekHQ.initializeLogging(MekHQ.java:410) - Starting MekHQ v0.51.00
+    Build Date: 2026-06-06T11:16:58.662803800
+    Today: 2026-07-12
+    Origin Project: MekHQ
+    Java Vendor: Eclipse Adoptium
+    Java Version: 21.0.11
+    Platform: Mac OS X 26.5.1 (x86_64)
+    System Locale: en_GB
+    Total memory available to MekHQ: 4 GB
+    MM Code Revision: e601296070cf8b126389c24f3022c02876a9ac88
+    MML Code Revision: 82b32de99480425261233359c932f4c8927c58c0
+    MHQ Code Revision: e08a0129915bfd3efbec875a5827cced258c9125
+
+
+16:01:58,665 INFO  [mekhq.MekHQ] {main}
+mekhq.MekHQ.main(MekHQ.java:406) - []
+
+16:02:53,708 INFO  [mekhq.campaign.finances.CurrencyManager] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.finances.CurrencyManager.registerCurrencies(CurrencyManager.java:203) - Starting load currency information from XML...
+
+16:02:53,864 INFO  [mekhq.campaign.finances.CurrencyManager] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.finances.CurrencyManager.registerCurrencies(CurrencyManager.java:296) - Load of currency information complete!
+
+16:02:54,238 INFO  [mekhq.campaign.personnel.ranks.Ranks] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.personnel.ranks.Ranks.initializeRankSystems(Ranks.java:148) - Starting Rank Systems XML load...
+
+16:02:54,471 INFO  [mekhq.campaign.personnel.ranks.Ranks] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.personnel.ranks.Ranks.initializeRankSystems(Ranks.java:186) - Completed Rank System XML Load
+
+16:02:56,012 INFO  [mekhq.campaign.universe.Factions] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Factions.loadDefault(Factions.java:201) - Starting load of faction data from XML...
+
+16:02:57,433 INFO  [mekhq.campaign.universe.Factions] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Factions.loadDefault(Factions.java:203) - Loaded a total of 415 factions
+
+16:02:57,866 INFO  [mekhq.campaign.personnel.Bloodname] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.personnel.Bloodname.loadBloodnameData(Bloodname.java:481) - Loaded 805 Bloodname records.
+
+16:02:57,870 INFO  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.loadDefault(Systems.java:306) - Starting load of system data from YAML...
+
+16:03:06,101 INFO  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.loadDefault(Systems.java:324) - Loaded a total of 4424 systems in 8.219s.
+
+16:03:06,155 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Anti-Spinward-002 <-> HWY-Spinward-040: 0.000 ly
+
+16:03:06,159 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Anti-Spinward-001 <-> HWY-Spinward-041: 0.000 ly
+
+16:03:06,163 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Anti-Spinward-006 <-> HWY-Spinward-036: 0.000 ly
+
+16:03:06,165 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Anti-Spinward-005 <-> HWY-Spinward-037: 0.000 ly
+
+16:03:06,165 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Anti-Spinward-004 <-> HWY-Spinward-038: 0.000 ly
+
+16:03:06,166 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Anti-Spinward-003 <-> HWY-Spinward-039: 0.000 ly
+
+16:03:06,166 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Anti-Spinward-009 <-> HWY-Spinward-033: 0.000 ly
+
+16:03:06,167 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Anti-Spinward-008 <-> HWY-Spinward-034: 0.000 ly
+
+16:03:06,167 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Anti-Spinward-007 <-> HWY-Spinward-035: 0.000 ly
+
+16:03:06,167 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Anti-Spinward-024 <-> HWY-Anti-Spinward-049: 0.000 ly
+
+16:03:06,167 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Anti-Spinward-023 <-> HWY-Anti-Spinward-048: 0.000 ly
+
+16:03:06,167 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Anti-Spinward-028 <-> HWY-Anti-Spinward-053: 0.000 ly
+
+16:03:06,168 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Anti-Spinward-027 <-> HWY-Anti-Spinward-052: 0.000 ly
+
+16:03:06,168 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Anti-Spinward-026 <-> HWY-Anti-Spinward-051: 0.000 ly
+
+16:03:06,168 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Anti-Spinward-025 <-> HWY-Anti-Spinward-050: 0.000 ly
+
+16:03:06,168 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Anti-Spinward-029 <-> HWY-Anti-Spinward-054: 0.000 ly
+
+16:03:06,168 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Anti-Spinward-011 <-> HWY-Spinward-031: 0.000 ly
+
+16:03:06,168 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Anti-Spinward-010 <-> HWY-Spinward-032: 0.000 ly
+
+16:03:06,169 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Rimward-015 <-> HWY-Rimward-050: 0.000 ly
+
+16:03:06,169 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Rimward-016 <-> HWY-Rimward-051: 0.000 ly
+
+16:03:06,169 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Rimward-013 <-> HWY-Rimward-048: 0.000 ly
+
+16:03:06,169 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Rimward-014 <-> HWY-Rimward-049: 0.000 ly
+
+16:03:06,169 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Rimward-011 <-> HWY-Rimward-046: 0.000 ly
+
+16:03:06,170 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Rimward-012 <-> HWY-Rimward-047: 0.000 ly
+
+16:03:06,171 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Rimward-010 <-> HWY-Rimward-045: 0.000 ly
+
+16:03:06,171 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Anti-Spinward-035 <-> HWY-Anti-Spinward-060: 0.000 ly
+
+16:03:06,171 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Anti-Spinward-034 <-> HWY-Anti-Spinward-059: 0.000 ly
+
+16:03:06,172 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Anti-Spinward-033 <-> HWY-Anti-Spinward-058: 0.000 ly
+
+16:03:06,173 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Anti-Spinward-032 <-> HWY-Anti-Spinward-057: 0.000 ly
+
+16:03:06,173 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Anti-Spinward-031 <-> HWY-Anti-Spinward-056: 0.000 ly
+
+16:03:06,173 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Anti-Spinward-030 <-> HWY-Anti-Spinward-055: 0.000 ly
+
+16:03:06,173 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Rimward-002 <-> HWY-Rimward-026: 0.000 ly
+
+16:03:06,173 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Rimward-001 <-> HWY-Rimward-025: 0.000 ly
+
+16:03:06,174 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Spinward-011 <-> HWY-Anti-Spinward-034: 0.000 ly
+
+16:03:06,174 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Spinward-012 <-> HWY-Anti-Spinward-033: 0.000 ly
+
+16:03:06,174 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Spinward-013 <-> HWY-Anti-Spinward-032: 0.000 ly
+
+16:03:06,174 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Spinward-014 <-> HWY-Anti-Spinward-031: 0.000 ly
+
+16:03:06,174 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Spinward-015 <-> HWY-Anti-Spinward-030: 0.000 ly
+
+16:03:06,174 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Spinward-016 <-> HWY-Anti-Spinward-029: 0.000 ly
+
+16:03:06,174 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Spinward-017 <-> HWY-Anti-Spinward-028: 0.000 ly
+
+16:03:06,175 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Spinward-024 <-> HWY-Anti-Spinward-081: 0.000 ly
+
+16:03:06,175 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Spinward-025 <-> HWY-Anti-Spinward-080: 0.000 ly
+
+16:03:06,175 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Spinward-026 <-> HWY-Anti-Spinward-079: 0.000 ly
+
+16:03:06,176 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Spinward-027 <-> HWY-Anti-Spinward-078: 0.000 ly
+
+16:03:06,176 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Spinward-028 <-> HWY-Anti-Spinward-077: 0.000 ly
+
+16:03:06,177 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-026 <-> LTR-Rimward-002: 0.000 ly
+
+16:03:06,177 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-025 <-> LTR-Rimward-001: 0.000 ly
+
+16:03:06,177 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-063 <-> LTR-Coreward-009: 0.000 ly
+
+16:03:06,178 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-062 <-> LTR-Coreward-010: 0.000 ly
+
+16:03:06,178 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-061 <-> LTR-Coreward-011: 0.000 ly
+
+16:03:06,179 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-060 <-> LTR-Coreward-012: 0.000 ly
+
+16:03:06,179 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-064 <-> LTR-Coreward-008: 0.000 ly
+
+16:03:06,179 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-052 <-> LTR-Coreward-007: 0.000 ly
+
+16:03:06,179 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-051 <-> LTR-Rimward-016: 0.000 ly
+
+16:03:06,179 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-050 <-> LTR-Rimward-015: 0.000 ly
+
+16:03:06,179 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-059 <-> LTR-Coreward-013: 0.000 ly
+
+16:03:06,179 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-058 <-> LTR-Coreward-001: 0.000 ly
+
+16:03:06,180 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-057 <-> LTR-Coreward-002: 0.000 ly
+
+16:03:06,180 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-056 <-> LTR-Coreward-003: 0.000 ly
+
+16:03:06,180 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-055 <-> LTR-Coreward-004: 0.000 ly
+
+16:03:06,180 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-054 <-> LTR-Coreward-005: 0.000 ly
+
+16:03:06,180 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-053 <-> LTR-Coreward-006: 0.000 ly
+
+16:03:06,181 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-049 <-> LTR-Rimward-014: 0.000 ly
+
+16:03:06,181 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-048 <-> LTR-Rimward-013: 0.000 ly
+
+16:03:06,181 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-047 <-> LTR-Rimward-012: 0.000 ly
+
+16:03:06,181 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-046 <-> LTR-Rimward-011: 0.000 ly
+
+16:03:06,181 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-045 <-> LTR-Rimward-010: 0.000 ly
+
+16:03:06,183 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-048 <-> LTR-Anti-Spinward-023: 0.000 ly
+
+16:03:06,183 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-049 <-> LTR-Anti-Spinward-024: 0.000 ly
+
+16:03:06,183 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-051 <-> LTR-Anti-Spinward-026: 0.000 ly
+
+16:03:06,183 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-050 <-> LTR-Anti-Spinward-025: 0.000 ly
+
+16:03:06,184 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-053 <-> LTR-Anti-Spinward-028: 0.000 ly
+
+16:03:06,185 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-052 <-> LTR-Anti-Spinward-027: 0.000 ly
+
+16:03:06,186 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-059 <-> LTR-Anti-Spinward-034: 0.000 ly
+
+16:03:06,187 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-058 <-> LTR-Anti-Spinward-033: 0.000 ly
+
+16:03:06,187 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-055 <-> LTR-Anti-Spinward-030: 0.000 ly
+
+16:03:06,187 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-054 <-> LTR-Anti-Spinward-029: 0.000 ly
+
+16:03:06,187 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-057 <-> LTR-Anti-Spinward-032: 0.000 ly
+
+16:03:06,188 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-056 <-> LTR-Anti-Spinward-031: 0.000 ly
+
+16:03:06,188 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-029 <-> LTR-Spinward-016: 0.000 ly
+
+16:03:06,189 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-028 <-> LTR-Spinward-017: 0.000 ly
+
+16:03:06,189 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-031 <-> LTR-Spinward-014: 0.000 ly
+
+16:03:06,189 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-030 <-> LTR-Spinward-015: 0.000 ly
+
+16:03:06,189 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-033 <-> LTR-Spinward-012: 0.000 ly
+
+16:03:06,189 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-032 <-> LTR-Spinward-013: 0.000 ly
+
+16:03:06,189 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-034 <-> LTR-Spinward-011: 0.000 ly
+
+16:03:06,189 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-080 <-> LTR-Spinward-025: 0.000 ly
+
+16:03:06,190 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-081 <-> LTR-Spinward-024: 0.000 ly
+
+16:03:06,193 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-060 <-> LTR-Anti-Spinward-035: 0.000 ly
+
+16:03:06,194 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-077 <-> LTR-Spinward-028: 0.000 ly
+
+16:03:06,194 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-079 <-> LTR-Spinward-026: 0.000 ly
+
+16:03:06,194 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Anti-Spinward-078 <-> LTR-Spinward-027: 0.000 ly
+
+16:03:06,195 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Rimward-Spinward-010 <-> HWY-Rimward-Spinward-070: 0.000 ly
+
+16:03:06,196 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Rimward-Spinward-011 <-> HWY-Rimward-Spinward-071: 0.000 ly
+
+16:03:06,196 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Rimward-Spinward-009 <-> HWY-Rimward-Spinward-069: 0.000 ly
+
+16:03:06,196 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Rimward-Spinward-016 <-> HWY-Rimward-Spinward-076: 0.000 ly
+
+16:03:06,196 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Rimward-Spinward-012 <-> HWY-Rimward-Spinward-072: 0.000 ly
+
+16:03:06,197 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Rimward-Spinward-013 <-> HWY-Rimward-Spinward-073: 0.000 ly
+
+16:03:06,197 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Rimward-Spinward-014 <-> HWY-Rimward-Spinward-074: 0.000 ly
+
+16:03:06,198 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Rimward-Spinward-015 <-> HWY-Rimward-Spinward-075: 0.000 ly
+
+16:03:06,200 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Coreward-Spinward-065 <-> LTR-Coreward-Spinward-030: 0.000 ly
+
+16:03:06,201 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Coreward-Spinward-064 <-> LTR-Coreward-Spinward-029: 0.000 ly
+
+16:03:06,201 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Coreward-Spinward-063 <-> LTR-Coreward-Spinward-028: 0.000 ly
+
+16:03:06,201 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Coreward-Spinward-062 <-> LTR-Coreward-Spinward-027: 0.000 ly
+
+16:03:06,201 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Coreward-Spinward-061 <-> LTR-Coreward-Spinward-026: 0.000 ly
+
+16:03:06,201 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Coreward-Spinward-060 <-> LTR-Coreward-Spinward-025: 0.000 ly
+
+16:03:06,202 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Coreward-Spinward-067 <-> LTR-Coreward-Spinward-032: 0.000 ly
+
+16:03:06,202 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Coreward-Spinward-066 <-> LTR-Coreward-Spinward-031: 0.000 ly
+
+16:03:06,206 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-Anti-Spinward-040 <-> LTR-Coreward-Spinward-001: 0.000 ly
+
+16:03:06,210 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-Anti-Spinward-036 <-> LTR-Coreward-Spinward-005: 0.000 ly
+
+16:03:06,210 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-Anti-Spinward-035 <-> LTR-Coreward-Spinward-006: 0.000 ly
+
+16:03:06,210 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-Anti-Spinward-038 <-> LTR-Coreward-Spinward-003: 0.000 ly
+
+16:03:06,210 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-Anti-Spinward-037 <-> LTR-Coreward-Spinward-004: 0.000 ly
+
+16:03:06,211 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-Anti-Spinward-039 <-> LTR-Coreward-Spinward-002: 0.000 ly
+
+16:03:06,211 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-Anti-Spinward-030 <-> LTR-Coreward-Spinward-011: 0.000 ly
+
+16:03:06,211 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-Anti-Spinward-032 <-> LTR-Coreward-Spinward-009: 0.000 ly
+
+16:03:06,212 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-Anti-Spinward-031 <-> LTR-Coreward-Spinward-010: 0.000 ly
+
+16:03:06,212 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-Anti-Spinward-034 <-> LTR-Coreward-Spinward-007: 0.000 ly
+
+16:03:06,212 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-Anti-Spinward-033 <-> LTR-Coreward-Spinward-008: 0.000 ly
+
+16:03:06,214 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Spinward-039 <-> LTR-Anti-Spinward-003: 0.000 ly
+
+16:03:06,215 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Spinward-038 <-> LTR-Anti-Spinward-004: 0.000 ly
+
+16:03:06,215 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Spinward-037 <-> LTR-Anti-Spinward-005: 0.000 ly
+
+16:03:06,215 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Spinward-036 <-> LTR-Anti-Spinward-006: 0.000 ly
+
+16:03:06,215 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Spinward-035 <-> LTR-Anti-Spinward-007: 0.000 ly
+
+16:03:06,215 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Spinward-034 <-> LTR-Anti-Spinward-008: 0.000 ly
+
+16:03:06,215 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Spinward-033 <-> LTR-Anti-Spinward-009: 0.000 ly
+
+16:03:06,216 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Spinward-032 <-> LTR-Anti-Spinward-010: 0.000 ly
+
+16:03:06,216 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Spinward-031 <-> LTR-Anti-Spinward-011: 0.000 ly
+
+16:03:06,217 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Spinward-041 <-> LTR-Anti-Spinward-001: 0.000 ly
+
+16:03:06,217 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Spinward-040 <-> LTR-Anti-Spinward-002: 0.000 ly
+
+16:03:06,218 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-Spinward-072 <-> LTR-Rimward-Spinward-012: 0.000 ly
+
+16:03:06,218 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-Spinward-073 <-> LTR-Rimward-Spinward-013: 0.000 ly
+
+16:03:06,218 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-Spinward-070 <-> LTR-Rimward-Spinward-010: 0.000 ly
+
+16:03:06,218 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-Spinward-071 <-> LTR-Rimward-Spinward-011: 0.000 ly
+
+16:03:06,218 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-Spinward-076 <-> LTR-Rimward-Spinward-016: 0.000 ly
+
+16:03:06,218 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-Spinward-074 <-> LTR-Rimward-Spinward-014: 0.000 ly
+
+16:03:06,219 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-Spinward-075 <-> LTR-Rimward-Spinward-015: 0.000 ly
+
+16:03:06,219 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? HWY-Rimward-Spinward-069 <-> LTR-Rimward-Spinward-009: 0.000 ly
+
+16:03:06,222 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-Spinward-011 <-> HWY-Rimward-Anti-Spinward-030: 0.000 ly
+
+16:03:06,222 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-Spinward-010 <-> HWY-Rimward-Anti-Spinward-031: 0.000 ly
+
+16:03:06,222 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-Spinward-001 <-> HWY-Rimward-Anti-Spinward-040: 0.000 ly
+
+16:03:06,222 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-Spinward-003 <-> HWY-Rimward-Anti-Spinward-038: 0.000 ly
+
+16:03:06,222 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-Spinward-002 <-> HWY-Rimward-Anti-Spinward-039: 0.000 ly
+
+16:03:06,222 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-Spinward-005 <-> HWY-Rimward-Anti-Spinward-036: 0.000 ly
+
+16:03:06,223 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-Spinward-004 <-> HWY-Rimward-Anti-Spinward-037: 0.000 ly
+
+16:03:06,223 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-Spinward-007 <-> HWY-Rimward-Anti-Spinward-034: 0.000 ly
+
+16:03:06,223 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-Spinward-006 <-> HWY-Rimward-Anti-Spinward-035: 0.000 ly
+
+16:03:06,223 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-Spinward-009 <-> HWY-Rimward-Anti-Spinward-032: 0.000 ly
+
+16:03:06,223 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-Spinward-008 <-> HWY-Rimward-Anti-Spinward-033: 0.000 ly
+
+16:03:06,223 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-001 <-> HWY-Rimward-058: 0.000 ly
+
+16:03:06,223 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-002 <-> HWY-Rimward-057: 0.000 ly
+
+16:03:06,223 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-005 <-> HWY-Rimward-054: 0.000 ly
+
+16:03:06,223 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-006 <-> HWY-Rimward-053: 0.000 ly
+
+16:03:06,223 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-003 <-> HWY-Rimward-056: 0.000 ly
+
+16:03:06,223 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-004 <-> HWY-Rimward-055: 0.000 ly
+
+16:03:06,224 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-009 <-> HWY-Rimward-063: 0.000 ly
+
+16:03:06,224 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-007 <-> HWY-Rimward-052: 0.000 ly
+
+16:03:06,224 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-008 <-> HWY-Rimward-064: 0.000 ly
+
+16:03:06,224 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-012 <-> HWY-Rimward-060: 0.000 ly
+
+16:03:06,224 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-013 <-> HWY-Rimward-059: 0.000 ly
+
+16:03:06,224 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-010 <-> HWY-Rimward-062: 0.000 ly
+
+16:03:06,224 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-011 <-> HWY-Rimward-061: 0.000 ly
+
+16:03:06,225 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-Spinward-030 <-> HWY-Coreward-Spinward-065: 0.000 ly
+
+16:03:06,225 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-Spinward-032 <-> HWY-Coreward-Spinward-067: 0.000 ly
+
+16:03:06,225 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-Spinward-031 <-> HWY-Coreward-Spinward-066: 0.000 ly
+
+16:03:06,225 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-Spinward-025 <-> HWY-Coreward-Spinward-060: 0.000 ly
+
+16:03:06,225 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-Spinward-027 <-> HWY-Coreward-Spinward-062: 0.000 ly
+
+16:03:06,225 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-Spinward-026 <-> HWY-Coreward-Spinward-061: 0.000 ly
+
+16:03:06,225 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-Spinward-029 <-> HWY-Coreward-Spinward-064: 0.000 ly
+
+16:03:06,225 WARN  [mekhq.campaign.universe.Systems] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.universe.Systems.logVeryCloseSystems(Systems.java:491) - Extremely close systems detected. Data error? LTR-Coreward-Spinward-028 <-> HWY-Coreward-Spinward-063: 0.000 ly
+
+16:03:06,633 INFO  [mekhq.gui.dialog.DataLoadingDialog] {SwingWorker-pool-2-thread-1}
+mekhq.gui.dialog.DataLoadingDialog$Task.doInBackground(DataLoadingDialog.java:448) - Loading campaign file from XML file /Users/stuart/Documents/GitHub/StrategosMekBay/MegaMekShare/Morning Star/Manxiome Industries/Scenario 4 Defend Manxiome/Morning Star Assault Group30330102.cpnx.gz
+
+16:03:06,648 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.parse(CampaignXmlParser.java:183) - Starting load of campaign file from XML...
+
+16:03:11,291 INFO  [mekhq.campaign.personnel.death.RandomDeath] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.personnel.death.RandomDeath.initializeCausesFromFile(RandomDeath.java:200) - Parsing Random Death Causes from 0.49.08-origin XML
+
+16:03:11,500 WARN  [mekhq.campaign.personnel.death.RandomDeath] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.personnel.death.RandomDeath.initializeCausesFromFile(RandomDeath.java:190) - File does not exist: userdata/data/universe/randomDeathCauses.xml
+
+16:03:12,008 INFO  [mekhq.utilities.MHQXMLUtility] {SwingWorker-pool-2-thread-1}
+mekhq.utilities.MHQXMLUtility.parseDocument(MHQXMLUtility.java:664) - Parsed XML document (189901 nodes)
+
+16:03:12,036 INFO  [mekhq.gui.dialog.MilestoneUpgradePathDialog] {SwingWorker-pool-2-thread-1}
+mekhq.gui.dialog.MilestoneUpgradePathDialog.<init>(MilestoneUpgradePathDialog.java:88) - No upgrade path found for campaign Citation Needed
+
+16:03:12,067 INFO  [mekhq.campaign.market.personnelMarket.markets.NewPersonnelMarket] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.market.personnelMarket.markets.NewPersonnelMarket.generatePersonnelMarketDataFromXML(NewPersonnelMarket.java:160) - Loading Personnel Market Nodes from XML...
+
+16:03:12,308 INFO  [mekhq.campaign.market.personnelMarket.markets.NewPersonnelMarket] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.market.personnelMarket.markets.NewPersonnelMarket.processRarePersonnelNodes(NewPersonnelMarket.java:1268) - Loading Rare Personnel Nodes from XML...
+
+16:03:12,309 INFO  [mekhq.campaign.market.personnelMarket.markets.NewPersonnelMarket] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.market.personnelMarket.markets.NewPersonnelMarket.processRarePersonnelNodes(NewPersonnelMarket.java:1288) - Load Rare Personnel Nodes Complete!
+
+16:03:12,309 INFO  [mekhq.campaign.market.personnelMarket.markets.NewPersonnelMarket] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.market.personnelMarket.markets.NewPersonnelMarket.processRareProfessionNodes(NewPersonnelMarket.java:1241) - Loading Rare Profession Nodes from XML...
+
+16:03:12,309 INFO  [mekhq.campaign.market.personnelMarket.markets.NewPersonnelMarket] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.market.personnelMarket.markets.NewPersonnelMarket.processRareProfessionNodes(NewPersonnelMarket.java:1264) - Load Rare Profession Nodes Complete!
+
+16:03:12,310 INFO  [mekhq.campaign.market.personnelMarket.markets.NewPersonnelMarket] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.market.personnelMarket.markets.NewPersonnelMarket.processApplicantNodes(NewPersonnelMarket.java:1195) - Loading Applicant Nodes from XML...
+
+16:03:12,735 INFO  [mekhq.campaign.market.personnelMarket.markets.NewPersonnelMarket] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.market.personnelMarket.markets.NewPersonnelMarket.processApplicantNodes(NewPersonnelMarket.java:1220) - Load Applicant Nodes Complete!
+
+16:03:12,759 INFO  [mekhq.campaign.campaignOptions.CampaignOptionsUnmarshaller] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.campaignOptions.CampaignOptionsUnmarshaller.generateCampaignOptionsFromXml(CampaignOptionsUnmarshaller.java:71) - Loading Campaign Options from Version 0.51.00 XML...
+
+16:03:12,772 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.checkUnits(CampaignXmlParser.java:1929) - Checking for missing entities...
+
+16:03:13,011 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.checkUnits(CampaignXmlParser.java:1966) - Finished checking for missing entities!
+
+16:03:13,012 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.processUnitNodes(CampaignXmlParser.java:1981) - Loading Unit Nodes from XML...
+
+16:03:14,078 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.processUnitNodes(CampaignXmlParser.java:2006) - Load Unit Nodes Complete!
+
+16:03:14,078 INFO  [mekhq.campaign.HumanResources] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.HumanResources.loadFromXML(HumanResources.java:2509) - Loading HumanResources from XML...
+
+16:03:15,570 INFO  [mekhq.campaign.HumanResources] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.HumanResources.parsePersonnelWhoAdvancedInXP(HumanResources.java:2592) - Loading personnelWhoAdvancedInXP Nodes from XML...
+
+16:03:15,614 WARN  [mekhq.module.PluginManager] {SwingWorker-pool-2-thread-1}
+mekhq.module.PluginManager.<init>(PluginManager.java:72) - Could not find plugin directory
+
+16:03:15,615 WARN  [mekhq.module.PluginManager] {SwingWorker-pool-2-thread-1}
+mekhq.module.PluginManager.<init>(PluginManager.java:79) - Could not find plugin directory.
+
+16:03:15,704 INFO  [mekhq.campaign.HumanResources] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.HumanResources.loadFromXML(HumanResources.java:2551) - Load HumanResources from XML complete.
+
+16:03:15,705 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.processMissionNodes(CampaignXmlParser.java:1893) - Loading Mission Nodes from XML...
+
+16:03:16,416 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.processMissionNodes(CampaignXmlParser.java:1925) - Load Mission Nodes Complete!
+
+16:03:16,430 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.processFormations(CampaignXmlParser.java:1471) - Loading Formation Organization from XML...
+
+16:03:16,451 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.processFormations(CampaignXmlParser.java:1505) - Load of Formation Organization complete!
+
+16:03:16,451 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.processFinances(CampaignXmlParser.java:1422) - Loading Finances from XML...
+
+16:03:16,460 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.processFinances(CampaignXmlParser.java:1424) - Load of Finances complete!
+
+16:03:16,461 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.processKillNodes(CampaignXmlParser.java:1761) - Loading Kill Nodes from XML...
+
+16:03:16,473 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.processKillNodes(CampaignXmlParser.java:1785) - Load Kill Nodes Complete!
+
+16:03:16,473 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.processSkillTypeNodes(CampaignXmlParser.java:1611) - Loading Skill Type Nodes from XML...
+
+16:03:16,476 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.processSkillTypeNodes(CampaignXmlParser.java:1637) - Load Skill Type Nodes Complete!
+
+16:03:16,476 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.processSpecialAbilityNodes(CampaignXmlParser.java:1730) - Loading Special Ability Nodes from XML...
+
+16:03:16,488 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.processSpecialAbilityNodes(CampaignXmlParser.java:1757) - Load Special Ability Nodes Complete!
+
+16:03:16,488 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.processPartNodes(CampaignXmlParser.java:2010) - Loading Part Nodes from XML...
+
+16:03:16,705 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.processPartNodes(CampaignXmlParser.java:2038) - Load Part Nodes Complete!
+
+16:03:16,723 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.processAutomatedMothballNodes(CampaignXmlParser.java:1699) - Loading Automated Mothball Nodes from XML...
+
+16:03:16,724 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.processAutomatedMothballNodes(CampaignXmlParser.java:1725) - Load Automated Mothball Nodes Complete!
+
+16:03:16,733 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.parse(CampaignXmlParser.java:456) - [Campaign Load] Force IDs set in 1ms
+
+16:03:16,784 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.parse(CampaignXmlParser.java:463) - [Campaign Load] Parts processed in 51ms
+
+16:03:16,784 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.parse(CampaignXmlParser.java:466) - [Campaign Load] Rank references fixed in 0ms
+
+16:03:16,850 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.parse(CampaignXmlParser.java:520) - [Campaign Load] Pilot references fixed in 66ms
+
+16:03:17,586 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.parse(CampaignXmlParser.java:594) - [Campaign Load] C3 networks refreshed in 720ms
+
+16:03:17,802 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.parse(CampaignXmlParser.java:630) - [Campaign Load] Units initialized in 189ms
+
+16:03:17,803 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.parse(CampaignXmlParser.java:637) - [Campaign Load] Personnel initialized in 1ms
+
+16:03:17,945 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.parse(CampaignXmlParser.java:642) - [Campaign Load] News loaded in 142ms
+
+16:03:17,975 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.parse(CampaignXmlParser.java:681) - [Campaign Load] Ammo bins cleared in 30ms
+
+16:03:17,976 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.parse(CampaignXmlParser.java:695) - [Campaign Load] Reserved refit parts fixed in 1ms
+
+16:03:18,004 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.parse(CampaignXmlParser.java:724) - [Campaign Load] Warehouse cleaned up in 28ms
+
+16:03:18,018 INFO  [mekhq.campaign.personnel.death.RandomDeath] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.personnel.death.RandomDeath.initializeCausesFromFile(RandomDeath.java:200) - Parsing Random Death Causes from 0.49.08-origin XML
+
+16:03:18,021 WARN  [mekhq.campaign.personnel.death.RandomDeath] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.personnel.death.RandomDeath.initializeCausesFromFile(RandomDeath.java:190) - File does not exist: userdata/data/universe/randomDeathCauses.xml
+
+16:03:18,022 INFO  [mekhq.campaign.io.CampaignXmlParser] {SwingWorker-pool-2-thread-1}
+mekhq.campaign.io.CampaignXmlParser.parse(CampaignXmlParser.java:750) - Load of campaign file complete!
+
+16:03:23,505 INFO  [mekhq.gui.MekLabTab] {AWT-EventQueue-0}
+mekhq.gui.MekLabTab.initTab(MekLabTab.java:161) - Starting MegaMekLab version: 0.51.00
+
+16:03:24,114 INFO  [mekhq.campaign.universe.factionHints.FactionHints] {AWT-EventQueue-0}
+mekhq.campaign.universe.factionHints.FactionHints.loadFactionHints(FactionHints.java:522) - Starting load of faction hint data from XML...
+
+16:03:24,366 INFO  [mekhq.campaign.mission.AtBDynamicScenarioFactory] {AWT-EventQueue-0}
+mekhq.campaign.mission.AtBDynamicScenarioFactory.getBVBudgetForStratConSingles(AtBDynamicScenarioFactory.java:3617) - Using StratCon Singles: BV budget of all Combat Teams 39272 from 16 forces
+

@@ -1,0 +1,61 @@
+#Saved from version 0.50.04 on 2025-04-21
+<UnitType>
+Infantry
+</UnitType>
+
+<Name>
+Foot Platoon
+</Name>
+
+<Model>
+(LCAF Heavy Rifle)
+</Model>
+
+<year>
+3086
+</year>
+
+<originalBuildYear>
+3086
+</originalBuildYear>
+
+<type>
+IS Level 4
+</type>
+
+<role>
+Ambusher
+</role>
+
+<motion_type>
+Leg
+</motion_type>
+
+<Troopers Equipment>
+Lyran Alliance/Lyran Commonwealth (3060+) Infantry Kit
+AntiMekGear
+</Troopers Equipment>
+
+<Field Guns Equipment>
+</Field Guns Equipment>
+
+<squad_size>
+7
+</squad_size>
+
+<squadn>
+4
+</squadn>
+
+<secondn>
+2
+</secondn>
+
+<Primary>
+InfantryFederatedBarrettM42B
+</Primary>
+
+<Secondary>
+InfantryFederatedBarrettM42BInferno
+</Secondary>
+

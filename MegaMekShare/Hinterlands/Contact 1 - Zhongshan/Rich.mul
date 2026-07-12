@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.02" >
+
+		<entity chassis="Black Hawk (Nova)" model="S" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="false" externalId="d71cf06f-58c8-488d-ac89-39d903ab92e8" quirks="combat_computer::low_profile" camoCategory="Draconis Combine/DEST/" camoFileName="Red Hunters.jpg" camoRotation="0" camoScale="10">
+			<pilot size="1" name="Corporal Kage &quot;Zetsubo&quot; Ha Omi" nick="Zetsubo" gender="MALE" clanperson="false" gunnery="3" piloting="4" artillery="8" portraitCat="Custom/" portraitFile="Shado.png" externalId="bbd4300c-d54f-495c-b3fb-879221d1c53d" commandB="2" ejected="false" edge="edge 3::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<armor points="22"/>
+				<armor points="0" type="Rear"/>
+			</location>
+			<location index="2"> Right Torso
+				<armor points="13"/>
+				<armor points="7" type="Internal"/>
+				<armor points="Destroyed" type="Rear"/>
+				<slot index="3" type="CLDoubleHeatSink" isHit="true" isDestroyed="true"/>
+				<slot index="9" type="CLAMS Ammo" shots="23"/>
+			</location>
+			<location index="3"> Left Torso
+				<armor points="11"/>
+				<slot index="9" type="Clan Machine Gun Ammo - Half" shots="72"/>
+			</location>
+			<location index="4"> Right Arm
+				<armor points="13"/>
+			</location>
+			<location index="6"> Right Leg
+				<armor points="12"/>
+			</location>
+			<location index="7"> Left Leg
+				<armor points="5"/>
+			</location>
+			<Game id="2"/>
+		</entity>
+
+		<entity chassis="Spider" model="SDR-8X" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="false" externalId="7171da2d-284d-4bba-bd46-9e58916f31f4" quirks="easy_maintain::nimble_jumper::no_eject" camoCategory="-- Colour Camo --" camoFileName="GRAY" camoRotation="0" camoScale="10">
+			<pilot size="1" name="Corporal Yoshiro Takamotoi" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="4" artillery="8" portraitCat="Male/MekWarrior/" portraitFile="MW_M_26.png" externalId="ba9143f6-ac5f-4db4-98f5-3a2073d83dd0" commandB="2" ejected="false" edge="edge 3::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="false"/>
+			<location index="3"> Left Torso
+				<armor points="5"/>
+			</location>
+			<location index="5"> Left Arm
+				<armor points="5"/>
+			</location>
+			<location index="6"> Right Leg
+				<armor points="6"/>
+			</location>
+			<location index="7"> Left Leg
+				<armor points="7"/>
+			</location>
+			<Game id="6"/>
+		</entity>
+
+</unit>

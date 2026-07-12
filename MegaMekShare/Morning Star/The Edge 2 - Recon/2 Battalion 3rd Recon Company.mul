@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.49.14" >
+
+		<entity chassis="Stinger" model="STG-3G" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="73c900f7-c987-4d96-bf40-9dc758eb3dff">
+			<pilot size="1" name="2-3 Bob McMorran" nick="" gender="MALE" gunnery="2" piloting="3" externalId="28bf9976-8c98-4f9d-bb79-48e793714776" ejected="false" autoeject="false"/>
+			<Game id="178"/>
+		</entity>
+
+		<entity chassis="Panther" model="PNT-9R" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="156c24da-c07d-4783-857e-88c47f60fe86">
+			<pilot size="1" name="2-3 Tai-i Arnaud Leclerc" nick="" gender="MALE" gunnery="2" piloting="3" externalId="242a1465-6899-42d5-a9ee-e6e5d730f3ac" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="5" type="IS Ammo SRM-4" shots="25"/>
+			</location>
+			<Game id="179"/>
+		</entity>
+
+		<entity chassis="Panther" model="PNT-9R" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="e691b96d-b804-4045-b8c3-163990550d8d">
+			<pilot size="1" name="2-3 Cliff Joly" nick="" gender="MALE" gunnery="4" piloting="5" externalId="aad6197f-a214-47d1-804a-1ba102ccfe97" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="5" type="IS Ammo SRM-4" shots="25"/>
+			</location>
+			<Game id="180"/>
+		</entity>
+
+		<entity chassis="Wasp" model="WSP-1A" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="43fd4fc6-2752-416f-96c7-4171322f0a22">
+			<pilot size="1" name="2-3 Bessie Adams" nick="" gender="FEMALE" gunnery="2" piloting="3" externalId="db21fafe-9a9f-4980-89c0-60421c0afe44" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="5" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="181"/>
+		</entity>
+
+		<entity chassis="Jenner" model="JR7-D" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="c497589e-7a16-4357-b27c-c748f92a4534">
+			<pilot size="1" name="2-3 Alexandra bin Bahir" nick="" gender="FEMALE" gunnery="4" piloting="6" externalId="216bf16f-4335-438c-aa19-ce0e6a63491b" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="3" type="IS Ammo SRM-4" shots="25"/>
+			</location>
+			<Game id="182"/>
+		</entity>
+
+		<entity chassis="Javelin" model="JVN-10N" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="7b4920db-c978-45b6-9d36-8e0b3e302c34">
+			<pilot size="1" name="2-3 Chu-i Danijela van Meer" nick="" gender="FEMALE" gunnery="2" piloting="5" externalId="4847a091-639f-4c4d-b2a4-37d7ca6038cb" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="5" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="4" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="183"/>
+		</entity>
+
+		<entity chassis="Wasp" model="WSP-1K" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="6eec56e1-c42b-4d7b-9f92-2f7742cbb10c">
+			<pilot size="1" name="2-3 Eleanor Pangalos" nick="" gender="FEMALE" gunnery="3" piloting="5" externalId="fec7c0d9-ac13-4136-a6f5-e6c935118c95" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="5" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="184"/>
+		</entity>
+
+		<entity chassis="Panther" model="PNT-9R" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="2bf69059-7876-4379-af96-858205e5699b">
+			<pilot size="1" name="2-3 Callum Carr" nick="" gender="MALE" gunnery="4" piloting="6" externalId="2484bb7c-7846-4a0b-965a-042405e9b78f" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="5" type="IS Ammo SRM-4" shots="25"/>
+			</location>
+			<Game id="185"/>
+		</entity>
+
+		<entity chassis="Locust" model="LCT-1V" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="5d97af0c-0879-4ee3-bebf-ab09384fc208">
+			<pilot size="1" name="2-3 Sandy Collins" nick="" gender="MALE" gunnery="4" piloting="5" externalId="c6c1e36e-518e-4636-bdda-2f419360ba68" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="12" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<location index="4"> Right Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<Game id="186"/>
+		</entity>
+
+		<entity chassis="Stinger LAM" model="STG-A5" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="05c7de58-96c9-470a-9f5c-9fb202617038">
+			<pilot size="1" name="2-3 Chu-i Plinio Baslio" nick="" gender="MALE" gunnery="4" piloting="5" gunneryAero="4" pilotingAero="5" externalId="d7599c8e-329f-4fe5-bf76-cbd12828356c" ejected="false" autoeject="false"/>
+			<fuel left="80"/>
+			<bombs>
+			</bombs>
+			<Game id="187"/>
+		</entity>
+
+		<entity chassis="Wasp" model="WSP-1A" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="314aff0a-0504-4084-8e35-85f022b3b43a">
+			<pilot size="1" name="2-3 Bonnie Tjemsland" nick="" gender="FEMALE" gunnery="4" piloting="6" externalId="4e96786d-e3dc-4b69-b8f8-ad451118e509" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="5" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="188"/>
+		</entity>
+
+		<entity chassis="Panther" model="PNT-9R" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="fa43629d-525b-4e51-aad9-beb7e26978b5">
+			<pilot size="1" name="2-3 Eytan Wolflin" nick="" gender="MALE" gunnery="4" piloting="6" externalId="15d26568-0761-43b5-84f9-5a806ff7c73d" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="5" type="IS Ammo SRM-4" shots="25"/>
+			</location>
+			<Game id="189"/>
+		</entity>
+
+</unit>

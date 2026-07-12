@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.51.00" >
+
+		<entity chassis="Strike Falcon Attack VTOL" model="" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="0" externalId="c1ac7bdf-b1a4-40ff-93c8-0a9f23ad280f" quirks="easy_pilot::obsolete 2510">
+			<pilot size="8" name="Sergeant Gheorghita &quot;Toad&quot; Zhou" nick="Toad" gender="FEMALE" clanperson="false" gunnery="5" piloting="3" artillery="8" portraitCat="Female/Vehicle Crew/VTOL/" portraitFile="VTOL_F_11.png" externalId="7a09286c-00d1-4613-b18f-876f36befb02" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="2" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="3" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="12"/>
+		</entity>
+
+		<entity chassis="Strike Falcon Attack VTOL" model="" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="0" externalId="9c89a9e5-6b90-4861-8e9e-caa47975ca62" quirks="easy_pilot::obsolete 2510">
+			<pilot size="9" name="Sergeant Widdad &quot;Fang&quot; Voneve" nick="Fang" gender="FEMALE" clanperson="false" gunnery="5" piloting="6" artillery="8" portraitCat="Female/Vehicle Crew/VTOL/" portraitFile="VTOL_F_12.png" externalId="aa7cb27e-ec1e-4cdf-9eab-0f7d4854cba4" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="2" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="3" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="13"/>
+		</entity>
+
+		<entity chassis="Maxim Heavy Hover Transport" model="(SRM4)" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="cd6eecdf-9429-46ff-b112-bb578f498a35">
+			<pilot size="8" name="Lieutenant JG Naoko &quot;Origin&quot; Fountain" nick="Origin" gender="FEMALE" clanperson="false" gunnery="3" piloting="6" artillery="8" portraitCat="Female/Vehicle Crew/Ground/" portraitFile="VeeDrvr_F_9.png" externalId="9fb658c7-f744-484e-a317-ed6e32900754" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+				<slot index="2" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="3" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="4" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="5" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="6" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="36"/>
+		</entity>
+
+		<entity chassis="Maxim Heavy Hover Transport" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="17c03bf5-3b64-4851-9764-79e42d3f0a44">
+			<pilot size="8" name="Sergeant Jamia &quot;Frontline&quot; Lucero" nick="Frontline" gender="FEMALE" clanperson="false" gunnery="4" piloting="7" artillery="6" portraitCat="Female/Vehicle Crew/Ground/" portraitFile="VeeDrvr_F_4.png" externalId="8fe4523c-90de-4b6e-bc80-946ae1c4c830" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+				<slot index="2" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="3" type="IS Ammo SRM-2" shots="50"/>
+				<slot index="4" type="IS Ammo LRM-5" shots="24"/>
+			</location>
+			<Game id="26"/>
+		</entity>
+
+		<entity chassis="Maxim Heavy Hover Transport" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="d9c7852d-a7d9-4c37-917a-3bd180774984">
+			<pilot size="8" name="Corporal Deisy &quot;Cooler&quot; Ule" nick="Cooler" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="8" portraitCat="Female/Vehicle Crew/Ground/" portraitFile="VeeDrvr_F_20.png" externalId="3c4cf19a-5c39-415d-9784-07f28aafa8f8" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+				<slot index="2" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="3" type="IS Ammo SRM-2" shots="50"/>
+				<slot index="4" type="IS Ammo LRM-5" shots="24"/>
+			</location>
+			<Game id="37"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="65f61988-bfd6-4121-af4e-7b4c8a00dadf">
+			<pilot size="3" name="Corporal Sammy &quot;Ironpalm&quot; Jolivet" nick="Ironpalm" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="8" portraitCat="Male/Vehicle Crew/Ground/" portraitFile="VeeDrvr_M_21.png" externalId="98fe53d9-3e45-44ad-90b9-5b5f2dfc213d" ejected="false" advantages="range_master Medium" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="51"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="7397acfb-2bc7-41cf-b88d-df127c87ffb3">
+			<pilot size="3" name="Corporal Severin &quot;Buzzard&quot; VonTirpitz" nick="Buzzard" gender="MALE" clanperson="false" gunnery="3" piloting="4" artillery="8" portraitCat="Male/Vehicle Crew/Ground/" portraitFile="VeeGunner_M_1.png" externalId="f6e401f2-f894-4cd1-9f8d-5963e0f361a5" commandB="1" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="52"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a82780a6-644e-4fe7-a636-004ee39edd09">
+			<pilot size="3" name="Corporal Kimberly &quot;Gauge&quot; Rais" nick="Gauge" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="8" portraitCat="Female/Vehicle Crew/Ground/" portraitFile="VeeGunner_F_24.png" externalId="f610d2ee-f5f2-4d6a-89e1-0fdfd7169321" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="53"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="ba090012-924f-43c0-85e9-d697dde2e1ed">
+			<pilot size="3" name="Private Isabelle &quot;Jumpy&quot; Jacobson" nick="Jumpy" gender="FEMALE" clanperson="false" gunnery="6" piloting="6" artillery="8" portraitCat="Female/Vehicle Crew/Ground/" portraitFile="VeeDrvr_F_10.png" externalId="fe485c86-05ce-4d1c-928d-cdc5334115bc" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="54"/>
+		</entity>
+
+		<entity chassis="Jump Platoon" model="(SRM)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a15ad06c-9e40-4f06-8771-530ae7f6aca4">
+			<pilot size="18" name="Lieutenant JG Dyanna &quot;Lightning&quot; Simon" nick="Lightning" gender="FEMALE" clanperson="false" gunnery="3" piloting="8" artillery="5" portraitCat="Female/Soldier/" portraitFile="Inf_F_70.png" externalId="08636be3-1950-4c8b-bbd7-bf132fad31e8" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="0"> Troopers
+				<armor points="Destroyed"/>
+			</location>
+			<location index="1"> Field Guns
+				<armor points="Destroyed"/>
+			</location>
+			<Game id="7"/>
+		</entity>
+
+		<entity chassis="Jump Platoon" model="(Flamer)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="bde9cc79-4813-48bb-a12d-d18caf8276f6">
+			<pilot size="21" name="Lieutenant SG Tommie &quot;Stallion&quot; Ng" nick="Stallion" gender="FEMALE" clanperson="false" gunnery="3" piloting="8" artillery="5" portraitCat="Female/Soldier/" portraitFile="Inf_F_56.png" externalId="a41de396-88ff-447d-ba3b-4f30a60e1644" commandB="2" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="0"> Troopers
+				<armor points="Destroyed"/>
+			</location>
+			<location index="1"> Field Guns
+				<armor points="Destroyed"/>
+			</location>
+			<Game id="8"/>
+		</entity>
+
+		<entity chassis="Jump Platoon" model="(Rifle)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="acc104bd-7e15-4030-b10c-d3b12d734163">
+			<pilot size="21" name="Captain Eva &quot;Buck&quot; Beimler" nick="Buck" gender="FEMALE" clanperson="false" gunnery="3" piloting="8" artillery="6" portraitCat="Female/Soldier/" portraitFile="Inf_F_22.png" externalId="087addf1-0a94-4192-8d88-de729dacbd9c" commandB="4" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="0"> Troopers
+				<armor points="Destroyed"/>
+			</location>
+			<location index="1"> Field Guns
+				<armor points="Destroyed"/>
+			</location>
+			<Game id="11"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(Laser Marine)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="21d049c8-fcd6-4862-9340-40eaede86bf4" armorDivisor="2.0" spacesuit="1" infantrySpecializations="64">
+			<pilot size="24" name="Captain Neill &quot;Growl&quot; Hames" nick="Growl" gender="MALE" clanperson="false" gunnery="3" piloting="8" artillery="4" portraitCat="Male/Soldier/" portraitFile="Inf_M_91.png" externalId="28800686-fa15-4c0e-9e5d-fe4ff9d2b49d" commandB="2" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="0"> Troopers
+				<armor points="Destroyed"/>
+			</location>
+			<location index="1"> Field Guns
+				<armor points="Destroyed"/>
+			</location>
+			<Game id="28"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(Laser Marine)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e38d82a5-c7cd-4ca7-a83d-107c974392ba" armorDivisor="2.0" spacesuit="1" infantrySpecializations="64">
+			<pilot size="24" name="Lieutenant SG Jack &quot;Boss&quot; Ichikawa" nick="Boss" gender="MALE" clanperson="false" gunnery="3" piloting="8" artillery="4" portraitCat="Male/Soldier/" portraitFile="Inf_M_23.png" externalId="3cd0cf16-25b1-4f7f-8a04-96d936d5d7cc" commandB="2" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="0"> Troopers
+				<armor points="Destroyed"/>
+			</location>
+			<location index="1"> Field Guns
+				<armor points="Destroyed"/>
+			</location>
+			<Game id="30"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(Laser Marine)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="055307e9-31c2-46c8-b14c-a433d4782b62" armorDivisor="2.0" spacesuit="1" infantrySpecializations="64">
+			<pilot size="24" name="Lieutenant JG Aviya &quot;Medipack&quot; Ichikawa" nick="Medipack" gender="FEMALE" clanperson="false" gunnery="4" piloting="8" artillery="4" portraitCat="Female/Soldier/" portraitFile="Inf_F_10.png" externalId="e262dfec-e745-4123-95ca-b02a2db0c12f" commandB="3" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="0"> Troopers
+				<armor points="Destroyed"/>
+			</location>
+			<location index="1"> Field Guns
+				<armor points="Destroyed"/>
+			</location>
+			<Game id="29"/>
+		</entity>
+
+		<entity chassis="Mobile Headquarters" model="(ICE)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="629a7798-2634-4ff4-872c-14ab12a89ad7">
+			<pilot size="10" name="Corporal Sasnik &quot;Cross Country&quot; Weinkowe" nick="Cross Country" gender="MALE" clanperson="false" gunnery="5" piloting="7" artillery="8" portraitCat="Male/Vehicle Crew/Ground/" portraitFile="VeeGunner_M_30.png" externalId="11486bac-0360-4502-b98b-395248bdd6a7" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="44"/>
+		</entity>
+
+		<entity chassis="Partisan Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="4da033b2-c4af-4439-a76f-c03f1a773b26" quirks="anti_air">
+			<pilot size="12" name="Sergeant Toniko &quot;Nag&quot; Furaha" nick="Nag" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="6" portraitCat="Female/Vehicle Crew/Ground/" portraitFile="VeeDrvr_F_28.png" externalId="3ade15bd-6a3c-45ce-93c4-887475faf339" commandB="1" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="2" type="IS Ammo AC/5" shots="20"/>
+				<slot index="3" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<Game id="19"/>
+		</entity>
+
+		<entity chassis="Partisan Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e6222db3-f8a1-45e4-9501-2823dd2e7ded" quirks="anti_air">
+			<pilot size="12" name="Captain Adalie &quot;Timeline&quot; Schmitt" nick="Timeline" gender="FEMALE" clanperson="false" gunnery="4" piloting="7" artillery="6" portraitCat="Female/Vehicle Crew/Ground/" portraitFile="VeeDrvr_F_23.png" externalId="2750b98c-40db-40c2-83ac-b4dca6ce6c13" commandB="3" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="2" type="IS Ammo AC/5" shots="20"/>
+				<slot index="3" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<Game id="21"/>
+		</entity>
+
+		<entity chassis="Partisan Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="2b63f76d-e3ab-4cea-b371-a26b8abce987" quirks="anti_air">
+			<pilot size="12" name="Sergeant Jessie &quot;Vegas&quot; Stunt" nick="Vegas" gender="FEMALE" clanperson="false" gunnery="4" piloting="7" artillery="8" portraitCat="Female/Vehicle Crew/Ground/" portraitFile="VeeGunner_F_17.png" externalId="24c3ed01-61ed-45a2-a325-2a13522063a9" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="2" type="IS Ammo AC/5" shots="20"/>
+				<slot index="3" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<Game id="20"/>
+		</entity>
+
+		<entity chassis="Partisan Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="f20d016c-fda5-4f83-b7a3-44f029c5787d" quirks="anti_air">
+			<pilot size="12" name="Corporal Dragos &quot;Stash&quot; Sravan" nick="Stash" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" portraitCat="Male/Vehicle Crew/Ground/" portraitFile="VeeGunner_M_35.png" externalId="ee9dd6fd-406c-4f85-8490-28db5cb2b8f2" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="2" type="IS Ammo AC/5" shots="20"/>
+				<slot index="3" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<Game id="60"/>
+		</entity>
+
+		<entity chassis="Schrek" model="(Large Laser)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="68d676fd-60ce-436a-b091-5d4b4c213d3f" quirks="low_profile">
+			<pilot size="12" name="Corporal Gebre-Egziabhear &quot;Flounder&quot; Kuguru" nick="Flounder" gender="MALE" clanperson="false" gunnery="5" piloting="5" artillery="8" portraitCat="Male/Vehicle Crew/Ground/" portraitFile="VeeGunner_M_67.png" externalId="17a9421b-7b44-4672-a83a-1de43940f431" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="55"/>
+		</entity>
+
+		<entity chassis="Schrek" model="(Large Laser)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="78a967b9-52e0-40c3-b481-d9876f15d28f" quirks="low_profile">
+			<pilot size="12" name="Corporal Eline &quot;Blob&quot; Beutel" nick="Blob" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="5" portraitCat="Female/Vehicle Crew/Ground/" portraitFile="VeeGunner_F_7.png" externalId="ea6b3575-50b5-420a-8f57-db09b5978288" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="56"/>
+		</entity>
+
+		<entity chassis="Rhino Fire Support Tank" model="(Flamer)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="62732651-7f58-4dbd-83ec-dc4cca16deef">
+			<pilot size="12" name="Corporal Rachmad &quot;Eastwood&quot; Purbacaraka" nick="Eastwood" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="8" portraitCat="Male/Vehicle Crew/Ground/" portraitFile="VeeGunner_M_71.png" externalId="8ea7a538-858e-4b2e-88e8-396afbcb0066" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Vehicle Flamer Ammo" shots="20"/>
+				<slot index="2" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="3" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="4" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="5" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="62"/>
+		</entity>
+
+		<entity chassis="Ontos Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="337d1759-9e4a-4ea8-9c3c-75dc493dc5a2">
+			<pilot size="14" name="Sergeant Kinnard &quot;Mocha&quot; MacFinlay" nick="Mocha" gender="MALE" clanperson="false" gunnery="3" piloting="4" artillery="8" portraitCat="Male/Vehicle Crew/Ground/" portraitFile="VeeGunner_M_61.png" externalId="397291e7-3ca7-4a46-9a9d-d14995205cd5" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-5" shots="24"/>
+			</location>
+			<Game id="63"/>
+		</entity>
+
+		<entity chassis="Pegasus Scout Hover Tank" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="7d2b7e58-f3d5-444a-860d-ad8d78c9a994">
+			<pilot size="6" name="Lieutenant JG Tekli &quot;Ethereal&quot; Ruan" nick="Ethereal" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" artillery="8" portraitCat="Female/Vehicle Crew/Ground/" portraitFile="VeeDrvr_F_23.png" externalId="84287bc9-ba5b-4dbc-8996-ab0c24e5d3d3" commandB="2" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="27"/>
+		</entity>
+
+		<entity chassis="Warrior Attack Helicopter" model="H-7" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="0" externalId="a96f0cee-0e96-4c46-91af-3764ec5e9d10" quirks="vtol_rotor_coaxial">
+			<pilot size="3" name="Corporal Rob &quot;Coco&quot; Chippo" nick="Coco" gender="MALE" clanperson="false" gunnery="5" piloting="5" artillery="5" portraitCat="Male/Vehicle Crew/Ground/" portraitFile="VeeGunner_M_11.png" externalId="6a167ddd-84d0-4518-95a3-d57c78130ddc" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="2" type="IS Ammo AC/2" shots="45"/>
+			</location>
+			<Game id="42"/>
+		</entity>
+
+		<entity chassis="LRM Carrier" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="cf4f3211-2794-4e3c-87b5-49332fd0601c">
+			<pilot size="8" name="Sergeant Shirai &quot;Sparky&quot; Goto" nick="Sparky" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="8" portraitCat="Male/Vehicle Crew/Ground/" portraitFile="VeeGunner_M_27.png" externalId="50c1c3a1-a4c3-4870-aa00-b8b371eb9d9a" commandB="2" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="2" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="3" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="4" type="IS Ammo LRM-20" shots="6"/>
+			</location>
+			<Game id="43"/>
+		</entity>
+
+		<entity chassis="LRM Carrier" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="f7cdefd1-cd59-41e9-b551-3611307f29f3">
+			<pilot size="8" name="Sergeant Dennis &quot;Cyan&quot; Chlapowski" nick="Cyan" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="8" portraitCat="Male/Vehicle Crew/Ground/" portraitFile="VeeDrvr_M_17.png" externalId="ace7fdd4-c705-40ff-9e7c-6bc046e183b3" commandB="1" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="2" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="3" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="4" type="IS Ammo LRM-20" shots="6"/>
+			</location>
+			<Game id="39"/>
+		</entity>
+
+		<entity chassis="LRM Carrier" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="7e52124f-dd27-4c64-9805-53784e9723e4">
+			<pilot size="8" name="Lieutenant SG Courtney Kelly" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" artillery="8" portraitCat="Female/Vehicle Crew/Ground/" portraitFile="VeeDrvr_F_15.png" externalId="cb7fcc44-a2e3-4c8f-9255-924964c12778" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="2" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="3" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="4" type="IS Ammo LRM-20" shots="6"/>
+			</location>
+			<Game id="57"/>
+		</entity>
+
+		<entity chassis="LRM Carrier" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="36ca76cf-25a7-4930-a919-08c1c9af6020">
+			<pilot size="8" name="Lieutenant JG Adonis &quot;Star&quot; Yun" nick="Star" gender="MALE" clanperson="false" gunnery="3" piloting="4" artillery="8" portraitCat="Male/Vehicle Crew/Ground/" portraitFile="VeeDrvr_M_6.png" externalId="bdd00852-3c27-45a7-b77f-81068d505b3d" commandB="1" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="2" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="3" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="4" type="IS Ammo LRM-20" shots="6"/>
+			</location>
+			<Game id="64"/>
+		</entity>
+
+		<entity chassis="Mobile Long Tom Artillery" model="LT-MOB-25 (Support Carriage)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="ccda9850-94f6-4559-8ca4-5e8050a1faa2">
+			<pilot size="14" name="Private Mai-Sie &quot;Rain Bird&quot; Sen" nick="Rain Bird" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="8" portraitCat="Female/Vehicle Crew/Ground/" portraitFile="VeeGunner_F_24.png" externalId="cc00edae-42ce-43e4-85e7-fb4b58f20ec4" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="33"/>
+		</entity>
+
+		<entity chassis="Mobile Long Tom Artillery" model="LT-MOB-25" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="c04e6ec6-850a-4309-89a4-fe042463ac9b">
+			<pilot size="17" name="Corporal Madeline &quot;Jaguar&quot; Mahsud Khel" nick="Jaguar" gender="FEMALE" clanperson="false" gunnery="4" piloting="7" artillery="4" portraitCat="Female/Vehicle Crew/Ground/" portraitFile="VeeGunner_F_16.png" externalId="fad64476-a101-498c-a1e1-f4de6445cbd4" commandB="1" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="2" type="ISLongTomAmmo" shots="5"/>
+				<slot index="3" type="ISLongTomAmmo" shots="5"/>
+				<slot index="4" type="ISLongTomAmmo" shots="5"/>
+				<slot index="5" type="ISLongTomAmmo" shots="5"/>
+			</location>
+			<Game id="31"/>
+		</entity>
+
+		<entity chassis="Mobile Long Tom Artillery" model="LT-MOB-25 (Ammunition Carriage)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="c53557cb-cc69-4271-9fa0-aa92ec76772a">
+			<pilot size="0" name="Unnamed" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="c4ccfad7-4086-450c-a344-bc1a47d60d41" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="ISLongTomAmmo" shots="5"/>
+				<slot index="2" type="ISLongTomAmmo" shots="5"/>
+				<slot index="3" type="ISLongTomAmmo" shots="5"/>
+				<slot index="4" type="ISLongTomAmmo" shots="5"/>
+				<slot index="5" type="ISLongTomAmmo" shots="5"/>
+			</location>
+			<Game id="32"/>
+		</entity>
+
+</unit>

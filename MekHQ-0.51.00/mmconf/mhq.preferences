@@ -1,0 +1,171 @@
+{
+  "preferences" : [ {
+    "class" : "mekhq.gui.dialog.markets.personnelMarket.PersonnelMarketDialog",
+    "elements" : [ {
+      "element" : "PersonnelMarketDialog",
+      "value" : "2240|616|0|322|false"
+    } ]
+  }, {
+    "class" : "mekhq.gui.dialog.camOpsSalvage.SalvageFormationPicker",
+    "elements" : [ {
+      "element" : "SalvageFormationPicker",
+      "value" : "800|822|743|234|false"
+    } ]
+  }, {
+    "class" : "mekhq.gui.HangarTab",
+    "elements" : [ {
+      "element" : "unitType",
+      "value" : "0"
+    }, {
+      "element" : "hideMothballed",
+      "value" : "false"
+    }, {
+      "element" : "unitView",
+      "value" : "1"
+    }, {
+      "element" : "unitTable",
+      "value" : "1|DESCENDING"
+    } ]
+  }, {
+    "class" : "mekhq.gui.WarehouseTab",
+    "elements" : [ {
+      "element" : "partsTable",
+      "value" : "0|ASCENDING"
+    }, {
+      "element" : "partsType",
+      "value" : "0"
+    }, {
+      "element" : "partsView",
+      "value" : "0"
+    } ]
+  }, {
+    "class" : "mekhq.gui.dialog.CustomizePersonDialog",
+    "elements" : [ {
+      "element" : "dialog",
+      "value" : "1100|588|570|336|false"
+    } ]
+  }, {
+    "class" : "mekhq.gui.dialog.EditKillLogDialog",
+    "elements" : [ {
+      "element" : "dialog",
+      "value" : "456|513|892|373|false"
+    } ]
+  }, {
+    "class" : "mekhq.gui.dialog.PartsStoreDialog",
+    "elements" : [ {
+      "element" : "partsTable",
+      "value" : "0|ASCENDING"
+    }, {
+      "element" : "dialog",
+      "value" : "1038|600|432|330|false"
+    }, {
+      "element" : "partsType",
+      "value" : "6"
+    } ]
+  }, {
+    "class" : "mekhq.MekHQ",
+    "elements" : [ {
+      "element" : "starMapsDirectory",
+      "value" : "."
+    }, {
+      "element" : "scenarioTemplatesDirectory",
+      "value" : "."
+    }, {
+      "element" : "partsDirectory",
+      "value" : "."
+    }, {
+      "element" : "unitsDirectory",
+      "value" : "/Users/stuart/Library/CloudStorage/OneDrive-Personal/MegaMek Central/Sabretooth/Manxiome Industries/Scenario 4 Defend Manxiome"
+    }, {
+      "element" : "financesDirectory",
+      "value" : "."
+    }, {
+      "element" : "personnelDirectory",
+      "value" : "."
+    }, {
+      "element" : "campaignsDirectory",
+      "value" : "/Users/stuart/Documents/GitHub/StrategosMekBay/MegaMekShare/Morning Star/Manxiome Industries/Scenario 4 Defend Manxiome"
+    }, {
+      "element" : "planetsDirectory",
+      "value" : "."
+    }, {
+      "element" : "selectedTheme",
+      "value" : ""
+    } ]
+  }, {
+    "class" : "mekhq.gui.dialog.AddOrEditKillEntryDialog",
+    "elements" : [ {
+      "element" : "dialog",
+      "value" : "416|240|912|510|false"
+    } ]
+  }, {
+    "class" : "mekhq.gui.dialog.RetirementDefectionDialog",
+    "elements" : [ {
+      "element" : "dialog",
+      "value" : "1680|1184|280|38|false"
+    } ]
+  }, {
+    "class" : "mekhq.gui.dialog.ChooseMulFilesDialog",
+    "elements" : [ {
+      "element" : "dialog",
+      "value" : "405|302|917|494|false"
+    } ]
+  }, {
+    "class" : "mekhq.gui.RepairTab",
+    "elements" : [ {
+      "element" : "serviceUnitsTable",
+      "value" : "1|DESCENDING"
+    } ]
+  }, {
+    "class" : "mekhq.gui.dialog.CustomizeScenarioDialog",
+    "elements" : [ {
+      "element" : "dialog",
+      "value" : "707|703|773|278|false"
+    } ]
+  }, {
+    "class" : "mekhq.gui.CampaignGUI",
+    "elements" : [ {
+      "element" : "mainWindow",
+      "value" : "2240|1230|144|73|false"
+    } ]
+  }, {
+    "class" : "mekhq.gui.PersonnelTab",
+    "elements" : [ {
+      "element" : "personnelView",
+      "value" : "0"
+    }, {
+      "element" : "groupByUnit",
+      "value" : "false"
+    }, {
+      "element" : "personnelType",
+      "value" : "11"
+    }, {
+      "element" : "personnelTable",
+      "value" : "1|DESCENDING"
+    } ]
+  }, {
+    "class" : "mekhq.gui.dialog.ResolveScenarioWizardDialog",
+    "elements" : [ {
+      "element" : "dialog",
+      "value" : "850|700|695|345|false"
+    } ]
+  }, {
+    "class" : "mekhq.gui.campaignOptions.CampaignOptionsDialog",
+    "elements" : [ {
+      "element" : "CampaignOptionsDialog",
+      "value" : "1792|1008|224|126|false"
+    } ]
+  }, {
+    "class" : "mekhq.gui.dialog.CustomizeMissionDialog",
+    "elements" : [ {
+      "element" : "dialog",
+      "value" : "410|436|915|412|false"
+    } ]
+  }, {
+    "class" : "mekhq.gui.dialog.MissionTypeDialog",
+    "elements" : [ {
+      "element" : "dialog",
+      "value" : "250|150|995|555|false"
+    } ]
+  } ]
+}

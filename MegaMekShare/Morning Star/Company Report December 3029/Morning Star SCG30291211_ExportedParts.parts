@@ -1,0 +1,2826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parts version="0.49.19.1">
+	<part id="2451" type="mekhq.campaign.parts.VeeStabiliser">
+		<id>2451</id>
+		<name>Vehicle Stabiliser</name>
+		<unitTonnage>80</unitTonnage>
+		<mode>EXTRA_4</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>15</quantity>
+		<quality>3</quality>
+		<loc>3</loc>
+	</part>
+	<part id="3576" type="mekhq.campaign.parts.VeeStabiliser">
+		<id>3576</id>
+		<name>Vehicle Stabiliser</name>
+		<unitTonnage>100</unitTonnage>
+		<mode>EXTRA_4</mode>
+		<skillMin>3</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>3</quantity>
+		<quality>3</quality>
+		<loc>5</loc>
+	</part>
+	<part id="4834" type="mekhq.campaign.parts.VeeStabiliser">
+		<id>4834</id>
+		<name>Vehicle Stabiliser</name>
+		<unitTonnage>21</unitTonnage>
+		<mode>EXTRA_4</mode>
+		<skillMin>2</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<loc>5</loc>
+	</part>
+	<part id="6237" type="mekhq.campaign.parts.VeeStabiliser">
+		<id>6237</id>
+		<name>Vehicle Stabiliser</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>0</quality>
+		<loc>0</loc>
+	</part>
+	<part id="1726" type="mekhq.campaign.parts.MekLifeSupport">
+		<id>1726</id>
+		<name>Mech Life Support System</name>
+		<unitTonnage>0</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>4</quantity>
+		<quality>3</quality>
+	</part>
+	<part id="2828" type="mekhq.campaign.parts.MekLifeSupport">
+		<id>2828</id>
+		<name>Mech Life Support System</name>
+		<unitTonnage>20</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>5</quality>
+	</part>
+	<part id="3406" type="mekhq.campaign.parts.MekLifeSupport">
+		<id>3406</id>
+		<name>Mech Life Support System</name>
+		<unitTonnage>50</unitTonnage>
+		<mode>EXTRA_4</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>2</quality>
+	</part>
+	<part id="6841" type="mekhq.campaign.parts.VeeSensor">
+		<id>6841</id>
+		<name>Vehicle Sensors</name>
+		<unitTonnage>50</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>3</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+	</part>
+	<part id="6918" type="mekhq.campaign.parts.VeeSensor">
+		<id>6918</id>
+		<name>Vehicle Sensors</name>
+		<unitTonnage>10</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+	</part>
+	<part id="1727" type="mekhq.campaign.parts.MekSensor">
+		<id>1727</id>
+		<name>Mech Sensors</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+	</part>
+	<part id="1728" type="mekhq.campaign.parts.MekSensor">
+		<id>1728</id>
+		<name>Mech Sensors</name>
+		<unitTonnage>50</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+	</part>
+	<part id="1729" type="mekhq.campaign.parts.MekSensor">
+		<id>1729</id>
+		<name>Mech Sensors</name>
+		<unitTonnage>55</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+	</part>
+	<part id="1730" type="mekhq.campaign.parts.MekSensor">
+		<id>1730</id>
+		<name>Mech Sensors</name>
+		<unitTonnage>65</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+	</part>
+	<part id="1731" type="mekhq.campaign.parts.MekSensor">
+		<id>1731</id>
+		<name>Mech Sensors</name>
+		<unitTonnage>70</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+	</part>
+	<part id="1732" type="mekhq.campaign.parts.MekSensor">
+		<id>1732</id>
+		<name>Mech Sensors</name>
+		<unitTonnage>75</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+	</part>
+	<part id="1733" type="mekhq.campaign.parts.MekSensor">
+		<id>1733</id>
+		<name>Mech Sensors</name>
+		<unitTonnage>85</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+	</part>
+	<part id="2829" type="mekhq.campaign.parts.MekSensor">
+		<id>2829</id>
+		<name>Mech Sensors</name>
+		<unitTonnage>20</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+	</part>
+	<part id="3773" type="mekhq.campaign.parts.MekSensor">
+		<id>3773</id>
+		<name>Mech Sensors</name>
+		<unitTonnage>35</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+	</part>
+	<part id="4400" type="mekhq.campaign.parts.MekSensor">
+		<id>4400</id>
+		<name>Mech Sensors</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>2</quality>
+	</part>
+	<part id="6677" type="mekhq.campaign.parts.MekSensor">
+		<id>6677</id>
+		<name>Mech Sensors</name>
+		<unitTonnage>40</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+	</part>
+	<part id="2435" type="mekhq.campaign.parts.SpacecraftCoolingSystem">
+		<id>2435</id>
+		<name>Spacecraft Cooling System</name>
+		<unitTonnage>2900</unitTonnage>
+		<hits>1</hits>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>2</quality>
+		<sinkType>0</sinkType>
+		<sinksNeeded>0</sinksNeeded>
+		<currentSinks>70</currentSinks>
+	</part>
+	<part id="2833" type="mekhq.campaign.parts.MekActuator">
+		<id>2833</id>
+		<name>Upper Leg Actuator</name>
+		<unitTonnage>20</unitTonnage>
+		<mode>RUSH_2</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>5</quality>
+		<type>12</type>
+		<location>-1</location>
+	</part>
+	<part id="2835" type="mekhq.campaign.parts.MekActuator">
+		<id>2835</id>
+		<name>Lower Leg Actuator</name>
+		<unitTonnage>20</unitTonnage>
+		<mode>RUSH_2</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>5</quality>
+		<type>13</type>
+		<location>-1</location>
+	</part>
+	<part id="2837" type="mekhq.campaign.parts.MekActuator">
+		<id>2837</id>
+		<name>Foot Actuator</name>
+		<unitTonnage>20</unitTonnage>
+		<mode>RUSH_2</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>5</quality>
+		<type>14</type>
+		<location>-1</location>
+	</part>
+	<part id="7573" type="mekhq.campaign.parts.MekActuator">
+		<id>7573</id>
+		<name>Upper Arm Actuator</name>
+		<unitTonnage>20</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>5</quality>
+		<type>8</type>
+		<location>-1</location>
+	</part>
+	<part id="687" type="mekhq.campaign.parts.MekActuator">
+		<id>687</id>
+		<name>Upper Arm Actuator</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>RUSH_4</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<type>8</type>
+		<location>-1</location>
+	</part>
+	<part id="689" type="mekhq.campaign.parts.MekActuator">
+		<id>689</id>
+		<name>Lower Arm Actuator</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>RUSH_2</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>4</quality>
+		<type>9</type>
+		<location>-1</location>
+	</part>
+	<part id="692" type="mekhq.campaign.parts.MekActuator">
+		<id>692</id>
+		<name>Hand Actuator</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>RUSH_4</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<type>10</type>
+		<location>-1</location>
+	</part>
+	<part id="693" type="mekhq.campaign.parts.MekActuator">
+		<id>693</id>
+		<name>Upper Leg Actuator</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>3</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<type>12</type>
+		<location>-1</location>
+	</part>
+	<part id="698" type="mekhq.campaign.parts.MekActuator">
+		<id>698</id>
+		<name>Foot Actuator</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>RUSH_2</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>4</quality>
+		<type>14</type>
+		<location>-1</location>
+	</part>
+	<part id="1734" type="mekhq.campaign.parts.MekActuator">
+		<id>1734</id>
+		<name>Upper Arm Actuator</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>3</quantity>
+		<quality>3</quality>
+		<type>8</type>
+		<location>-1</location>
+	</part>
+	<part id="1749" type="mekhq.campaign.parts.MekActuator">
+		<id>1749</id>
+		<name>Lower Arm Actuator</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<type>9</type>
+		<location>-1</location>
+	</part>
+	<part id="1762" type="mekhq.campaign.parts.MekActuator">
+		<id>1762</id>
+		<name>Hand Actuator</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<type>10</type>
+		<location>-1</location>
+	</part>
+	<part id="1769" type="mekhq.campaign.parts.MekActuator">
+		<id>1769</id>
+		<name>Upper Leg Actuator</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>3</quantity>
+		<quality>3</quality>
+		<type>12</type>
+		<location>-1</location>
+	</part>
+	<part id="1782" type="mekhq.campaign.parts.MekActuator">
+		<id>1782</id>
+		<name>Lower Leg Actuator</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>4</quantity>
+		<quality>3</quality>
+		<type>13</type>
+		<location>-1</location>
+	</part>
+	<part id="1795" type="mekhq.campaign.parts.MekActuator">
+		<id>1795</id>
+		<name>Foot Actuator</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<type>14</type>
+		<location>-1</location>
+	</part>
+	<part id="3775" type="mekhq.campaign.parts.MekActuator">
+		<id>3775</id>
+		<name>Upper Arm Actuator</name>
+		<unitTonnage>35</unitTonnage>
+		<mode>RUSH_2</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>5</quality>
+		<type>8</type>
+		<location>-1</location>
+	</part>
+	<part id="3777" type="mekhq.campaign.parts.MekActuator">
+		<id>3777</id>
+		<name>Lower Arm Actuator</name>
+		<unitTonnage>35</unitTonnage>
+		<mode>RUSH_2</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>5</quality>
+		<type>9</type>
+		<location>-1</location>
+	</part>
+	<part id="3779" type="mekhq.campaign.parts.MekActuator">
+		<id>3779</id>
+		<name>Hand Actuator</name>
+		<unitTonnage>35</unitTonnage>
+		<mode>RUSH_2</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<type>10</type>
+		<location>-1</location>
+	</part>
+	<part id="3780" type="mekhq.campaign.parts.MekActuator">
+		<id>3780</id>
+		<name>Upper Leg Actuator</name>
+		<unitTonnage>35</unitTonnage>
+		<mode>RUSH_2</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>5</quality>
+		<type>12</type>
+		<location>-1</location>
+	</part>
+	<part id="3782" type="mekhq.campaign.parts.MekActuator">
+		<id>3782</id>
+		<name>Lower Leg Actuator</name>
+		<unitTonnage>35</unitTonnage>
+		<mode>RUSH_2</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>5</quality>
+		<type>13</type>
+		<location>-1</location>
+	</part>
+	<part id="3784" type="mekhq.campaign.parts.MekActuator">
+		<id>3784</id>
+		<name>Foot Actuator</name>
+		<unitTonnage>35</unitTonnage>
+		<mode>RUSH_2</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>5</quality>
+		<type>14</type>
+		<location>-1</location>
+	</part>
+	<part id="6680" type="mekhq.campaign.parts.MekActuator">
+		<id>6680</id>
+		<name>Upper Arm Actuator</name>
+		<unitTonnage>40</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<type>8</type>
+		<location>-1</location>
+	</part>
+	<part id="6682" type="mekhq.campaign.parts.MekActuator">
+		<id>6682</id>
+		<name>Lower Arm Actuator</name>
+		<unitTonnage>40</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<type>9</type>
+		<location>-1</location>
+	</part>
+	<part id="6684" type="mekhq.campaign.parts.MekActuator">
+		<id>6684</id>
+		<name>Upper Leg Actuator</name>
+		<unitTonnage>40</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<type>12</type>
+		<location>-1</location>
+	</part>
+	<part id="6685" type="mekhq.campaign.parts.MekActuator">
+		<id>6685</id>
+		<name>Lower Leg Actuator</name>
+		<unitTonnage>40</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<type>13</type>
+		<location>-1</location>
+	</part>
+	<part id="6687" type="mekhq.campaign.parts.MekActuator">
+		<id>6687</id>
+		<name>Foot Actuator</name>
+		<unitTonnage>40</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<type>14</type>
+		<location>-1</location>
+	</part>
+	<part id="7600" type="mekhq.campaign.parts.MekActuator">
+		<id>7600</id>
+		<name>Upper Arm Actuator</name>
+		<unitTonnage>45</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<type>8</type>
+		<location>-1</location>
+	</part>
+	<part id="7601" type="mekhq.campaign.parts.MekActuator">
+		<id>7601</id>
+		<name>Lower Arm Actuator</name>
+		<unitTonnage>45</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<type>9</type>
+		<location>-1</location>
+	</part>
+	<part id="7743" type="mekhq.campaign.parts.MekActuator">
+		<id>7743</id>
+		<name>Hand Actuator</name>
+		<unitTonnage>45</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<type>10</type>
+		<location>-1</location>
+	</part>
+	<part id="1736" type="mekhq.campaign.parts.MekActuator">
+		<id>1736</id>
+		<name>Upper Arm Actuator</name>
+		<unitTonnage>50</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<type>8</type>
+		<location>-1</location>
+	</part>
+	<part id="1751" type="mekhq.campaign.parts.MekActuator">
+		<id>1751</id>
+		<name>Lower Arm Actuator</name>
+		<unitTonnage>50</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<type>9</type>
+		<location>-1</location>
+	</part>
+	<part id="1763" type="mekhq.campaign.parts.MekActuator">
+		<id>1763</id>
+		<name>Hand Actuator</name>
+		<unitTonnage>50</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<type>10</type>
+		<location>-1</location>
+	</part>
+	<part id="1771" type="mekhq.campaign.parts.MekActuator">
+		<id>1771</id>
+		<name>Upper Leg Actuator</name>
+		<unitTonnage>50</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>4</quantity>
+		<quality>3</quality>
+		<type>12</type>
+		<location>-1</location>
+	</part>
+	<part id="1784" type="mekhq.campaign.parts.MekActuator">
+		<id>1784</id>
+		<name>Lower Leg Actuator</name>
+		<unitTonnage>50</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>3</quantity>
+		<quality>3</quality>
+		<type>13</type>
+		<location>-1</location>
+	</part>
+	<part id="1796" type="mekhq.campaign.parts.MekActuator">
+		<id>1796</id>
+		<name>Foot Actuator</name>
+		<unitTonnage>50</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>3</quantity>
+		<quality>3</quality>
+		<type>14</type>
+		<location>-1</location>
+	</part>
+	<part id="3409" type="mekhq.campaign.parts.MekActuator">
+		<id>3409</id>
+		<name>Upper Arm Actuator</name>
+		<unitTonnage>50</unitTonnage>
+		<mode>EXTRA_3</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>2</quality>
+		<type>8</type>
+		<location>-1</location>
+	</part>
+	<part id="4406" type="mekhq.campaign.parts.MekActuator">
+		<id>4406</id>
+		<name>Lower Arm Actuator</name>
+		<unitTonnage>50</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>2</quality>
+		<type>9</type>
+		<location>-1</location>
+	</part>
+	<part id="1738" type="mekhq.campaign.parts.MekActuator">
+		<id>1738</id>
+		<name>Upper Arm Actuator</name>
+		<unitTonnage>55</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<type>8</type>
+		<location>-1</location>
+	</part>
+	<part id="1764" type="mekhq.campaign.parts.MekActuator">
+		<id>1764</id>
+		<name>Hand Actuator</name>
+		<unitTonnage>55</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<type>10</type>
+		<location>-1</location>
+	</part>
+	<part id="1772" type="mekhq.campaign.parts.MekActuator">
+		<id>1772</id>
+		<name>Upper Leg Actuator</name>
+		<unitTonnage>55</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>4</quantity>
+		<quality>3</quality>
+		<type>12</type>
+		<location>-1</location>
+	</part>
+	<part id="1785" type="mekhq.campaign.parts.MekActuator">
+		<id>1785</id>
+		<name>Lower Leg Actuator</name>
+		<unitTonnage>55</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>3</quantity>
+		<quality>3</quality>
+		<type>13</type>
+		<location>-1</location>
+	</part>
+	<part id="1797" type="mekhq.campaign.parts.MekActuator">
+		<id>1797</id>
+		<name>Foot Actuator</name>
+		<unitTonnage>55</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>3</quantity>
+		<quality>3</quality>
+		<type>14</type>
+		<location>-1</location>
+	</part>
+	<part id="7782" type="mekhq.campaign.parts.MekActuator">
+		<id>7782</id>
+		<name>Lower Arm Actuator</name>
+		<unitTonnage>55</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<type>9</type>
+		<location>-1</location>
+	</part>
+	<part id="3321" type="mekhq.campaign.parts.MekActuator">
+		<id>3321</id>
+		<name>Upper Arm Actuator</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>EXTRA_2</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>3</quantity>
+		<quality>3</quality>
+		<type>8</type>
+		<location>-1</location>
+	</part>
+	<part id="3323" type="mekhq.campaign.parts.MekActuator">
+		<id>3323</id>
+		<name>Lower Arm Actuator</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>EXTRA_2</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>3</quantity>
+		<quality>3</quality>
+		<type>9</type>
+		<location>-1</location>
+	</part>
+	<part id="3325" type="mekhq.campaign.parts.MekActuator">
+		<id>3325</id>
+		<name>Upper Leg Actuator</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>EXTRA_2</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<type>12</type>
+		<location>-1</location>
+	</part>
+	<part id="3327" type="mekhq.campaign.parts.MekActuator">
+		<id>3327</id>
+		<name>Lower Leg Actuator</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>EXTRA_2</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<type>13</type>
+		<location>-1</location>
+	</part>
+	<part id="3329" type="mekhq.campaign.parts.MekActuator">
+		<id>3329</id>
+		<name>Foot Actuator</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>EXTRA_3</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>2</quality>
+		<type>14</type>
+		<location>-1</location>
+	</part>
+	<part id="6209" type="mekhq.campaign.parts.MekActuator">
+		<id>6209</id>
+		<name>Lower Leg Actuator</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<type>13</type>
+		<location>-1</location>
+	</part>
+	<part id="6210" type="mekhq.campaign.parts.MekActuator">
+		<id>6210</id>
+		<name>Foot Actuator</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<type>14</type>
+		<location>-1</location>
+	</part>
+	<part id="1740" type="mekhq.campaign.parts.MekActuator">
+		<id>1740</id>
+		<name>Upper Arm Actuator</name>
+		<unitTonnage>65</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>4</quantity>
+		<quality>3</quality>
+		<type>8</type>
+		<location>-1</location>
+	</part>
+	<part id="1755" type="mekhq.campaign.parts.MekActuator">
+		<id>1755</id>
+		<name>Lower Arm Actuator</name>
+		<unitTonnage>65</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>4</quantity>
+		<quality>3</quality>
+		<type>9</type>
+		<location>-1</location>
+	</part>
+	<part id="1765" type="mekhq.campaign.parts.MekActuator">
+		<id>1765</id>
+		<name>Hand Actuator</name>
+		<unitTonnage>65</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>3</quantity>
+		<quality>3</quality>
+		<type>10</type>
+		<location>-1</location>
+	</part>
+	<part id="1775" type="mekhq.campaign.parts.MekActuator">
+		<id>1775</id>
+		<name>Upper Leg Actuator</name>
+		<unitTonnage>65</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>4</quantity>
+		<quality>3</quality>
+		<type>12</type>
+		<location>-1</location>
+	</part>
+	<part id="1787" type="mekhq.campaign.parts.MekActuator">
+		<id>1787</id>
+		<name>Lower Leg Actuator</name>
+		<unitTonnage>65</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>4</quantity>
+		<quality>3</quality>
+		<type>13</type>
+		<location>-1</location>
+	</part>
+	<part id="1798" type="mekhq.campaign.parts.MekActuator">
+		<id>1798</id>
+		<name>Foot Actuator</name>
+		<unitTonnage>65</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>3</quantity>
+		<quality>3</quality>
+		<type>14</type>
+		<location>-1</location>
+	</part>
+	<part id="1742" type="mekhq.campaign.parts.MekActuator">
+		<id>1742</id>
+		<name>Upper Arm Actuator</name>
+		<unitTonnage>70</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<type>8</type>
+		<location>-1</location>
+	</part>
+	<part id="1757" type="mekhq.campaign.parts.MekActuator">
+		<id>1757</id>
+		<name>Lower Arm Actuator</name>
+		<unitTonnage>70</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<type>9</type>
+		<location>-1</location>
+	</part>
+	<part id="1766" type="mekhq.campaign.parts.MekActuator">
+		<id>1766</id>
+		<name>Hand Actuator</name>
+		<unitTonnage>70</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<type>10</type>
+		<location>-1</location>
+	</part>
+	<part id="1776" type="mekhq.campaign.parts.MekActuator">
+		<id>1776</id>
+		<name>Upper Leg Actuator</name>
+		<unitTonnage>70</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<type>12</type>
+		<location>-1</location>
+	</part>
+	<part id="1790" type="mekhq.campaign.parts.MekActuator">
+		<id>1790</id>
+		<name>Lower Leg Actuator</name>
+		<unitTonnage>70</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<type>13</type>
+		<location>-1</location>
+	</part>
+	<part id="6206" type="mekhq.campaign.parts.MekActuator">
+		<id>6206</id>
+		<name>Upper Leg Actuator</name>
+		<unitTonnage>70</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<type>12</type>
+		<location>-1</location>
+	</part>
+	<part id="6207" type="mekhq.campaign.parts.MekActuator">
+		<id>6207</id>
+		<name>Lower Leg Actuator</name>
+		<unitTonnage>70</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<type>13</type>
+		<location>-1</location>
+	</part>
+	<part id="6208" type="mekhq.campaign.parts.MekActuator">
+		<id>6208</id>
+		<name>Foot Actuator</name>
+		<unitTonnage>70</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<type>14</type>
+		<location>-1</location>
+	</part>
+	<part id="1744" type="mekhq.campaign.parts.MekActuator">
+		<id>1744</id>
+		<name>Upper Arm Actuator</name>
+		<unitTonnage>75</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<type>8</type>
+		<location>-1</location>
+	</part>
+	<part id="1758" type="mekhq.campaign.parts.MekActuator">
+		<id>1758</id>
+		<name>Lower Arm Actuator</name>
+		<unitTonnage>75</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<type>9</type>
+		<location>-1</location>
+	</part>
+	<part id="1767" type="mekhq.campaign.parts.MekActuator">
+		<id>1767</id>
+		<name>Hand Actuator</name>
+		<unitTonnage>75</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<type>10</type>
+		<location>-1</location>
+	</part>
+	<part id="1778" type="mekhq.campaign.parts.MekActuator">
+		<id>1778</id>
+		<name>Upper Leg Actuator</name>
+		<unitTonnage>75</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<type>12</type>
+		<location>-1</location>
+	</part>
+	<part id="1792" type="mekhq.campaign.parts.MekActuator">
+		<id>1792</id>
+		<name>Lower Leg Actuator</name>
+		<unitTonnage>75</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<type>13</type>
+		<location>-1</location>
+	</part>
+	<part id="6203" type="mekhq.campaign.parts.MekActuator">
+		<id>6203</id>
+		<name>Upper Leg Actuator</name>
+		<unitTonnage>75</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<type>12</type>
+		<location>-1</location>
+	</part>
+	<part id="6204" type="mekhq.campaign.parts.MekActuator">
+		<id>6204</id>
+		<name>Lower Leg Actuator</name>
+		<unitTonnage>75</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<type>13</type>
+		<location>-1</location>
+	</part>
+	<part id="6205" type="mekhq.campaign.parts.MekActuator">
+		<id>6205</id>
+		<name>Foot Actuator</name>
+		<unitTonnage>75</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>4</quality>
+		<type>14</type>
+		<location>-1</location>
+	</part>
+	<part id="1747" type="mekhq.campaign.parts.MekActuator">
+		<id>1747</id>
+		<name>Upper Arm Actuator</name>
+		<unitTonnage>85</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<type>8</type>
+		<location>-1</location>
+	</part>
+	<part id="1760" type="mekhq.campaign.parts.MekActuator">
+		<id>1760</id>
+		<name>Lower Arm Actuator</name>
+		<unitTonnage>85</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<type>9</type>
+		<location>-1</location>
+	</part>
+	<part id="1768" type="mekhq.campaign.parts.MekActuator">
+		<id>1768</id>
+		<name>Hand Actuator</name>
+		<unitTonnage>85</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<type>10</type>
+		<location>-1</location>
+	</part>
+	<part id="1781" type="mekhq.campaign.parts.MekActuator">
+		<id>1781</id>
+		<name>Upper Leg Actuator</name>
+		<unitTonnage>85</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<type>12</type>
+		<location>-1</location>
+	</part>
+	<part id="1793" type="mekhq.campaign.parts.MekActuator">
+		<id>1793</id>
+		<name>Lower Leg Actuator</name>
+		<unitTonnage>85</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<type>13</type>
+		<location>-1</location>
+	</part>
+	<part id="1801" type="mekhq.campaign.parts.MekActuator">
+		<id>1801</id>
+		<name>Foot Actuator</name>
+		<unitTonnage>85</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<type>14</type>
+		<location>-1</location>
+	</part>
+	<part id="2799" type="mekhq.campaign.parts.MekLocation">
+		<id>2799</id>
+		<name>Mech Head</name>
+		<unitTonnage>20</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<loc>0</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="648" type="mekhq.campaign.parts.MekLocation">
+		<id>648</id>
+		<name>Mech Head</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>EXTRA_4</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>4</quality>
+		<loc>0</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="3744" type="mekhq.campaign.parts.MekLocation">
+		<id>3744</id>
+		<name>Mech Head</name>
+		<unitTonnage>35</unitTonnage>
+		<mode>RUSH_2</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<loc>0</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="2814" type="mekhq.campaign.parts.MekLocation">
+		<id>2814</id>
+		<name>Mech Right Leg</name>
+		<unitTonnage>20</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>3</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<loc>6</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="2816" type="mekhq.campaign.parts.MekLocation">
+		<id>2816</id>
+		<name>Mech Left Leg</name>
+		<unitTonnage>20</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<loc>7</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="4402" type="mekhq.campaign.parts.MekLocation">
+		<id>4402</id>
+		<name>Mech Head</name>
+		<unitTonnage>50</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>1</quality>
+		<loc>0</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>true</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="2804" type="mekhq.campaign.parts.MekLocation">
+		<id>2804</id>
+		<name>Mech Right Torso</name>
+		<unitTonnage>20</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<loc>2</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="2807" type="mekhq.campaign.parts.MekLocation">
+		<id>2807</id>
+		<name>Mech Left Torso</name>
+		<unitTonnage>20</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<loc>3</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="659" type="mekhq.campaign.parts.MekLocation">
+		<id>659</id>
+		<name>Mech Right Arm</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>EXTRA_2</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<loc>4</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="661" type="mekhq.campaign.parts.MekLocation">
+		<id>661</id>
+		<name>Mech Left Arm</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>EXTRA_4</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<loc>5</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="663" type="mekhq.campaign.parts.MekLocation">
+		<id>663</id>
+		<name>Mech Right Leg</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>EXTRA_2</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<loc>6</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="6245" type="mekhq.campaign.parts.MekLocation">
+		<id>6245</id>
+		<name>Mech Left Leg</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<loc>7</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="7385" type="mekhq.campaign.parts.MekLocation">
+		<id>7385</id>
+		<name>Mech Head</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<loc>0</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>true</sensors>
+		<lifeSupport>true</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="264" type="mekhq.campaign.parts.MekLocation">
+		<id>264</id>
+		<name>Mech Head</name>
+		<unitTonnage>65</unitTonnage>
+		<mode>EXTRA_4</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<loc>0</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="3755" type="mekhq.campaign.parts.MekLocation">
+		<id>3755</id>
+		<name>Mech Right Arm</name>
+		<unitTonnage>35</unitTonnage>
+		<mode>RUSH_2</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<loc>4</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="3757" type="mekhq.campaign.parts.MekLocation">
+		<id>3757</id>
+		<name>Mech Left Arm</name>
+		<unitTonnage>35</unitTonnage>
+		<mode>RUSH_4</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<loc>5</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="3759" type="mekhq.campaign.parts.MekLocation">
+		<id>3759</id>
+		<name>Mech Right Leg</name>
+		<unitTonnage>35</unitTonnage>
+		<mode>RUSH_4</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<loc>6</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="3761" type="mekhq.campaign.parts.MekLocation">
+		<id>3761</id>
+		<name>Mech Left Leg</name>
+		<unitTonnage>35</unitTonnage>
+		<mode>RUSH_2</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<loc>7</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="6653" type="mekhq.campaign.parts.MekLocation">
+		<id>6653</id>
+		<name>Mech Left Arm</name>
+		<unitTonnage>40</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>3</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<loc>5</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="6655" type="mekhq.campaign.parts.MekLocation">
+		<id>6655</id>
+		<name>Mech Right Leg</name>
+		<unitTonnage>40</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<loc>6</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="6657" type="mekhq.campaign.parts.MekLocation">
+		<id>6657</id>
+		<name>Mech Left Leg</name>
+		<unitTonnage>40</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<loc>7</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="7383" type="mekhq.campaign.parts.MekLocation">
+		<id>7383</id>
+		<name>Mech Right Arm</name>
+		<unitTonnage>40</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<loc>4</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="653" type="mekhq.campaign.parts.MekLocation">
+		<id>653</id>
+		<name>Mech Right Torso</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>EXTRA_4</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>4</quality>
+		<loc>2</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="656" type="mekhq.campaign.parts.MekLocation">
+		<id>656</id>
+		<name>Mech Left Torso</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>EXTRA_3</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<loc>3</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="1847" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>1847</id>
+		<name>Machine Gun</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>11</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Machine Gun</typeName>
+		<size>1.0</size>
+		<equipTonnage>0.5</equipTonnage>
+	</part>
+	<part id="2822" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>2822</id>
+		<name>Machine Gun</name>
+		<unitTonnage>20</unitTonnage>
+		<mode>RUSH_4</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>5</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Machine Gun</typeName>
+		<size>1.0</size>
+		<equipTonnage>0.5</equipTonnage>
+	</part>
+	<part id="3581" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>3581</id>
+		<name>Machine Gun</name>
+		<unitTonnage>100</unitTonnage>
+		<mode>EXTRA_4</mode>
+		<skillMin>2</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Machine Gun</typeName>
+		<size>1.0</size>
+		<equipTonnage>0.5</equipTonnage>
+	</part>
+	<part id="3582" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>3582</id>
+		<name>Machine Gun</name>
+		<unitTonnage>100</unitTonnage>
+		<mode>EXTRA_4</mode>
+		<skillMin>3</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Machine Gun</typeName>
+		<size>1.0</size>
+		<equipTonnage>0.5</equipTonnage>
+	</part>
+	<part id="6215" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>6215</id>
+		<name>Machine Gun</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>2</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Machine Gun</typeName>
+		<size>1.0</size>
+		<equipTonnage>0.5</equipTonnage>
+	</part>
+	<part id="7580" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>7580</id>
+		<name>Small Laser</name>
+		<unitTonnage>45</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Small Laser</typeName>
+		<size>1.0</size>
+		<equipTonnage>0.5</equipTonnage>
+	</part>
+	<part id="667" type="mekhq.campaign.parts.equipment.JumpJet">
+		<id>667</id>
+		<name>Jump Jet</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>EXTRA_4</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>6</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Jump Jet</typeName>
+		<size>1.0</size>
+		<equipTonnage>0.5</equipTonnage>
+	</part>
+	<part id="6659" type="mekhq.campaign.parts.equipment.JumpJet">
+		<id>6659</id>
+		<name>Jump Jet</name>
+		<unitTonnage>40</unitTonnage>
+		<mode>EXTRA_4</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>4</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Jump Jet</typeName>
+		<size>1.0</size>
+		<equipTonnage>0.5</equipTonnage>
+	</part>
+	<part id="7581" type="mekhq.campaign.parts.equipment.JumpJet">
+		<id>7581</id>
+		<name>Jump Jet</name>
+		<unitTonnage>45</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Jump Jet</typeName>
+		<size>1.0</size>
+		<equipTonnage>1.401298464324817E-45</equipTonnage>
+	</part>
+	<part id="4243" type="mekhq.campaign.parts.equipment.JumpJet">
+		<id>4243</id>
+		<name>Jump Jet</name>
+		<unitTonnage>55</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Jump Jet</typeName>
+		<size>1.0</size>
+		<equipTonnage>1.401298464324817E-45</equipTonnage>
+	</part>
+	<part id="3396" type="mekhq.campaign.parts.MekLocation">
+		<id>3396</id>
+		<name>Mech Left Leg</name>
+		<unitTonnage>50</unitTonnage>
+		<mode>EXTRA_4</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>2</quality>
+		<loc>7</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="3749" type="mekhq.campaign.parts.MekLocation">
+		<id>3749</id>
+		<name>Mech Right Torso</name>
+		<unitTonnage>35</unitTonnage>
+		<mode>RUSH_2</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<loc>2</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="7575" type="mekhq.campaign.parts.MekLocation">
+		<id>7575</id>
+		<name>Mech Left Torso</name>
+		<unitTonnage>35</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<loc>3</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="7384" type="mekhq.campaign.parts.MekLocation">
+		<id>7384</id>
+		<name>Mech Left Arm</name>
+		<unitTonnage>55</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<loc>5</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="6645" type="mekhq.campaign.parts.MekLocation">
+		<id>6645</id>
+		<name>Mech Right Torso</name>
+		<unitTonnage>40</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<loc>2</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="3303" type="mekhq.campaign.parts.MekLocation">
+		<id>3303</id>
+		<name>Mech Left Arm</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>EXTRA_4</mode>
+		<skillMin>3</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<loc>5</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="4448" type="mekhq.campaign.parts.MekLocation">
+		<id>4448</id>
+		<name>Mech Left Leg</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>2</quality>
+		<loc>7</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="6235" type="mekhq.campaign.parts.MekLocation">
+		<id>6235</id>
+		<name>Mech Right Arm</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>1</quality>
+		<loc>4</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="279" type="mekhq.campaign.parts.MekLocation">
+		<id>279</id>
+		<name>Mech Right Leg</name>
+		<unitTonnage>65</unitTonnage>
+		<mode>EXTRA_3</mode>
+		<skillMin>3</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<loc>6</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="281" type="mekhq.campaign.parts.MekLocation">
+		<id>281</id>
+		<name>Mech Left Leg</name>
+		<unitTonnage>65</unitTonnage>
+		<mode>EXTRA_3</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<loc>7</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="7381" type="mekhq.campaign.parts.MekLocation">
+		<id>7381</id>
+		<name>Mech Right Arm</name>
+		<unitTonnage>65</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<loc>4</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="3930" type="mekhq.campaign.parts.MekLocation">
+		<id>3930</id>
+		<name>Mech Left Torso</name>
+		<unitTonnage>50</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<loc>3</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="7382" type="mekhq.campaign.parts.MekLocation">
+		<id>7382</id>
+		<name>Mech Right Torso</name>
+		<unitTonnage>50</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<loc>2</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="4396" type="mekhq.campaign.parts.MekLocation">
+		<id>4396</id>
+		<name>Mech Left Torso</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>2</quality>
+		<loc>3</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="6246" type="mekhq.campaign.parts.MekLocation">
+		<id>6246</id>
+		<name>Mech Right Torso</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>1</quality>
+		<loc>2</loc>
+		<structureType>0</structureType>
+		<clan>false</clan>
+		<tsm>false</tsm>
+		<percent>1.0</percent>
+		<forQuad>false</forQuad>
+		<sensors>false</sensors>
+		<lifeSupport>false</lifeSupport>
+		<breached>false</breached>
+	</part>
+	<part id="298" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>298</id>
+		<name>Flamer</name>
+		<unitTonnage>65</unitTonnage>
+		<mode>EXTRA_4</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Flamer</typeName>
+		<size>1.0</size>
+		<equipTonnage>1.0</equipTonnage>
+	</part>
+	<part id="1802" type="mekhq.campaign.parts.MekGyro">
+		<id>1802</id>
+		<name>Standard Gyro</name>
+		<unitTonnage>0</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<type>0</type>
+		<gyroTonnage>1.0</gyroTonnage>
+	</part>
+	<part id="1818" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>1818</id>
+		<name>Medium Laser</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>32</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Medium Laser</typeName>
+		<size>1.0</size>
+		<equipTonnage>1.0</equipTonnage>
+	</part>
+	<part id="1826" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>1826</id>
+		<name>SRM 2</name>
+		<unitTonnage>55</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>7</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>SRM 2</typeName>
+		<size>1.0</size>
+		<equipTonnage>1.0</equipTonnage>
+	</part>
+	<part id="1858" type="mekhq.campaign.parts.equipment.HeatSink">
+		<id>1858</id>
+		<name>Heat Sink</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>67</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Heat Sink</typeName>
+		<size>1.0</size>
+		<equipTonnage>1.0</equipTonnage>
+	</part>
+	<part id="2536" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>2536</id>
+		<name>Medium Laser</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>EXTRA_4</mode>
+		<skillMin>2</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Medium Laser</typeName>
+		<size>1.0</size>
+		<equipTonnage>1.0</equipTonnage>
+	</part>
+	<part id="3588" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>3588</id>
+		<name>SRM 2</name>
+		<unitTonnage>100</unitTonnage>
+		<mode>EXTRA_4</mode>
+		<skillMin>2</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>SRM 2</typeName>
+		<size>1.0</size>
+		<equipTonnage>1.0</equipTonnage>
+	</part>
+	<part id="3833" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>3833</id>
+		<name>Medium Laser</name>
+		<unitTonnage>50</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>4</quantity>
+		<quality>5</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Medium Laser</typeName>
+		<size>1.0</size>
+		<equipTonnage>1.0</equipTonnage>
+	</part>
+	<part id="4238" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>4238</id>
+		<name>Medium Laser</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>3</quantity>
+		<quality>2</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Medium Laser</typeName>
+		<size>1.0</size>
+		<equipTonnage>1.0</equipTonnage>
+	</part>
+	<part id="4244" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>4244</id>
+		<name>SRM 2</name>
+		<unitTonnage>100</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>2</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>SRM 2</typeName>
+		<size>1.0</size>
+		<equipTonnage>1.0</equipTonnage>
+	</part>
+	<part id="6202" type="mekhq.campaign.parts.equipment.HeatSink">
+		<id>6202</id>
+		<name>Heat Sink</name>
+		<unitTonnage>75</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Heat Sink</typeName>
+		<size>1.0</size>
+		<equipTonnage>1.0</equipTonnage>
+	</part>
+	<part id="6663" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>6663</id>
+		<name>Medium Laser</name>
+		<unitTonnage>40</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>3</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Medium Laser</typeName>
+		<size>1.0</size>
+		<equipTonnage>1.0</equipTonnage>
+	</part>
+	<part id="7407" type="mekhq.campaign.parts.equipment.HeatSink">
+		<id>7407</id>
+		<name>Heat Sink</name>
+		<unitTonnage>65</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>4</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Heat Sink</typeName>
+		<size>1.0</size>
+		<equipTonnage>1.0</equipTonnage>
+	</part>
+	<part id="1803" type="mekhq.campaign.parts.MekGyro">
+		<id>1803</id>
+		<name>Standard Gyro</name>
+		<unitTonnage>0</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>6</quantity>
+		<quality>3</quality>
+		<type>0</type>
+		<gyroTonnage>2.0</gyroTonnage>
+	</part>
+	<part id="1831" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>1831</id>
+		<name>SRM 4</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>6</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>SRM 4</typeName>
+		<size>1.0</size>
+		<equipTonnage>2.0</equipTonnage>
+	</part>
+	<part id="1841" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>1841</id>
+		<name>LRM 5</name>
+		<unitTonnage>55</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>7</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>LRM 5</typeName>
+		<size>1.0</size>
+		<equipTonnage>2.0</equipTonnage>
+	</part>
+	<part id="3578" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>3578</id>
+		<name>LRM 5</name>
+		<unitTonnage>100</unitTonnage>
+		<mode>EXTRA_4</mode>
+		<skillMin>3</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>LRM 5</typeName>
+		<size>1.0</size>
+		<equipTonnage>2.0</equipTonnage>
+	</part>
+	<part id="3580" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>3580</id>
+		<name>LRM 5</name>
+		<unitTonnage>100</unitTonnage>
+		<mode>EXTRA_4</mode>
+		<skillMin>2</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>LRM 5</typeName>
+		<size>1.0</size>
+		<equipTonnage>2.0</equipTonnage>
+	</part>
+	<part id="6216" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>6216</id>
+		<name>SRM 4</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>1</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>SRM 4</typeName>
+		<size>1.0</size>
+		<equipTonnage>2.0</equipTonnage>
+	</part>
+	<part id="6217" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>6217</id>
+		<name>SRM 4</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>0</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>SRM 4</typeName>
+		<size>1.0</size>
+		<equipTonnage>2.0</equipTonnage>
+	</part>
+	<part id="6916" type="mekhq.campaign.parts.EnginePart">
+		<id>6916</id>
+		<name>30 ICE [Vehicle] Engine</name>
+		<unitTonnage>10</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<engineType>0</engineType>
+		<engineRating>30</engineRating>
+		<engineFlags>2</engineFlags>
+		<forHover>false</forHover>
+	</part>
+	<part id="2792" type="mekhq.campaign.parts.AmmoStorage">
+		<id>2792</id>
+		<name>Half Machine Gun Ammo</name>
+		<unitTonnage>0</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<typeName>IS Machine Gun Ammo - Half</typeName>
+		<shots>200</shots>
+	</part>
+	<part id="7783" type="mekhq.campaign.parts.MekCockpit">
+		<id>7783</id>
+		<name>Standard Cockpit</name>
+		<unitTonnage>60</unitTonnage>
+		<hits>1</hits>
+		<timeSpent>120</timeSpent>
+		<mode>EXTRA_4</mode>
+		<techId>a3cb84f7-142a-4bd0-ac47-ffddcd110af7</techId>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>0</quality>
+		<type>0</type>
+	</part>
+	<part id="305" type="mekhq.campaign.parts.MekCockpit">
+		<id>305</id>
+		<name>Standard Cockpit</name>
+		<unitTonnage>65</unitTonnage>
+		<mode>EXTRA_4</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>3</quantity>
+		<quality>3</quality>
+		<type>0</type>
+	</part>
+	<part id="1807" type="mekhq.campaign.parts.MekGyro">
+		<id>1807</id>
+		<name>Standard Gyro</name>
+		<unitTonnage>0</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<type>0</type>
+		<gyroTonnage>3.0</gyroTonnage>
+	</part>
+	<part id="1834" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>1834</id>
+		<name>SRM 6</name>
+		<unitTonnage>65</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>10</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>SRM 6</typeName>
+		<size>1.0</size>
+		<equipTonnage>3.0</equipTonnage>
+	</part>
+	<part id="2830" type="mekhq.campaign.parts.MekCockpit">
+		<id>2830</id>
+		<name>Standard Cockpit</name>
+		<unitTonnage>20</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>5</quality>
+		<type>0</type>
+	</part>
+	<part id="4245" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>4245</id>
+		<name>SRM 6</name>
+		<unitTonnage>100</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>3</quantity>
+		<quality>1</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>SRM 6</typeName>
+		<size>1.0</size>
+		<equipTonnage>3.0</equipTonnage>
+	</part>
+	<part id="6201" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>6201</id>
+		<name>SRM 6</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>4</quantity>
+		<quality>2</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>SRM 6</typeName>
+		<size>1.0</size>
+		<equipTonnage>3.0</equipTonnage>
+	</part>
+	<part id="7576" type="mekhq.campaign.parts.MekGyro">
+		<id>7576</id>
+		<name>Standard Gyro</name>
+		<unitTonnage>35</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>5</quality>
+		<type>0</type>
+		<gyroTonnage>3.0</gyroTonnage>
+	</part>
+	<part id="2773" type="mekhq.campaign.parts.AmmoStorage">
+		<id>2773</id>
+		<name>AC/5 Ammo</name>
+		<unitTonnage>0</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<typeName>IS Ammo AC/5</typeName>
+		<shots>60</shots>
+	</part>
+	<part id="1836" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>1836</id>
+		<name>LRM 10</name>
+		<unitTonnage>85</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>14</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>LRM 10</typeName>
+		<size>1.0</size>
+		<equipTonnage>5.0</equipTonnage>
+	</part>
+	<part id="1850" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>1850</id>
+		<name>Large Laser</name>
+		<unitTonnage>55</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>8</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Large Laser</typeName>
+		<size>1.0</size>
+		<equipTonnage>5.0</equipTonnage>
+	</part>
+	<part id="6200" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>6200</id>
+		<name>Large Laser</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>2</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Large Laser</typeName>
+		<size>1.0</size>
+		<equipTonnage>5.0</equipTonnage>
+	</part>
+	<part id="1822" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>1822</id>
+		<name>PPC</name>
+		<unitTonnage>65</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>6</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>PPC</typeName>
+		<size>1.0</size>
+		<equipTonnage>7.0</equipTonnage>
+	</part>
+	<part id="4236" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>4236</id>
+		<name>PPC</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>1</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>PPC</typeName>
+		<size>1.0</size>
+		<equipTonnage>7.0</equipTonnage>
+	</part>
+	<part id="4403" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>4403</id>
+		<name>PPC</name>
+		<unitTonnage>50</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>2</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>PPC</typeName>
+		<size>1.0</size>
+		<equipTonnage>7.0</equipTonnage>
+	</part>
+	<part id="682" type="mekhq.campaign.parts.EnginePart">
+		<id>682</id>
+		<name>180 Fusion Engine</name>
+		<unitTonnage>30</unitTonnage>
+		<mode>EXTRA_3</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<engineType>1</engineType>
+		<engineRating>180</engineRating>
+		<engineFlags>0</engineFlags>
+		<forHover>false</forHover>
+	</part>
+	<part id="1434" type="mekhq.campaign.parts.AmmoStorage">
+		<id>1434</id>
+		<name>LRM 20 Ammo</name>
+		<unitTonnage>1</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<typeName>IS Ammo LRM-20</typeName>
+		<shots>42</shots>
+	</part>
+	<part id="2731" type="mekhq.campaign.parts.SVArmor">
+		<id>2731</id>
+		<name>BAR 7 armor (D)</name>
+		<unitTonnage>0</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<amount>172</amount>
+		<type>0</type>
+		<location>-1</location>
+		<rear>false</rear>
+		<amountNeeded>0</amountNeeded>
+		<clan>false</clan>
+		<bar>7</bar>
+		<techRating>D</techRating>
+	</part>
+	<part id="2460" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>2460</id>
+		<name>AC/5</name>
+		<unitTonnage>80</unitTonnage>
+		<mode>EXTRA_4</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>5</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Autocannon/5</typeName>
+		<size>1.0</size>
+		<equipTonnage>8.0</equipTonnage>
+	</part>
+	<part id="2463" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>2463</id>
+		<name>AC/5</name>
+		<unitTonnage>80</unitTonnage>
+		<mode>EXTRA_4</mode>
+		<skillMin>3</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Autocannon/5</typeName>
+		<size>1.0</size>
+		<equipTonnage>8.0</equipTonnage>
+	</part>
+	<part id="4241" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>4241</id>
+		<name>AC/5</name>
+		<unitTonnage>50</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>2</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Autocannon/5</typeName>
+		<size>1.0</size>
+		<equipTonnage>8.0</equipTonnage>
+	</part>
+	<part id="1840" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>1840</id>
+		<name>LRM 20</name>
+		<unitTonnage>1900</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>5</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>LRM 20</typeName>
+		<size>1.0</size>
+		<equipTonnage>10.0</equipTonnage>
+	</part>
+	<part id="1885" type="mekhq.campaign.parts.AmmoStorage">
+		<id>1885</id>
+		<name>LRM 5 Ammo</name>
+		<unitTonnage>1</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<typeName>IS Ammo LRM-5</typeName>
+		<shots>240</shots>
+	</part>
+	<part id="1890" type="mekhq.campaign.parts.AmmoStorage">
+		<id>1890</id>
+		<name>Machine Gun Ammo</name>
+		<unitTonnage>1</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<typeName>IS Ammo MG - Full</typeName>
+		<shots>2000</shots>
+	</part>
+	<part id="1863" type="mekhq.campaign.parts.AmmoStorage">
+		<id>1863</id>
+		<name>SRM 2 Ammo</name>
+		<unitTonnage>1</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<typeName>IS Ammo SRM-2</typeName>
+		<shots>550</shots>
+	</part>
+	<part id="6222" type="mekhq.campaign.parts.equipment.EquipmentPart">
+		<id>6222</id>
+		<name>AC/10</name>
+		<unitTonnage>100</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<equipmentNum>-1</equipmentNum>
+		<typeName>Autocannon/10</typeName>
+		<size>1.0</size>
+		<equipTonnage>12.0</equipTonnage>
+	</part>
+	<part id="1872" type="mekhq.campaign.parts.AmmoStorage">
+		<id>1872</id>
+		<name>SRM 6 Ammo</name>
+		<unitTonnage>1</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<typeName>IS Ammo SRM-6</typeName>
+		<shots>180</shots>
+	</part>
+	<part id="1869" type="mekhq.campaign.parts.AmmoStorage">
+		<id>1869</id>
+		<name>SRM 4 Ammo</name>
+		<unitTonnage>1</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<typeName>IS Ammo SRM-4</typeName>
+		<shots>300</shots>
+	</part>
+	<part id="6240" type="mekhq.campaign.parts.EnginePart">
+		<id>6240</id>
+		<name>180 ICE [Vehicle] Engine</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>1</quality>
+		<engineType>0</engineType>
+		<engineRating>180</engineRating>
+		<engineFlags>2</engineFlags>
+		<forHover>false</forHover>
+	</part>
+	<part id="3601" type="mekhq.campaign.parts.EnginePart">
+		<id>3601</id>
+		<name>200 ICE [Vehicle] Engine</name>
+		<unitTonnage>100</unitTonnage>
+		<mode>EXTRA_4</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<engineType>0</engineType>
+		<engineRating>200</engineRating>
+		<engineFlags>2</engineFlags>
+		<forHover>false</forHover>
+	</part>
+	<part id="1878" type="mekhq.campaign.parts.AmmoStorage">
+		<id>1878</id>
+		<name>LRM 10 Ammo</name>
+		<unitTonnage>1</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<typeName>IS Ammo LRM-10</typeName>
+		<shots>216</shots>
+	</part>
+	<part id="2467" type="mekhq.campaign.parts.EnginePart">
+		<id>2467</id>
+		<name>240 ICE [Vehicle] Engine</name>
+		<unitTonnage>80</unitTonnage>
+		<mode>EXTRA_2</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<engineType>0</engineType>
+		<engineRating>240</engineRating>
+		<engineFlags>2</engineFlags>
+		<forHover>false</forHover>
+	</part>
+	<part id="6238" type="mekhq.campaign.parts.EnginePart">
+		<id>6238</id>
+		<name>240 ICE [Vehicle] Engine</name>
+		<unitTonnage>60</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>2</quality>
+		<engineType>0</engineType>
+		<engineRating>240</engineRating>
+		<engineFlags>2</engineFlags>
+		<forHover>false</forHover>
+	</part>
+	<part id="6816" type="mekhq.campaign.parts.EnginePart">
+		<id>6816</id>
+		<name>250 ICE [Vehicle] Engine</name>
+		<unitTonnage>50</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>2</quantity>
+		<quality>3</quality>
+		<engineType>0</engineType>
+		<engineRating>250</engineRating>
+		<engineFlags>2</engineFlags>
+		<forHover>false</forHover>
+	</part>
+	<part id="3800" type="mekhq.campaign.parts.Armor">
+		<id>3800</id>
+		<name>Armor (Standard Aerospace)</name>
+		<unitTonnage>0</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<amount>479</amount>
+		<type>41</type>
+		<location>-1</location>
+		<rear>false</rear>
+		<amountNeeded>0</amountNeeded>
+		<clan>false</clan>
+	</part>
+	<part id="7685" type="mekhq.campaign.parts.Armor">
+		<id>7685</id>
+		<name>Armor (Standard)</name>
+		<unitTonnage>0</unitTonnage>
+		<mode>NORMAL</mode>
+		<skillMin>1</skillMin>
+		<brandNew>false</brandNew>
+		<quantity>1</quantity>
+		<quality>3</quality>
+		<amount>2080</amount>
+		<type>0</type>
+		<location>-1</location>
+		<rear>false</rear>
+		<amountNeeded>0</amountNeeded>
+		<clan>false</clan>
+	</part>
+</parts>

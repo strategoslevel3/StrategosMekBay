@@ -1,0 +1,84 @@
+#Saved from version 0.50.10 on 2025-12-11
+<UnitType>
+AeroSpaceFighter
+</UnitType>
+<Name>
+Centurion
+</Name>
+<Model>
+CNT-3S (Adelade)
+</Model>
+<mul id:>
+3927
+</mul id:>
+<year>
+3151
+</year>
+<originalBuildYear>
+3151
+</originalBuildYear>
+<type>
+IS Level 3
+</type>
+<role>
+Interceptor
+</role>
+<motion_type>
+Aerodyne
+</motion_type>
+<SafeThrust>
+12
+</SafeThrust>
+<cockpit_type>
+0
+</cockpit_type>
+<heatsinks>
+10
+</heatsinks>
+<sink_type>
+1
+</sink_type>
+<fuel>
+400
+</fuel>
+<engine_type>
+2
+</engine_type>
+<armor_type>
+19
+</armor_type>
+<armor_tech_rating>
+0
+</armor_tech_rating>
+<armor_tech_level>
+1
+</armor_tech_level>
+<armor>
+48
+34
+34
+36
+</armor>
+<Nose Equipment>
+ISERMediumLaser
+ISERMediumLaser
+</Nose Equipment>
+<Left Wing Equipment>
+ISERMediumLaser
+</Left Wing Equipment>
+<Right Wing Equipment>
+ISERMediumLaser
+</Right Wing Equipment>
+<Aft Equipment>
+</Aft Equipment>
+<Wings Equipment>
+</Wings Equipment>
+<Fuselage Equipment>
+</Fuselage Equipment>
+<source>
+TRO: 3075
+</source>
+<tonnage>
+30.0
+</tonnage>
+

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.49.19.1" >
+
+		<entity chassis="Crab" model="CRB-20" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="dfe71900-4a56-42fe-b418-20f4a4410bb1" quirks="easy_maintain">
+			<pilot size="1" name="Ban-zhang Ken Chinelo" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" artillery="3" externalId="2573c7ec-efdf-46ac-becf-e3274d2e50a7" ejected="false" autoeject="true"/>
+			<Game id="1"/>
+			<Force force="1 Bat 2nd Company|8||Battle Lance|2||"/>
+		</entity>
+
+		<entity chassis="Vindicator" model="VND-1R" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="bf5eec01-394c-48a5-a6d5-8532e58cbb4e" quirks="rugged_1::difficult_eject">
+			<pilot size="1" name="Zhang-si Ngan-Ling Lifentov" nick="" gender="FEMALE" clanperson="false" gunnery="2" piloting="4" artillery="2" externalId="aa102e51-9e83-44cd-bdf3-1ae07506f2ac" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="6" type="IS Ammo LRM-5" shots="24"/>
+			</location>
+			<Game id="2"/>
+			<Force force="1 Bat 2nd Company|8||Command Lance|1||"/>
+		</entity>
+
+		<entity chassis="Griffin" model="GRF-1N" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="b912234e-6b00-4347-a77d-9c51cd4530c5" quirks="battle_fists_la::battle_fists_ra::rugged_1::ubiquitous_is::ubiquitous_clan">
+			<pilot size="1" name="Zhang-si Lyutsiy Ostrowski" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="3" artillery="4" externalId="82d607e8-0221-433e-9d56-30d08094eae3" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="5" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="6" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<location index="4"> Right Arm
+				<slot index="5" type="PPC" quirks="jettison_capable" isDestroyed="false"/>
+				<slot index="6" type="PPC" quirks="jettison_capable" isDestroyed="false"/>
+				<slot index="7" type="PPC" quirks="jettison_capable" isDestroyed="false"/>
+			</location>
+			<Game id="3"/>
+			<Force force="1 Bat 2nd Company|8||Command Lance|1||"/>
+		</entity>
+
+		<entity chassis="Wyvern" model="WVE-6N" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="49a6a368-9eb4-4db5-b8b7-cbc8ccea787b" quirks="rugged_1">
+			<pilot size="1" name="Zhang-si Margaret Mainaky" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="75fc3242-b947-4baa-a4f6-a6fa5f0f9680" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="6" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="4" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="4"/>
+			<Force force="1 Bat 2nd Company|8||Command Lance|1||"/>
+		</entity>
+
+		<entity chassis="Hunchback" model="HBK-4G" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="45b86548-61af-49d5-bb4c-de233e0c3e73" quirks="battle_fists_la::battle_fists_ra">
+			<pilot size="1" name="Zhang-si Joe Zhi" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="3" artillery="3" externalId="9d840024-7748-40b4-9950-e57629d44595" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="1" type="IS Ammo AC/20" shots="5"/>
+				<slot index="2" type="IS Ammo AC/20" shots="5"/>
+			</location>
+			<Game id="5"/>
+			<Force force="1 Bat 2nd Company|8||Battle Lance|2||"/>
+		</entity>
+
+		<entity chassis="Wolverine" model="WVR-6R" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="6e4bed29-e55c-4bcb-9ff9-56a8827a93b7" quirks="command_mech::ext_twist::imp_com::pro_actuator::ubiquitous_is::ubiquitous_clan::cramped_cockpit">
+			<pilot size="1" name="Zhang-si Forbia Shaw" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" artillery="3" externalId="491cd481-da1e-4c87-8cc2-d3230bb6cfa5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="3" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<location index="4"> Right Arm
+				<slot index="5" type="Autocannon/5" quirks="jettison_capable" isDestroyed="false"/>
+				<slot index="6" type="Autocannon/5" quirks="jettison_capable" isDestroyed="false"/>
+				<slot index="7" type="Autocannon/5" quirks="jettison_capable" isDestroyed="false"/>
+				<slot index="8" type="Autocannon/5" quirks="jettison_capable" isDestroyed="false"/>
+				<slot index="9" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<Game id="6"/>
+			<Force force="1 Bat 2nd Company|8||Battle Lance|2||"/>
+		</entity>
+
+		<entity chassis="Thunderbolt" model="TDR-5S" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="914172b9-003c-41c6-a5c6-5184bc938f58" quirks="multi_trac::rugged_2::ubiquitous_is">
+			<pilot size="1" name="Zhang-si Teodor Jaroskavsky" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="4" artillery="4" externalId="eb4271a5-8f99-4e93-95ae-79645cb7187a" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="12" type="IS Ammo LRM-15" shots="8"/>
+			</location>
+			<location index="2"> Right Torso
+				<slot index="5" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="7" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="7"/>
+			<Force force="1 Bat 2nd Company|8||Battle Lance|2||"/>
+		</entity>
+
+		<entity chassis="Vulcan" model="VL-2T" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="b228a526-7f5e-4a9e-9fac-a598ad360d94" quirks="low_profile">
+			<pilot size="1" name="Ban-zhang Zita Burstzyn" nick="" gender="FEMALE" clanperson="false" gunnery="2" piloting="3" artillery="2" externalId="e132c63c-4b7b-4af1-b12a-f086002833c0" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="5" type="IS Ammo AC/2" shots="45"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="4" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="9"/>
+			<Force force="1 Bat 2nd Company|8||Battle Lance|3||"/>
+		</entity>
+
+		<entity chassis="Shadow Hawk" model="SHD-2H" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="d3aa0e20-fde4-4754-b8ba-039dc5fd6cad" quirks="battle_fists_la::battle_fists_ra::imp_life_support::rugged_1::ubiquitous_is::ubiquitous_clan">
+			<pilot size="1" name="Zhang-si Donnalee Donatello" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="3" artillery="3" externalId="05c549cb-d674-4368-a733-a870bdfdc74b" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="12" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<location index="2"> Right Torso
+				<slot index="4" type="IS Ammo LRM-5" shots="24"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="6" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<Game id="10"/>
+			<Force force="1 Bat 2nd Company|8||Battle Lance|3||"/>
+		</entity>
+
+		<entity chassis="JagerMech" model="JM6-S" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="d7ee9504-8c85-41e0-aae0-0d532e1fe159" quirks="anti_air">
+			<pilot size="1" name="Zhang-si Jacob Ware" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="c39ec3fb-866c-4fb0-a53b-57d55b41e2a0" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Ammo AC/2" shots="45"/>
+			</location>
+			<location index="2"> Right Torso
+				<slot index="2" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="2" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<Game id="11"/>
+			<Force force="1 Bat 2nd Company|8||Battle Lance|3||"/>
+		</entity>
+
+		<entity chassis="Grasshopper" model="GHR-5H" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e299261b-9433-4db0-823f-1ac07061b385" quirks="rugged_1">
+			<pilot size="1" name="Zhang-si Dina Chong" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="3" artillery="4" externalId="da3fdaea-4cf9-4c3b-86a2-9aacd08f3f0e" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="6" type="IS Ammo LRM-5" shots="24"/>
+			</location>
+			<Game id="12"/>
+			<Force force="1 Bat 2nd Company|8||Battle Lance|3||"/>
+		</entity>
+
+		<entity chassis="Foot Platoon (Anti-'Mech)" model="(Laser)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="cd846b8d-7536-4648-8e1b-0864aced82f7">
+			<pilot size="1" name="Pai-zhang Zahra Rumaliza" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" artillery="4" externalId="15530a56-ec99-4452-9af5-16dfc20d7474" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="13"/>
+			<Force force="2 Bat 2nd Company|9||Alpha Platoon|4||"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(MG)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="6dce9608-0556-4d7a-b865-610d399b4a00">
+			<pilot size="1" name="Ban-zhang Gulgun Erim" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="8" artillery="4" externalId="3b8a373e-b3a9-44e3-b656-638c4c122205" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="14"/>
+			<Force force="2 Bat 2nd Company|9||Beta Platoon|5||"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(SRM)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a91c7a02-8ab1-4949-928e-77a9a50bfa4e">
+			<pilot size="1" name="Ban-zhang Lutfiyya bin Ra'id" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="8" artillery="4" externalId="5ba184ba-2ee0-462b-85b3-38509995cae9" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="15"/>
+			<Force force="2 Bat 2nd Company|9||Charlie Platoon|6||"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="81e54275-ae4d-4fcf-bb4b-483c50502653">
+			<pilot size="1" name="Zhang-si gor Grlic" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="37efa8b7-4e90-4a3a-a9e6-8222fc80db27" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="16"/>
+			<Force force="2 Bat 2nd Company|9||Alpha Platoon|4||"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="99e286b9-766b-4355-b58e-7b1e21427d85">
+			<pilot size="1" name="Zhang-si Dorothy Adipo" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="385d968e-6d2e-45c5-bf20-646680bd13bd" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="17"/>
+			<Force force="2 Bat 2nd Company|9||Alpha Platoon|4||"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled SRM)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="632d7579-f2f3-4e97-8a41-e68bc72d032f">
+			<pilot size="1" name="Zhang-si Noah Williams" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="fca9fbe5-54e2-4992-8f7e-3674e23c4c4d" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="18"/>
+			<Force force="2 Bat 2nd Company|9||Alpha Platoon|4||"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled SRM)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="ca76ae9c-faa1-4948-83e6-fa4938af6070">
+			<pilot size="1" name="Zhang-si Alexus Sakata" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="a6c70746-b42e-4df4-aae3-e57e05174181" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="19"/>
+			<Force force="2 Bat 2nd Company|9||Alpha Platoon|4||"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="9829f559-f7c7-45fa-bab3-01785d85df44">
+			<pilot size="1" name="Zhang-si Yong-hoon Takahashi" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="6e6f11a7-b2d9-4452-abf7-6be522515a83" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="20"/>
+			<Force force="2 Bat 2nd Company|9||Beta Platoon|5||"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="c9b3bedb-a660-43e5-900a-17cd5689e07b">
+			<pilot size="1" name="Zhang-si Dieu-Hien Caraballo" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="c3108825-3f07-45eb-9a82-69cf9bb7d5cc" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="21"/>
+			<Force force="2 Bat 2nd Company|9||Beta Platoon|5||"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled SRM)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="7e674095-b24f-40f4-9432-0fb39a79ced5">
+			<pilot size="1" name="Zhang-si Don van Woert" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="e3904d2f-e863-461d-81d8-7b04db76b541" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="22"/>
+			<Force force="2 Bat 2nd Company|9||Beta Platoon|5||"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled SRM)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="d5e04418-3243-4439-98c5-1dd68fdcb930">
+			<pilot size="1" name="Zhang-si Kathleen Adams" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="34bfb88c-bbc4-4108-a598-423c78ff057d" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="23"/>
+			<Force force="2 Bat 2nd Company|9||Beta Platoon|5||"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="cd795e1a-bdd7-48b4-8fc9-c49a5897e381">
+			<pilot size="1" name="Zhang-si Soo-Jin Kim" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="26db1526-1285-47a5-942b-fec4227e36b3" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="24"/>
+			<Force force="2 Bat 2nd Company|9||Charlie Platoon|6||"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="1a4a6cbd-18e7-497f-8cbf-c5359e8af6a6">
+			<pilot size="1" name="Zhang-si Abdur Rahim Baburkhel" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="6b8d5f54-45f0-4bde-a8de-ca6fbd2cd345" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="25"/>
+			<Force force="2 Bat 2nd Company|9||Charlie Platoon|6||"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled SRM)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e80f934f-7938-4e60-b971-6e49851af749">
+			<pilot size="1" name="Zhang-si Castalia Gatzioudis" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="746eed65-1b3f-4029-a48b-1dfa5f6fed4b" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="26"/>
+			<Force force="2 Bat 2nd Company|9||Charlie Platoon|6||"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled SRM)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="9531c53e-4178-4f48-a689-7ba85da3bae6">
+			<pilot size="1" name="Zhang-si Marcus Ledvak" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="5098ba74-25ef-4674-a38c-583cb055ea37" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="27"/>
+			<Force force="2 Bat 2nd Company|9||Charlie Platoon|6||"/>
+		</entity>
+
+		<entity chassis="Peregrine Attack VTOL" model="" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="0fccdf0a-7cd5-463a-830e-26a43ef84675">
+			<pilot size="2" name="Ban-zhang Spencer Rushworth" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="4" artillery="4" externalId="8b13a43e-f1ff-41f8-b273-803082b2870a" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<bombs>
+			</bombs>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="2" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="28"/>
+			<Force force="2 Bat 2nd Company|9||Armored Cavalry Lance|7||"/>
+		</entity>
+
+		<entity chassis="Peregrine Attack VTOL" model="" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="1b90c713-2e74-451a-b019-538841fa6add">
+			<pilot size="2" name="Zhang-si Ratislav Plihta" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="5" artillery="4" externalId="9c11676a-ee02-48fd-9238-abfc4717476d" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<bombs>
+			</bombs>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="2" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="29"/>
+			<Force force="2 Bat 2nd Company|9||Armored Cavalry Lance|7||"/>
+		</entity>
+
+		<entity chassis="Peregrine Attack VTOL" model="" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="2f59aee2-81f2-4839-9b33-43f78341dfbb">
+			<pilot size="2" name="Zhang-si Kevin André" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="5" artillery="4" externalId="a6936252-e586-409d-b4dc-77067348e9d0" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<bombs>
+			</bombs>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="2" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="30"/>
+			<Force force="2 Bat 2nd Company|9||Armored Cavalry Lance|7||"/>
+		</entity>
+
+		<entity chassis="Peregrine Attack VTOL" model="" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="fa53b3cc-3b3f-4ef5-91ea-19c825a40c17">
+			<pilot size="2" name="Zhang-si Hada Louahla" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="c5d2f9ff-8a6f-478a-987a-a7f5405a635c" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<bombs>
+			</bombs>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="2" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="31"/>
+			<Force force="2 Bat 2nd Company|9||Armored Cavalry Lance|7||"/>
+		</entity>
+
+		<entity chassis="Cataphract" model="CTF-1X" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="81e13ac3-42fc-43d8-afe6-abdf4f231919" quirks="pro_actuator">
+			<pilot size="1" name="Pai-zhang Sammy Lee" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="3" artillery="4" externalId="61ce9c52-7eae-4855-b30d-f833f5b904b4" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="9" type="IS Ammo AC/10" shots="10"/>
+			</location>
+			<Game id="32"/>
+			<Force force="1 Bat 2nd Company|8||Command Lance|1||"/>
+		</entity>
+
+		<entity chassis="Corsair" model="CSR-V12" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="42dcfe43-2aa1-4f96-b0f4-d6714a333409">
+			<pilot size="1" name="Ban-zhang Alice Caldwell" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" artillery="4" externalId="f5fed146-8625-4d37-a08f-b6d87e1ac26b" ejected="false"/>
+			<fuel left="400"/>
+			<bombs>
+			</bombs>
+			<structural integrity="6"/>
+			<heat sinks="16"/>
+			<Game id="33"/>
+			<Force force="1 Bat 2nd Company|8||AeroSpace Flight|10||"/>
+		</entity>
+
+		<entity chassis="Corsair" model="CSR-V12" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="0f864c9a-0c6a-4ec6-8502-11616e32649d">
+			<pilot size="1" name="Zhang-si Jaana Pitts" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="4" artillery="4" externalId="8c9d5cd5-1ac6-4d95-a981-f7cc6018f02e" ejected="false"/>
+			<fuel left="400"/>
+			<bombs>
+			</bombs>
+			<structural integrity="6"/>
+			<heat sinks="16"/>
+			<Game id="34"/>
+			<Force force="1 Bat 2nd Company|8||AeroSpace Flight|10||"/>
+		</entity>
+
+</unit>

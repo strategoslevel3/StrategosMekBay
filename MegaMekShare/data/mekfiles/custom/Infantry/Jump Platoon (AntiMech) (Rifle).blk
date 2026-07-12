@@ -1,0 +1,69 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Infantry
+</UnitType>
+
+<Name>
+Jump Platoon (AntiMech)
+</Name>
+
+<Model>
+(Rifle)
+</Model>
+
+<mul id:>
+7027
+</mul id:>
+
+<year>
+2600
+</year>
+
+<originalBuildYear>
+2600
+</originalBuildYear>
+
+<type>
+IS Level 3
+</type>
+
+<motion_type>
+Jump
+</motion_type>
+
+<Field Guns Equipment>
+</Field Guns Equipment>
+
+<source>
+Total Warfare
+</source>
+
+<squad_size>
+7
+</squad_size>
+
+<squadn>
+3
+</squadn>
+
+<Primary>
+InfantryAssaultRifle
+</Primary>
+
+<antimek>
+6
+</antimek>
+
+<armorKit>
+Generic Infantry Kit
+</armorKit>
+

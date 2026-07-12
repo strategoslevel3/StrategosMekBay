@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.05" >
+
+		<entity chassis="BattleMaster" model="BLR-1G" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="9d001748-9df2-4c1c-a0f9-97ccf488ac26">
+			<pilot size="1" name="Alex Saracho" nick="" gender="MALE" clanperson="false" gunnery="1" piloting="2" externalId="f2f2a87f-42ed-48bb-8b36-b114264eb053" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="6" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="7" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="8" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="1"/>
+		</entity>
+
+		<entity chassis="Ostroc" model="OSR-3C" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="6ceae2c8-287a-4434-ad04-18bd29c06498">
+			<pilot size="1" name="Waleeda bin Hana" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="9ebd87e5-8a39-49ac-b349-2c8c9e55c53e" ejected="false" autoeject="true"/>
+			<Game id="2"/>
+		</entity>
+
+		<entity chassis="Cataphract" model="CTF-1X" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="11983520-7344-4989-9bc8-6b82a8ea7c1f">
+			<pilot size="1" name="Anna Sims" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="d9ffcd26-fb99-4ee5-800d-54b3f1e8831f" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="9" type="IS Ammo AC/10" shots="10"/>
+			</location>
+			<Game id="3"/>
+		</entity>
+
+		<entity chassis="Marauder" model="MAD-3L" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="8ef565e9-bc9a-469e-b1a3-40e7be4fe7f3">
+			<pilot size="1" name="Apramaya Chandramouli" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="4" externalId="f70a2bd0-ffe9-4cea-a343-188767d508a3" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="3" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<Game id="4"/>
+		</entity>
+
+		<entity chassis="Phoenix Hawk" model="PXH-1" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="c21a9440-51b2-4490-bb63-2123aeb15ca3">
+			<pilot size="1" name="David Tudor" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="2" externalId="b3961e0a-ddba-4016-a126-145564c92da1" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="5"/>
+		</entity>
+
+		<entity chassis="Phoenix Hawk" model="PXH-1" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="20217a8d-5d2d-46f4-ac5a-e055447231d0">
+			<pilot size="1" name="Dyna Jamussa" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="d030b1b9-9f54-4e0f-9b0e-bcbbb8024f36" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="6"/>
+		</entity>
+
+		<entity chassis="Griffin" model="GRF-1N" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="749ffd48-f4af-4a41-b289-a7031cb8d9cf">
+			<pilot size="1" name="Amata Bagoim" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" externalId="5dd274d6-53a9-4be3-ac97-5e0ebf400ee6" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="5" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="6" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="7"/>
+		</entity>
+
+		<entity chassis="Blackjack" model="BJ-1" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="96430f36-f3c4-48c2-bc33-b3caf644fd89">
+			<pilot size="1" name="Eka Maryadi" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="340d61f8-4d1f-4dc1-b7a6-43e9526a9899" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Ammo AC/2" shots="45"/>
+			</location>
+			<Game id="8"/>
+		</entity>
+
+		<entity chassis="Locust" model="LCT-1V" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="faf9f53c-c598-4c5e-b313-9fd071c592f7">
+			<pilot size="1" name="Akbar Kuchelai" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="2" externalId="5daf9434-279e-4baa-ab83-fe84f3f6ff15" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="12" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<location index="4"> Right Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<Game id="9"/>
+		</entity>
+
+		<entity chassis="Stinger" model="STG-3G" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="7e187ee6-d207-44a2-b3dc-3975f4d54c2c">
+			<pilot size="1" name="Tara Almonte" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" externalId="d95976e5-70db-46ff-a3ff-3ca02b6fa03e" ejected="false" autoeject="true"/>
+			<Game id="10"/>
+		</entity>
+
+		<entity chassis="Wasp" model="WSP-1L" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="bf065926-7d88-49f4-a2de-ef969ddfe4de">
+			<pilot size="1" name="Neda Abubakar" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="8e6d6c9b-3c65-4002-815f-f5bb51e2721f" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="4" type="IS Ammo SRM-4" shots="25"/>
+			</location>
+			<Game id="11"/>
+		</entity>
+
+		<entity chassis="Ostscout" model="OTT-7J" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="98c02103-7a7b-4c71-9085-650acd5c83a5">
+			<pilot size="1" name="Young-soo Kwon" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="3" externalId="3afa0899-cd44-48b1-bfef-11ccb4475082" ejected="false" autoeject="true"/>
+			<Game id="12"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="29e50417-ceae-4258-bba8-17b115bdbeed">
+			<pilot size="1" name="Jamie O'Neal" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="0ef8b123-947e-4a08-ab8d-35d12c3b973d" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="13"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="bb6609f7-5501-4f4b-8641-6077712ac6be">
+			<pilot size="1" name="Florante Sterne" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="64401c4a-8743-4902-9994-f00b9b29edb4" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="14"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="4f1c74d5-e9f5-4733-917e-d065080bf98b">
+			<pilot size="1" name="Xuan-Loan Lopan" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="717c8582-857f-45d6-bf8f-ad9c686c4a3e" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="15"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="3d7fe461-152e-4dd7-bb76-a9e0c84f508c">
+			<pilot size="1" name="Agnese Paravicini" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="41ba3fa8-18a6-40f0-82b3-948d9a98abf1" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="16"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e02b626c-25f7-4253-8584-4925d59d350b">
+			<pilot size="1" name="Tristan Wright" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="ee1ca6ec-f6c0-4a22-86bc-c618e471a41c" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="17"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="7a406789-18bd-4f0f-a1f5-097fc2964352">
+			<pilot size="1" name="Arleen Eerin" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="5c24598b-7998-4c18-aea4-4eaab5267359" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="18"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="40194c36-2bd3-4f0e-883b-29878d7bc1c4">
+			<pilot size="1" name="Ramazan Evren" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="73068a63-1de0-4b49-b9aa-760925105b69" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="19"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="3909160d-2e1f-47db-a103-75f17e52ab62">
+			<pilot size="1" name="Ahmad bin Nazeeh" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="aa318ade-f246-4dae-b436-05010924774f" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="20"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="6e3c57d8-3bcf-4672-850f-55bd00aca649">
+			<pilot size="1" name="Cait Dhamo" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="e8e2942a-de29-4cd8-9dcb-20cd5f96b75a" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="21"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="47080119-868e-41bd-b46c-8bc484ed74c2">
+			<pilot size="1" name="Stephanie Magallanes" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="1836f3d1-dc04-4fee-a790-24fcc06a9415" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="22"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a4c87a41-d3a6-43cf-8815-30024056916b">
+			<pilot size="1" name="Joe Turnbull" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="05f642d8-b688-4655-8d75-71fec6ef3901" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="23"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="5aea7651-a941-4866-8c99-3574740515d0">
+			<pilot size="1" name="Bunme Keino" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="3bbdc5e0-1de4-4920-acb5-da0fddaa8009" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="24"/>
+		</entity>
+
+		<entity chassis="Foot Platoon (Anti-'Mech)" model="(Rifle)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="ca550b91-c46c-4d28-8c01-9dd36f601309">
+			<pilot size="1" name="Toni Nurmi" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" externalId="1924b3c6-acb5-43cf-8eda-bc8d69b037ef" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="25"/>
+		</entity>
+
+		<entity chassis="Foot Platoon (Anti-'Mech)" model="(Rifle)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="131c9a74-9d65-4f8d-91d5-2987c6c8a756">
+			<pilot size="1" name="Malik Ogunkeye" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" externalId="00aa96dc-34b2-421b-b2f4-3eae880cebe2" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="26"/>
+		</entity>
+
+		<entity chassis="Foot Platoon (Anti-'Mech)" model="(Rifle)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="0ff92ba8-6bd4-4b8b-a521-9098ce3acbec">
+			<pilot size="1" name="Karlie Boye" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" externalId="319c0b83-6bf1-4ef3-ad47-3fcd6fc5399f" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="27"/>
+		</entity>
+
+</unit>

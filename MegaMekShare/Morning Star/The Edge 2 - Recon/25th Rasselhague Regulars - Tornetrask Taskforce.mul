@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.49.14" >
+
+		<entity chassis="Condor Heavy Hover Tank" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="06346022-b13b-4a02-8cb2-49ce2fdaafcf">
+			<pilot size="4" name="S-R Chu-i Jeff Sadozai" nick="" gender="MALE" gunnery="5" piloting="5" externalId="ce573468-074e-4da9-9b32-d9b1fc8eaac7" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo AC/5" shots="20"/>
+				<slot index="2" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="13"/>
+			<Force force="Support Battalion Headquarters|0||Recon Company|1||"/>
+		</entity>
+
+		<entity chassis="Falcon Hover Tank" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="b211cfd2-befb-4f82-aac7-7d3c37c5cf38">
+			<pilot size="4" name="S-R Alissa Haavik" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="47bf133b-0f0e-478d-92e2-2220496c3626" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="14"/>
+			<Force force="Support Battalion Headquarters|0||Recon Company|1||"/>
+		</entity>
+
+		<entity chassis="J. Edgar Light Hover Tank" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="2a98e0b2-80fc-4b97-aed6-8c85c30284ec">
+			<pilot size="2" name="S-R Karolina Seierstad" nick="" gender="FEMALE" gunnery="5" piloting="7" externalId="27289069-68f8-41a1-b0ca-07ea58ba6b4e" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="15"/>
+			<Force force="Support Battalion Headquarters|0||Recon Company|1||"/>
+		</entity>
+
+		<entity chassis="J. Edgar Light Hover Tank" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="b752f45e-2eba-4a50-a416-c97d39036338">
+			<pilot size="2" name="S-R Edna Allen" nick="" gender="FEMALE" gunnery="6" piloting="6" externalId="1e6dbb3d-46d4-4c73-9b30-710a18d37e1c" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="16"/>
+			<Force force="Support Battalion Headquarters|0||Recon Company|1||"/>
+		</entity>
+
+		<entity chassis="Vedette Medium Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="8bd02f30-1fb1-4e7f-b45f-d2b44249d302">
+			<pilot size="4" name="S-T Chu-i Mildred Mallari" nick="" gender="FEMALE" gunnery="3" piloting="3" externalId="4ca5bb95-90a1-40dc-bb1a-0a20dba1c8ab" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+				<slot index="2" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<Game id="28"/>
+			<Force force="Support Battalion Headquarters|0||Tank Company|3||"/>
+		</entity>
+
+		<entity chassis="Vedette Medium Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="15093fa2-e0b2-404e-bdbb-12a0aee0f28f">
+			<pilot size="4" name="S-T Lívia Dilovsky" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="3814873c-09cd-4fe1-8895-ec42dccca357" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+				<slot index="2" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<Game id="29"/>
+			<Force force="Support Battalion Headquarters|0||Tank Company|3||"/>
+		</entity>
+
+		<entity chassis="Goblin Medium Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="33c85171-89cd-4c92-b7f9-80fe0729cec1">
+			<pilot size="3" name="S-T Jason Phan" nick="" gender="MALE" gunnery="4" piloting="4" externalId="b310018c-1980-4790-a859-9375d781ff3f" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="30"/>
+			<Force force="Support Battalion Headquarters|0||Tank Company|3||"/>
+		</entity>
+
+		<entity chassis="Goblin Medium Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="cb423a1c-f9eb-4e2c-8f5e-8c56f9aa0b58">
+			<pilot size="3" name="S-T Ramla Azikiwe" nick="" gender="FEMALE" gunnery="4" piloting="4" externalId="1a379367-0887-4903-8df2-bed073408a4f" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="31"/>
+			<Force force="Support Battalion Headquarters|0||Tank Company|3||"/>
+		</entity>
+
+		<entity chassis="Motorized Platoon" model="(Rifle)" type="Motorized" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="22ea4091-4075-40b9-8b62-44668351f5da">
+			<pilot size="1" name="S-S Chu-i Nate Sang" nick="" gender="MALE" gunnery="3" piloting="5" externalId="d38c73fb-1eaa-4db7-98fa-e3b962f7de5a" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="36"/>
+			<Force force="Support Battalion Headquarters|0||Security Company|2||"/>
+		</entity>
+
+		<entity chassis="Motorized Platoon" model="(Rifle)" type="Motorized" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="a26bca52-d6b1-4659-9fa1-4758440ac18a">
+			<pilot size="1" name="S-S Njål Erez" nick="" gender="MALE" gunnery="5" piloting="6" externalId="28c9dc3b-58e4-4311-9185-da136b741f22" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="37"/>
+			<Force force="Support Battalion Headquarters|0||Security Company|2||"/>
+		</entity>
+
+		<entity chassis="Motorized Platoon" model="(MG)" type="Motorized" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="3b4dea82-8520-4105-b615-bb0e8af8f9f5">
+			<pilot size="1" name="S-S Azhar Khokhar" nick="" gender="MALE" gunnery="6" piloting="6" externalId="ef08d758-a540-48c8-abbd-3820f90c88e5" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="38"/>
+			<Force force="Support Battalion Headquarters|0||Security Company|2||"/>
+		</entity>
+
+		<entity chassis="Dragon" model="DRG-1N" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="f6d05357-f34b-4725-abcb-0d028a764b60">
+			<pilot size="1" name="3-2 Michel Maxhuni" nick="" gender="MALE" gunnery="4" piloting="6" externalId="0382fef7-5920-4ac4-938f-e0ccc3d854cd" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="1" type="IS Ammo AC/5" shots="20"/>
+				<slot index="2" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="2" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="3" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="126"/>
+			<Force force="3rd Battalion Headquarters|11||3rd Battalion 2nd Company|12||"/>
+		</entity>
+
+		<entity chassis="Archer" model="ARC-2R" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="7fe06ca9-be93-4512-ae58-3089584c904c">
+			<pilot size="1" name="3-2 Tai-i Sirena Gatsioudis" nick="" gender="FEMALE" gunnery="2" piloting="4" externalId="f70daac4-e66d-4746-994d-972587d16135" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="6" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="7" type="IS Ammo LRM-20" shots="6"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="6" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="7" type="IS Ammo LRM-20" shots="6"/>
+			</location>
+			<Game id="143"/>
+			<Force force="3rd Battalion Headquarters|11||3rd Battalion 2nd Company|12||"/>
+		</entity>
+
+		<entity chassis="Warhammer" model="WHM-6R" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="8d61ad5e-6529-48f4-993d-b873fe8d399e">
+			<pilot size="1" name="3-2 Ercole Muljana" nick="" gender="MALE" gunnery="3" piloting="6" externalId="c011d825-f26f-42c9-82b7-dddcfa4f383c" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<location index="2"> Right Torso
+				<slot index="6" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="144"/>
+			<Force force="3rd Battalion Headquarters|11||3rd Battalion 2nd Company|13||"/>
+		</entity>
+
+		<entity chassis="Crusader" model="CRD-3R" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="89d1ae32-4709-41f6-883d-8ea50bdaa478">
+			<pilot size="1" name="3-2 Howard Holster" nick="" gender="MALE" gunnery="3" piloting="6" externalId="84293acc-4474-4ad7-b749-f8ba72da04e9" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="12" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<location index="2"> Right Torso
+				<slot index="1" type="IS Ammo LRM-15" shots="8"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="1" type="IS Ammo LRM-15" shots="8"/>
+			</location>
+			<Game id="145"/>
+			<Force force="3rd Battalion Headquarters|11||3rd Battalion 2nd Company|12||"/>
+		</entity>
+
+		<entity chassis="Dragon" model="DRG-1N" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="ea0d182c-ff06-442f-854e-c0984e4afe15">
+			<pilot size="1" name="3-2 Hazeela Rankovic" nick="" gender="FEMALE" gunnery="4" piloting="6" externalId="51ae6f2d-6d14-403b-a8ba-c0747121fb6e" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="1" type="IS Ammo AC/5" shots="20"/>
+				<slot index="2" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="2" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="3" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="146"/>
+			<Force force="3rd Battalion Headquarters|11||3rd Battalion 2nd Company|12||"/>
+		</entity>
+
+		<entity chassis="Crusader" model="CRD-3R" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="eac795b2-f478-4784-9e90-353851f479cf">
+			<pilot size="1" name="3-2 Chu-i Carolyn Stauss" nick="" gender="FEMALE" gunnery="3" piloting="4" externalId="f4bf6b36-ac87-40eb-83e4-886429fada49" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="12" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<location index="2"> Right Torso
+				<slot index="1" type="IS Ammo LRM-15" shots="8"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="1" type="IS Ammo LRM-15" shots="8"/>
+			</location>
+			<Game id="147"/>
+			<Force force="3rd Battalion Headquarters|11||3rd Battalion 2nd Company|12||"/>
+		</entity>
+
+		<entity chassis="Marauder" model="MAD-3R" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="d0ab7797-243c-459a-81eb-2dfa60f761df">
+			<pilot size="1" name="3-2 Doon Comelay" nick="" gender="FEMALE" gunnery="4" piloting="7" externalId="277a6f45-0859-47d3-958e-bfdad9ea4f44" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="1" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<Game id="148"/>
+			<Force force="3rd Battalion Headquarters|11||3rd Battalion 2nd Company|13||"/>
+		</entity>
+
+		<entity chassis="Archer" model="ARC-2K" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="b72a6b25-322c-4c51-8d12-5d7ff201b0c4">
+			<pilot size="1" name="3-2 Ben Swarbrick" nick="" gender="MALE" gunnery="5" piloting="7" externalId="502cbc8e-35cd-47fa-b64f-dcf816ecaa2a" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="4" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="5" type="IS Ammo LRM-15" shots="8"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="4" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="5" type="IS Ammo LRM-15" shots="8"/>
+			</location>
+			<Game id="149"/>
+			<Force force="3rd Battalion Headquarters|11||3rd Battalion 2nd Company|12||"/>
+		</entity>
+
+		<entity chassis="Thunderbolt" model="TDR-5S" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="56401407-da86-4c87-aed6-0d73242b1cc3">
+			<pilot size="1" name="3-2 Yaminoy Hamr" nick="" gender="FEMALE" gunnery="4" piloting="7" externalId="290debf3-d3c8-4f12-ab1c-6ed7930343c3" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="12" type="IS Ammo LRM-15" shots="8"/>
+			</location>
+			<location index="2"> Right Torso
+				<slot index="5" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="7" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="150"/>
+			<Force force="3rd Battalion Headquarters|11||3rd Battalion 2nd Company|12||"/>
+		</entity>
+
+		<entity chassis="Dragon" model="DRG-1N" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="6b3c93f1-35ae-4621-9f37-e172784084cd">
+			<pilot size="1" name="3-2 Chu-i Husen Njata" nick="" gender="MALE" gunnery="5" piloting="5" externalId="87ddb61f-7d97-45a8-8850-68b6f9e0566e" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="1" type="IS Ammo AC/5" shots="20"/>
+				<slot index="2" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="2" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="3" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="151"/>
+			<Force force="3rd Battalion Headquarters|11||3rd Battalion 2nd Company|12||"/>
+		</entity>
+
+		<entity chassis="Ostroc" model="OSR-2C" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="25a2742f-4676-4df2-957e-1256865bcd40">
+			<pilot size="1" name="3-2 Hiep Kun" nick="" gender="MALE" gunnery="4" piloting="6" externalId="15145e25-a544-41f1-956c-237956003902" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Ammo SRM-4" shots="25"/>
+			</location>
+			<Game id="152"/>
+			<Force force="3rd Battalion Headquarters|11||3rd Battalion 2nd Company|12||"/>
+		</entity>
+
+		<entity chassis="Rifleman" model="RFL-3N" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="490a39fe-e6e3-4e1f-91f7-3394e66482d3">
+			<pilot size="1" name="3-2 Henry Chown" nick="" gender="MALE" gunnery="5" piloting="5" externalId="ba79c90e-a617-4918-8b7d-a925f0dd0195" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<Game id="153"/>
+			<Force force="3rd Battalion Headquarters|11||3rd Battalion 2nd Company|13||"/>
+		</entity>
+
+</unit>

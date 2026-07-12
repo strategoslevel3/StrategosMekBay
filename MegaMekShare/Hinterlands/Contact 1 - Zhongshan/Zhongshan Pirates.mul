@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.02" >
+
+		<entity chassis="Locust" model="LCT-7V2" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="aa971c7c-8963-4e98-917e-edb060bebb27">
+			<pilot size="1" name="Tibalt Passas" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="79a42bb9-badb-49a5-8a89-4e65bc7481eb" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+			<Game id="1"/>
+		</entity>
+
+		<entity chassis="Fire Falcon" model="T" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="c36754dc-8c65-49e5-aa51-c608da0519c8">
+			<pilot size="1" name="Thu" nick="" gender="FEMALE" clanperson="true" gunnery="4" piloting="5" externalId="daa21a85-8a29-401e-9784-030bf7543f42" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="4" type="CLSRM4 (IOS)" munition="Clan Ammo SRM-4" isDestroyed="false"/>
+				<slot index="5" type="Clan Streak SRM 4 Ammo" shots="25"/>
+			</location>
+			<Game id="2"/>
+		</entity>
+
+		<entity chassis="Hunchback" model="HBK-6P" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="5711a409-ab35-4653-b362-46fce47643ae">
+			<pilot size="1" name="Kathel Fedzuga" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="e47287ed-e75b-4aa5-993a-a42a53b507c5" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+			<Game id="3"/>
+		</entity>
+
+		<entity chassis="Griffin IIC" model="2" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="9d05673d-e396-4bda-a5bc-4d75e0b018f4">
+			<pilot size="1" name="Ginata" nick="" gender="FEMALE" clanperson="true" gunnery="3" piloting="5" externalId="30c6878c-0e44-4326-bbbb-6f9739f0edbc" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="6" type="Clan Streak SRM 2 Ammo" shots="50"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="6" type="Clan Streak SRM 2 Ammo" shots="50"/>
+			</location>
+			<Game id="4"/>
+		</entity>
+
+		<entity chassis="Ostwar" model="OWR-3M" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="61173144-28ba-4381-8345-2c5a189e8f69">
+			<pilot size="1" name="Decla Gillenef" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" externalId="0cd2c544-0928-4ab1-bd91-5215c9c51f5c" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="7" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+				<slot index="8" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+				<slot index="9" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="9" type="IS Streak SRM 4 Ammo" shots="25"/>
+			</location>
+			<Game id="5"/>
+		</entity>
+
+		<entity chassis="Kraken (Bane)" model="3" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="35374129-c1a4-40d9-a7e2-b04a5988449f">
+			<pilot size="1" name="Jessica Pennington" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="bf8fd3a7-866b-4cf9-b514-85eb6344d027" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="0"> Head
+				<slot index="4" type="CLStreakSRM4 (OS)" munition="Clan Streak SRM 4 Ammo" isDestroyed="false"/>
+			</location>
+			<location index="1"> Center Torso
+				<armor points="13"/>
+			</location>
+			<location index="2"> Right Torso
+				<armor points="16"/>
+				<slot index="5" type="Clan Ammo LRM-15" shots="8"/>
+				<slot index="6" type="Clan Ammo LRM-15" shots="8"/>
+				<slot index="7" type="Clan Ammo LRM-15" shots="8"/>
+				<slot index="8" type="Clan Ammo LRM-15" shots="8"/>
+				<slot index="9" type="Clan Ammo LRM-15" shots="8"/>
+				<slot index="10" type="Clan Ammo LRM-15" shots="8"/>
+				<slot index="11" type="Clan Ammo LRM-15" shots="8"/>
+				<slot index="12" type="Clan Ammo LRM-15" shots="8"/>
+			</location>
+			<location index="3"> Left Torso
+				<armor points="16"/>
+				<slot index="5" type="Clan Ammo LRM-15" shots="8"/>
+				<slot index="6" type="Clan Ammo LRM-15" shots="8"/>
+				<slot index="7" type="Clan Ammo LRM-15" shots="8"/>
+				<slot index="8" type="Clan Ammo LRM-15" shots="8"/>
+				<slot index="9" type="Clan Ammo LRM-15" shots="8"/>
+				<slot index="10" type="Clan Ammo LRM-15" shots="8"/>
+				<slot index="11" type="Clan Ammo LRM-15" shots="8"/>
+				<slot index="12" type="Clan Ammo LRM-15" shots="8"/>
+			</location>
+			<location index="4"> Right Arm
+				<armor points="16"/>
+			</location>
+			<location index="5"> Left Arm
+				<armor points="16"/>
+				<slot index="7" type="CLLRM15" isHit="true" isDestroyed="true"/>
+				<slot index="8" type="CLLRM15" isHit="true" isDestroyed="true"/>
+				<slot index="9" type="CLLRM15" isHit="true" isDestroyed="true"/>
+				<slot index="10" type="CLLRM15" isHit="true" isDestroyed="true"/>
+			</location>
+			<location index="6"> Right Leg
+				<armor points="21"/>
+				<slot index="4" type="System" isHit="true" isDestroyed="true"/>
+			</location>
+			<location index="7"> Left Leg
+				<armor points="21"/>
+			</location>
+			<Game id="6"/>
+		</entity>
+
+</unit>

@@ -1,0 +1,60 @@
+#Saved from version 0.50.05 on 2025-05-02
+<UnitType>
+Infantry
+</UnitType>
+
+<Name>
+Mechanized Tracked Platoon
+</Name>
+
+<Model>
+(Heavy Mortar)
+</Model>
+
+<year>
+2600
+</year>
+
+<originalBuildYear>
+2600
+</originalBuildYear>
+
+<type>
+IS Level 5
+</type>
+
+<role>
+Ambusher
+</role>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<Troopers Equipment>
+Ablative/Flak, Standard
+</Troopers Equipment>
+
+<Field Guns Equipment>
+</Field Guns Equipment>
+
+<squad_size>
+7
+</squad_size>
+
+<squadn>
+4
+</squadn>
+
+<secondn>
+2
+</secondn>
+
+<Primary>
+InfantryAssaultRifle
+</Primary>
+
+<Secondary>
+InfantryHeavyMortar
+</Secondary>
+

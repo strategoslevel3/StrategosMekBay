@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.47.4" >
+
+		<entity chassis="PPC Turret" model="(Single)" type="None" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="810da6c0-9867-4bf7-9ead-debd8c54c426" camoCategory="-- No Camo --">
+			<pilot size="1" name="Willie Neratov" nick="" gunnery="4" piloting="5" externalId="35a50386-ddd5-43c7-9dba-03c278f67790" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> GUNS
+         <slot index="N/A" type="PPC" isDestroyed="false"/>
+			</location>
+		</entity>
+
+		<entity chassis="Medium Laser Turret" model="(Dual)" type="None" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="4036ab7f-80a9-4b5a-a0aa-d634dc3c6ad7" camoCategory="-- No Camo --">
+			<pilot size="1" name="Hwa-Soon Park" nick="" gunnery="4" piloting="5" externalId="e587c0b9-8780-452f-9969-b74fbcdbb16d" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> GUNS
+         <slot index="N/A" type="Medium Laser" isDestroyed="false"/>
+         <slot index="N/A" type="Medium Laser" isDestroyed="false"/>
+			</location>
+		</entity>
+
+		<entity chassis="Medium Laser Turret" model="(Dual)" type="None" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="a0c9dbf6-9ef2-402d-9d65-ae0f3684bb56" camoCategory="-- No Camo --">
+			<pilot size="1" name="Helena Ojanen" nick="" gunnery="4" piloting="5" externalId="b42d38ae-4154-4b63-9d60-df4ac3483913" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> GUNS
+         <slot index="N/A" type="Medium Laser" isDestroyed="false"/>
+         <slot index="N/A" type="Medium Laser" isDestroyed="false"/>
+			</location>
+		</entity>
+
+		<entity chassis="Large Laser Turret" model="(Dual)" type="None" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="2f461cac-8167-4107-afcc-f17813a6449c" camoCategory="-- No Camo --">
+			<pilot size="1" name="Gerben Boom" nick="" gunnery="4" piloting="5" externalId="0d2be63a-b6e0-4f2e-837a-d3ebe6dbc505" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> GUNS
+         <slot index="N/A" type="Large Laser" isDestroyed="false"/>
+         <slot index="N/A" type="Large Laser" isDestroyed="false"/>
+			</location>
+		</entity>
+
+		<entity chassis="LRM/20 Turret" model="(Single)" type="None" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="5e41fda2-bd05-4d4b-ae34-9da3f4189f5d" camoCategory="-- No Camo --">
+			<pilot size="1" name="Chong-chun Kim" nick="" gunnery="4" piloting="5" externalId="1d347ae5-3dd4-415d-bcf2-9fbf431d90fb" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> GUNS
+         <slot index="N/A" type="LRM 20" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-20" shots="6" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-20" shots="6" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-20" shots="6" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-20" shots="6" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-20" shots="6" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-20" shots="6" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-20" shots="6" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-20" shots="6" isDestroyed="false"/>
+			</location>
+		</entity>
+
+		<entity chassis="LRM/20 Turret" model="(Single)" type="None" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="1fddcb91-1afb-4c6f-923a-e8c0bfc133d7" camoCategory="-- No Camo --">
+			<pilot size="1" name="Filip Bezemer" nick="" gunnery="4" piloting="5" externalId="bef14b07-811e-40ae-a55e-f8e04977bf2f" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> GUNS
+         <slot index="N/A" type="LRM 20" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-20" shots="6" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-20" shots="6" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-20" shots="6" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-20" shots="6" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-20" shots="6" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-20" shots="6" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-20" shots="6" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-20" shots="6" isDestroyed="false"/>
+			</location>
+		</entity>
+
+		<entity chassis="AC/5 Turret" model="(Dual)" type="None" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="5984fbeb-57b6-4d39-bcdf-a32b76f38bcc" camoCategory="-- No Camo --">
+			<pilot size="1" name="Max Gibson" nick="" gunnery="4" piloting="5" externalId="8b47064d-49d6-4155-a48f-dc798a66ec57" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> GUNS
+         <slot index="N/A" type="Autocannon/5" isDestroyed="false"/>
+         <slot index="N/A" type="Autocannon/5" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/5" shots="20" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/5" shots="20" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/5" shots="20" isDestroyed="false"/>
+			</location>
+		</entity>
+
+		<entity chassis="Union" model="(2708)" type="Spheroid" commander="false" offboard="false" hidden="false" deployment="1" deploymentZone="-1" neverDeployed="true" velocity="0" altitude="1" externalId="a7ad8de1-d7f1-418e-979f-088f563fbb95" camoCategory="-- No Camo --">
+			<pilot size="4" name="Albine Noriega" nick="" gunnery="6" piloting="5" externalId="0b29250e-74f0-4b50-92c4-b4326422ba41" ejected="false"/>
+			<fuel left="6450"/>
+			<structural integrity="11"/>
+			<heat sinks="90"/>
+			<transportBay index="1">
+				<damage>0.0</damage>
+				<doors>2</doors>
+			</transportBay>
+			<transportBay index="2">
+				<damage>0.0</damage>
+				<doors>2</doors>
+			</transportBay>
+			<transportBay index="3">
+				<damage>0.0</damage>
+				<doors>2</doors>
+			</transportBay>
+			<transportBay index="4">
+				<damage>0.0</damage>
+				<doors>2</doors>
+			</transportBay>
+			<transportBay index="0">
+				<damage>0.0</damage>
+				<doors>0</doors>
+			</transportBay>
+			<transportBay index="0">
+				<damage>0.0</damage>
+				<doors>0</doors>
+			</transportBay>
+			<transportBay index="0">
+				<damage>0.0</damage>
+				<doors>0</doors>
+			</transportBay>
+      The first slot in a location is at index="1".
+			<location index="0"> Nose
+				<slot index="6" type="IS Ammo AC/5" shots="20" weaponsBayIndex="4"/>
+				<slot index="10" type="IS Ammo LRM-20" shots="24" weaponsBayIndex="8"/>
+			</location>
+			<location index="1"> Left Side
+				<slot index="6" type="IS Ammo AC/5" shots="40" weaponsBayIndex="4"/>
+				<slot index="10" type="IS Ammo LRM-20" shots="24" weaponsBayIndex="8"/>
+			</location>
+			<location index="2"> Right Side
+				<slot index="6" type="IS Ammo AC/5" shots="40" weaponsBayIndex="4"/>
+				<slot index="10" type="IS Ammo LRM-20" shots="24" weaponsBayIndex="8"/>
+			</location>
+		</entity>
+
+</unit>

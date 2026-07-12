@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.06" >
+
+		<entity chassis="SM Tank Destroyer" model="SM1" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="421a2bb1-02fb-4179-8472-74cb173af6e2">
+			<pilot size="4" name="Wilmar Theloke" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" artillery="4" externalId="8395c7fb-4fda-4530-9c51-b496f9fd72ef" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="Clan Ultra AC/20 Ammo" shots="5"/>
+				<slot index="2" type="Clan Ultra AC/20 Ammo" shots="5"/>
+				<slot index="3" type="Clan Ultra AC/20 Ammo" shots="5"/>
+				<slot index="4" type="Clan Ultra AC/20 Ammo" shots="5"/>
+				<slot index="5" type="Clan Ultra AC/20 Ammo" shots="5"/>
+				<slot index="6" type="Clan Ultra AC/20 Ammo" shots="5"/>
+				<slot index="7" type="Clan Light Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="1"/>
+		</entity>
+
+		<entity chassis="Condor Heavy Hover Tank" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="220ab937-d2d9-4f1b-a319-8564846eb2a3">
+			<pilot size="4" name="Halima Bomani" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="32b0a878-5d6b-4874-a677-1131e484d64d" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo AC/5" shots="20"/>
+				<slot index="2" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="2"/>
+		</entity>
+
+		<entity chassis="Condor Heavy Hover Tank" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="89ff6cb0-26d9-4b8a-9926-138ee6319358">
+			<pilot size="4" name="Shreya Yusuf" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="1e282a9e-bd5d-4732-a566-6064d53c6db2" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo AC/5" shots="20"/>
+				<slot index="2" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="3"/>
+		</entity>
+
+		<entity chassis="Drillson Heavy Hover Tank" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="ad588e67-1cd6-4e00-be81-8edce5d29411">
+			<pilot size="4" name="Yadira Kouki" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="d2ab0806-dc40-45a4-aef6-195a3d514804" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2" shots="50"/>
+				<slot index="2" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="3" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="4"/>
+		</entity>
+
+		<entity chassis="Drillson Heavy Hover Tank" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="cabb777c-98ef-43aa-8930-5c2a1f916921">
+			<pilot size="4" name="Kailyn Osterhagen" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="26a9c0f6-333c-4ebf-ab51-782ae23d4031" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2" shots="50"/>
+				<slot index="2" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="3" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="5"/>
+		</entity>
+
+		<entity chassis="Savannah Master Hovercraft" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="bf25a9e2-47d7-41c6-b73c-2f02dbdb7c8c">
+			<pilot size="1" name="Aiden Affleck" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="dcb4ccda-aff3-4bf9-b058-c8d3b266ea28" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="6"/>
+		</entity>
+
+		<entity chassis="Savannah Master Hovercraft" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="09978015-af6e-4262-9e82-5805e53c2b51">
+			<pilot size="1" name="Essie Balabuev" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="c5e63c4f-1f21-47a8-9832-38d1c2e8fa26" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="7"/>
+		</entity>
+
+		<entity chassis="Savannah Master Hovercraft" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="0ec177b3-75c4-4158-af11-ee623d33b466">
+			<pilot size="1" name="Robina Nelson" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="6aa449ca-7ded-4103-a603-9d7f31ceea4a" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="8"/>
+		</entity>
+
+		<entity chassis="Savannah Master Hovercraft" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e450fb08-c478-47a1-84cf-0a2098ca2dc9">
+			<pilot size="1" name="Tory Compton" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="201794b9-c915-43c6-9164-cda4077ea868" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="9"/>
+		</entity>
+
+		<entity chassis="Pegasus Scout Hover Tank" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="d46b0bab-2b1e-4d97-b886-f3a15768e21c">
+			<pilot size="3" name="Tai Sun" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="fc530cd1-9983-49e3-aea7-4d26b7054826" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="10"/>
+		</entity>
+
+		<entity chassis="Pegasus Scout Hover Tank" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="2d4b10ea-0e25-4c30-bb7f-6e7a410da85f">
+			<pilot size="3" name="David Lillesoe" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="1f41d231-c089-4dc0-b9e6-151515bc14a0" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="11"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(Rifle)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="b0724476-5156-4970-8f27-ea82fc99af6c">
+			<pilot size="1" name="Hyang-nam Han" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="8" artillery="4" externalId="ab4f8404-18e6-4fe5-bc47-afe74d2ba27a" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="12"/>
+		</entity>
+
+		<entity chassis="Mechbuster" model="" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="62d5dfdf-ce9c-4e7b-8c68-b9b03d9ed7ac">
+			<pilot size="1" name="Dwayne Malachias" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="dd9f6d2a-0ee1-4dbd-a6f9-5f67d623f5de" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="320"/>
+			<bombs>
+			</bombs>
+			<structural integrity="5"/>
+			<heat sinks="0"/>
+      The first slot in a location is at index="1".
+			<location index="5"> Fuselage
+				<slot index="1" type="IS Ammo AC/20" shots="5"/>
+			</location>
+			<Game id="13"/>
+		</entity>
+
+</unit>

@@ -1,0 +1,101 @@
+#Saved from version 0.50.06 on 2025-11-24
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Europa Heavy Battle Tank
+</Name>
+
+<Model>
+(AC/10)
+</Model>
+
+<year>
+3032
+</year>
+
+<originalBuildYear>
+3032
+</originalBuildYear>
+
+<type>
+IS Level 1
+</type>
+
+<role>
+Sniper
+</role>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<engine_type>
+1
+</engine_type>
+
+<armor_type>
+0
+</armor_type>
+
+<armor_tech_rating>
+0
+</armor_tech_rating>
+
+<armor_tech_level>
+0
+</armor_tech_level>
+
+<armor>
+66
+52
+52
+42
+52
+</armor>
+
+<Body Equipment>
+IS Ammo MG - Full
+IS Ammo SRM-2
+IS Ammo AC/10
+IS Ammo AC/10
+IS Ammo LRM-5
+</Body Equipment>
+
+<Front Equipment>
+Machine Gun
+LRM 5
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+SRM 2
+Machine Gun
+Autocannon/10
+</Turret Equipment>
+
+<tonnage>
+65.0
+</tonnage>
+
+<fuelType>
+PETROCHEMICALS
+</fuelType>
+
+<icon>
+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
+</icon>
+

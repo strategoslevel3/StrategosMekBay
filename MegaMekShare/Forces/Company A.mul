@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.49.19.1" >
+
+		<entity chassis="Catapult" model="CPLT-C3" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="caf7159e-9ceb-40bb-9ebc-f0f5d975fba7">
+			<pilot size="1" name="Sg. Shalini Masuda" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="420f179d-befe-4078-8a0a-859e2f317774" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="10" type="ISArrowIVHomingAmmo" shots="5"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="3" type="Empty"/>
+				<slot index="4" type="Empty"/>
+			</location>
+			<Game id="1"/>
+			<Force force="Alpha Company|0||Heavy Fire Lance|1||"/>
+		</entity>
+
+		<entity chassis="Catapult" model="CPLT-C3" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="ee80a779-0597-41e7-a48a-e380e16a3f59">
+			<pilot size="1" name="Sg. Jesse Marwat" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="343a5322-0938-4e25-bebb-f81c5721e0e9" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="10" type="ISArrowIVHomingAmmo" shots="5"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="3" type="Empty"/>
+				<slot index="4" type="Empty"/>
+			</location>
+			<Game id="2"/>
+			<Force force="Alpha Company|0||Heavy Fire Lance|1||"/>
+		</entity>
+
+		<entity chassis="Longbow" model="LGB-12C" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="fe150d88-e529-4286-8432-173d9d7ad366">
+			<pilot size="1" name="Sg. Bobby Andriyaka" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="15e45f88-5fa8-4186-9da2-6a1e14912a4c" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="7" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+				<slot index="8" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+				<slot index="9" type="IS Ammo LRM-15 Artemis-capable" shots="8"/>
+				<slot index="10" type="IS Ammo LRM-15 Artemis-capable" shots="8"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="7" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="6"/>
+				<slot index="8" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+				<slot index="9" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+				<slot index="10" type="IS Ammo LRM-15 Artemis-capable" shots="8"/>
+				<slot index="11" type="IS Ammo LRM-15 Artemis-capable" shots="8"/>
+			</location>
+			<Game id="3"/>
+			<Force force="Alpha Company|0||Heavy Fire Lance|1||"/>
+		</entity>
+
+		<entity chassis="Dasher (Fire Moth)" model="A" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="905bd93a-55df-4fc1-8a0a-aa1f9eb2cabf">
+			<pilot size="1" name="Lt. Zhaklina Kubin" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="a41bd7e7-8b98-4290-8424-339103ed7732" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="6" type="Clan Streak SRM 4 Ammo" shots="25"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="6" type="CLAMS Ammo" shots="24"/>
+			</location>
+			<Game id="5"/>
+			<Force force="Alpha Company|0||Light Recon Lance|2||"/>
+		</entity>
+
+		<entity chassis="Dasher (Fire Moth)" model="A" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="d71530db-c4c2-485a-b8e3-130ec310d192">
+			<pilot size="1" name="Sg. Ngoc-Lieng Kum" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="95362052-c52a-45f5-a2c5-673df9b3a72a" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="6" type="Clan Streak SRM 4 Ammo" shots="25"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="6" type="CLAMS Ammo" shots="24"/>
+			</location>
+			<Game id="6"/>
+			<Force force="Alpha Company|0||Light Recon Lance|2||"/>
+		</entity>
+
+		<entity chassis="Ostscout" model="OTT-9S" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="5357f6c1-cc4f-4a58-af4e-8d12fed225f5">
+			<pilot size="1" name="Sg. James Banks" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="a368408a-3014-4450-b1cb-d8a4239d45a2" ejected="false" autoeject="true"/>
+			<Game id="7"/>
+			<Force force="Alpha Company|0||Light Recon Lance|2||"/>
+		</entity>
+
+		<entity chassis="Wraith" model="TR1" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="0c742d00-9e2b-475c-bb11-6027caba7359">
+			<pilot size="1" name="Sg. Wen Volnov" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="d6116791-979e-4153-9b1c-8706066a9f92" ejected="false" autoeject="true"/>
+			<Game id="8"/>
+			<Force force="Alpha Company|0||Light Recon Lance|2||"/>
+		</entity>
+
+		<entity chassis="Pillager" model="PLG-3Z" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="fee92217-974c-4e53-9806-0c9cded8fd16">
+			<pilot size="1" name="Major Rebecca Zhao" nick="" gender="FEMALE" clanperson="false" gunnery="2" piloting="4" externalId="6d06ebda-2336-4086-b8fe-ec6fb48a485a" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="11" type="IS Gauss Ammo" shots="8"/>
+				<slot index="12" type="IS Gauss Ammo" shots="8"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="11" type="IS Gauss Ammo" shots="8"/>
+				<slot index="12" type="IS Gauss Ammo" shots="8"/>
+			</location>
+			<location index="6"> Right Leg
+				<slot index="6" type="IS Gauss Ammo" shots="8"/>
+			</location>
+			<location index="7"> Left Leg
+				<slot index="6" type="IS Gauss Ammo" shots="8"/>
+			</location>
+			<Game id="9"/>
+			<Force force="Alpha Company|0||Heavy Fire Lance|1||"/>
+		</entity>
+
+		<entity chassis="Ti Ts'ang" model="TSG-9H" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="381e5626-fcb1-4790-aa6f-001347fb0990">
+			<pilot size="1" name="Lt. Aasima bin Izz al Din" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="4" externalId="0a7b8c0a-14d7-46e0-8609-0e145cfe8206" ejected="false" autoeject="true"/>
+			<Game id="10"/>
+			<Force force="Alpha Company|0||Medium Batlle Lance|3||"/>
+		</entity>
+
+		<entity chassis="Uziel" model="UZL-3S" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="d105fda4-322e-42ab-af16-fc48438f6871">
+			<pilot size="1" name="Sg. Joy Liu" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="582f38b5-d08a-4cfb-9b23-6619274a9cc3" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="8" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="9" type="IS LB 2-X AC Ammo" shots="45"/>
+			</location>
+			<Game id="12"/>
+			<Force force="Alpha Company|0||Medium Batlle Lance|3||"/>
+		</entity>
+
+		<entity chassis="Wolfhound" model="WLF-2" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="bb0781e0-4823-4ff4-b623-c3035e21d221">
+			<pilot size="1" name="Sg. Li-ping Wu" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="6360f052-dd57-4444-848d-a9adc9f06c1a" ejected="false" autoeject="true"/>
+			<Game id="13"/>
+			<Force force="Alpha Company|0||Medium Batlle Lance|3||"/>
+		</entity>
+
+		<entity chassis="Trebuchet" model="TBT-5N" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e4c673b8-932e-42a4-aecc-01887acc55f6">
+			<pilot size="1" name="Sg. Bill Daniyalov" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="0146ebc8-465d-4d23-9811-770bea4c39be" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="4" type="IS Ammo LRM-15" shots="8"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="1" type="IS Ammo LRM-15 Semi-guided" shots="8"/>
+			</location>
+			<Game id="14"/>
+			<Force force="Alpha Company|0||Medium Batlle Lance|3||"/>
+		</entity>
+
+		<entity chassis="Seydlitz" model="SYD-Z3A" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="a1f7bf32-5cc2-4269-9f8f-99b46907f825">
+			<pilot size="1" name="Sg. Tat Barnowski" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="4" externalId="2763c641-4a83-46d0-9b81-6be611064dd3" ejected="false"/>
+			<fuel left="400"/>
+			<bombs>
+			</bombs>
+			<structural integrity="11"/>
+			<heat sinks="10"/>
+			<Game id="15"/>
+			<Force force="Alpha Company|0||Medium Stike Sqadron|4||"/>
+		</entity>
+
+		<entity chassis="Lightning" model="LTN-G15" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="9d901054-7a64-4ff7-bd0d-1bd2dd1bb712">
+			<pilot size="1" name="Lt. Wolde-Selassie Kibet" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="4" externalId="65e5ade1-6dd3-4716-b5ba-3d4defaf64e5" ejected="false"/>
+			<fuel left="400"/>
+			<bombs>
+				<bomb type="HEBomb" load="10" Internal="false"/>
+			</bombs>
+			<structural integrity="6"/>
+			<heat sinks="13"/>
+      The first slot in a location is at index="1".
+			<location index="5"> Fuselage
+				<slot index="1" type="IS Ammo AC/20" shots="5"/>
+				<slot index="2" type="IS Ammo AC/20" shots="5"/>
+			</location>
+			<Game id="16"/>
+			<Force force="Alpha Company|0||Medium Stike Sqadron|4||"/>
+		</entity>
+
+</unit>

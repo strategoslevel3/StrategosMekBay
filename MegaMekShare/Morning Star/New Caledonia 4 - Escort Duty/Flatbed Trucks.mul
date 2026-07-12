@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.49.14" >
+
+		<entity chassis="Flatbed Truck" model="(Armor)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="d1e6b837-ccc5-4151-829d-2ea38f799c4b">
+			<pilot size="1" name="Noor Kartodirdjo" nick="" gender="FEMALE" gunnery="5" piloting="6" externalId="21e3dc33-0b8d-4d14-b00c-b89d2c1f5f99" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="1"/>
+		</entity>
+
+		<entity chassis="Flatbed Truck" model="(Armor)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="425fea82-bb8d-46f3-b046-e24ad51d7f25">
+			<pilot size="1" name="Robun Inoue" nick="" gender="MALE" gunnery="5" piloting="6" externalId="e88c8ee3-6365-4892-903f-22c2a6b4d42e" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="2"/>
+		</entity>
+
+		<entity chassis="Flatbed Truck" model="(Armor)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="00837205-80a9-48e2-8850-c3eb01c54e1a">
+			<pilot size="1" name="Leon Cacciola" nick="" gender="MALE" gunnery="5" piloting="6" externalId="5457a95e-12f2-4f7f-b532-82036001c72c" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="3"/>
+		</entity>
+
+		<entity chassis="Flatbed Truck" model="(Armor)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="905f5c6a-941d-4780-9a9d-8e83d0554a79">
+			<pilot size="1" name="Rheta Salvarani" nick="" gender="FEMALE" gunnery="5" piloting="6" externalId="4605649b-4058-4f42-9bb0-0521169cbeed" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="4"/>
+		</entity>
+
+		<entity chassis="Flatbed Truck" model="(Armor)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="46d0462a-0936-4db4-b93f-465b36a22c49">
+			<pilot size="1" name="Mikayla Papadelias" nick="" gender="FEMALE" gunnery="5" piloting="6" externalId="89f80f4f-c188-4691-8479-5333abde751c" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="5"/>
+		</entity>
+
+		<entity chassis="Flatbed Truck" model="(Armor)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="c01b7fe3-d472-4b43-ac63-735ca4a49de3">
+			<pilot size="1" name="Paco Ruíz" nick="" gender="MALE" gunnery="5" piloting="6" externalId="8da44408-0535-4198-a753-360cd11f4885" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="6"/>
+		</entity>
+
+		<entity chassis="Flatbed Truck" model="(Armor)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="bb458755-17d7-4450-90aa-b471461fd48a">
+			<pilot size="1" name="Kliment Krumpholz" nick="" gender="MALE" gunnery="5" piloting="6" externalId="bb4cd8bc-ff05-4616-8d07-4e7eb38ac029" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="7"/>
+		</entity>
+
+		<entity chassis="Flatbed Truck" model="(Armor)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="b0c5d20d-5ac7-4a02-a958-79244ca6723c">
+			<pilot size="1" name="Shenouda Chilemba" nick="" gender="MALE" gunnery="5" piloting="6" externalId="0f5d2e0d-bab2-4ffb-a6e4-caf6e6ab1b35" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="8"/>
+		</entity>
+
+</unit>

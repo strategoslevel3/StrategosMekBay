@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.06" >
+
+		<entity chassis="Mirage Spec Ops VTOL" model="(Arrow IV)" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="67e0c3cc-c41f-4dfc-9229-f7376fefae8e">
+			<pilot size="2" name="Melitta Scattergood" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" artillery="4" externalId="ad5daa4f-f872-475c-b333-bc5c2899859b" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<bombs>
+			</bombs>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="2" type="ISArrowIVHomingAmmo" shots="5"/>
+				<slot index="3" type="ISArrowIVHomingAmmo" shots="5"/>
+			</location>
+			<Game id="5"/>
+		</entity>
+
+		<entity chassis="Mirage Spec Ops VTOL" model="(SRM Infantry TAG)" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="5cae528f-a799-4189-b8cf-8b27b5cee26a">
+			<pilot size="2" name="Jost Brooker" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" artillery="4" externalId="dc5954a3-5acf-4f6e-aa30-ddd1b404ce83" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<bombs>
+			</bombs>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="2" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="3" type="IS Ammo SRM-6 Smoke" shots="15"/>
+			</location>
+			<Game id="6"/>
+		</entity>
+
+		<entity chassis="Shatten Scout Armor" model="(Infiltrator)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="64137480-f711-49ea-b626-6131680e341d">
+			<pilot size="4" name="Arran MacCarlich" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="3" artillery="4" externalId="b79550a9-e122-4bac-b090-2eef912d8a25" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<antiPersonnelMount baAPMMountNum="1" baAPMTypeName="Submachine Gun" />
+			<antiPersonnelMount baAPMMountNum="11" />
+			<Game id="7"/>
+		</entity>
+
+</unit>

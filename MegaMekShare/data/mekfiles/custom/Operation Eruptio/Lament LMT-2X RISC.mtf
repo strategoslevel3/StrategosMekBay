@@ -1,0 +1,160 @@
+generator:MegaMek Suite 0.50.0 on 2024-12-05
+chassis:Lament
+model:LMT-2X RISC
+mul id:6676
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3149
+source:TRO: 3145 Republic of the Sphere
+rules level:5
+role:Brawler
+
+quirk:difficult_maintain
+quirk:non_standard
+quirk:multi_trac
+quirk:pro_actuator
+
+mass:65
+engine:325 XL Engine(IS)
+structure:IS Endo Steel
+myomer:Standard
+
+heat sinks:15 IS Double
+walk mp:5
+jump mp:0
+
+armor:Standard(Inner Sphere)
+LA armor:20
+RA armor:20
+LT armor:23
+RT armor:23
+CT armor:32
+HD armor:9
+LL armor:30
+RL armor:30
+RTL armor:7
+RTR armor:7
+RTC armor:10
+
+Weapons:6
+RISC Hyper Laser, Right Arm
+RISC Hyper Laser, Left Arm
+RISC Advanced Point Defense System, Left Torso
+ER Medium Laser, Head
+ER Medium Laser, Right Torso
+ER Medium Laser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISRISCHyperLaser
+ISRISCHyperLaser
+ISRISCHyperLaser
+ISRISCHyperLaser
+ISRISCHyperLaser
+ISRISCHyperLaser
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISRISCHyperLaser
+ISRISCHyperLaser
+ISRISCHyperLaser
+ISRISCHyperLaser
+ISRISCHyperLaser
+ISRISCHyperLaser
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+CLERMediumLaser
+ISAPDS
+ISAPDS
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+CLERMediumLaser
+ISRISCEmergencyCoolantSystem
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+IS Endo Steel
+IS Endo Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLERMediumLaser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

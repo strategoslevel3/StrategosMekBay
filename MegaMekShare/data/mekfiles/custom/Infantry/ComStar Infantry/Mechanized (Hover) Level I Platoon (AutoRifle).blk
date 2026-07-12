@@ -1,0 +1,60 @@
+#Saved from version 0.49.19 on 2024-05-16
+<UnitType>
+Infantry
+</UnitType>
+
+<Name>
+Mechanized (Hover) Level I Platoon
+</Name>
+
+<Model>
+(AutoRifle)
+</Model>
+
+<mul id:>
+1147
+</mul id:>
+
+<year>
+3061
+</year>
+
+<originalBuildYear>
+3061
+</originalBuildYear>
+
+<type>
+IS Level 2
+</type>
+
+<role>
+Ambusher
+</role>
+
+<motion_type>
+Hover
+</motion_type>
+
+<Troopers Equipment>
+Generic Infantry Kit
+</Troopers Equipment>
+
+<Field Guns Equipment>
+</Field Guns Equipment>
+
+<source>
+Total Warfare
+</source>
+
+<squad_size>
+5
+</squad_size>
+
+<squadn>
+4
+</squadn>
+
+<Primary>
+InfantryAssaultRifle
+</Primary>
+

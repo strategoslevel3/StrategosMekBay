@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.02" >
+
+		<entity chassis="Thunderbolt" model="TDR-10M" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e566ca72-7a40-44a1-a15d-9e8aec19e86a" quirks="multi_trac::rugged_2::ubiquitous_is">
+			<pilot size="1" name="Cpt Mike Metzinger" nick="" gender="FEMALE" clanperson="false" gunnery="2" piloting="3" artillery="4" externalId="cf9cde3e-34f3-4170-82b5-1b61368dbeb8" initB="3" commandB="4" ejected="false" advantages="multi_tasker::human_tro Mek" edge="edge 3::edge_when_headhit::edge_when_explosion" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="9" type="IS Ammo MML-5 LRM" shots="24"/>
+				<slot index="10" type="IS Ammo MML-5 SRM" shots="20"/>
+			</location>
+			<Game id="1"/>
+		</entity>
+
+		<entity chassis="Catapult" model="CPLT-C5A" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="7469fa29-e030-4e06-98cf-bff9c5741d2c" quirks="no_arms::weak_head_1">
+			<pilot size="1" name="Sulejman Kazancigil" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="2fd46e10-c406-41c5-b35d-b7b825e719e7" initB="1" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="7" type="IS Ammo LRM-15 Artemis-capable" shots="8"/>
+				<slot index="8" type="IS Ammo LRM-15 Artemis-capable" shots="8"/>
+				<slot index="9" type="IS Ammo LRM-15 Artemis-capable" shots="8"/>
+			</location>
+			<Game id="2"/>
+		</entity>
+
+		<entity chassis="Uziel" model="UZL-8S" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="7b4ef41a-748a-4eb7-b916-f2503c178288" quirks="cowl::bad_rep_is::exp_actuator">
+			<pilot size="1" name="Patrick Chubb" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="63bc8dbc-142d-4841-b562-fc19e62f457b" initB="1" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="10" type="IS Streak SRM 6 Ammo" shots="15"/>
+			</location>
+			<Game id="4"/>
+		</entity>
+
+		<entity chassis="Crab" model="CRB-54" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="b05f66df-ca5f-431f-86d5-6fdebb9454bd" quirks="easy_maintain">
+			<pilot size="1" name="Yuen-Yee Averdonk" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="b7ace3e7-6df2-4c14-9c23-4c4e1461221a" initB="1" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="10" type="ISPlasmaRifleAmmo" shots="10"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="7" type="ISPlasmaRifleAmmo" shots="10"/>
+				<slot index="8" type="ISPlasmaRifleAmmo" shots="10"/>
+			</location>
+			<Game id="5"/>
+		</entity>
+
+		<entity chassis="Manticore Heavy Tank" model="(3055 Upgrade)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="99a5a81a-d268-4580-ba92-7ef5bed76022">
+			<pilot size="4" name="Lt Marcella Grossman" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="4" artillery="4" externalId="215bf4de-71d3-49a9-a662-959a8a48c392" initB="1" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-10 Artemis-capable" shots="12"/>
+				<slot index="2" type="IS Ammo SRM-6 Artemis-capable" shots="15"/>
+				<slot index="3" type="IS Streak SRM 2 Ammo" shots="50"/>
+			</location>
+			<Game id="6"/>
+		</entity>
+
+		<entity chassis="Marksman Artillery Vehicle" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="93e88fb4-56ce-4072-b4a5-7eae00aed68f">
+			<pilot size="5" name="Reginaldo Arena" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="4" artillery="4" externalId="7e642475-77fb-42fb-a1af-bd654c828ad5" initB="1" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="ISSniperAmmo" shots="10"/>
+				<slot index="2" type="ISSniperAmmo" shots="10"/>
+			</location>
+			<Game id="7"/>
+		</entity>
+
+		<entity chassis="Maxim Mk II Transport" model="(Infantry Support) 'Shiloh'" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="0382d4b5-5e33-4114-880a-e9c9b4e5150c">
+			<pilot size="4" name="Satya Sliva" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="5581e5a9-7bd1-45cf-8c17-2ae2807c45d3" initB="1" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MML-3 LRM" shots="40"/>
+				<slot index="2" type="IS Ammo MML-3 SRM" shots="33"/>
+				<slot index="3" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="8"/>
+		</entity>
+
+		<entity chassis="Zephyros Infantry Support Vehicle" model="" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="45583e8e-54b4-498a-b65c-677b6cc72c2b">
+			<pilot size="2" name="Hashim" nick="" gender="MALE" clanperson="true" gunnery="4" piloting="5" artillery="4" externalId="277000d7-6c97-4fee-af34-57d55f65d2bf" initB="1" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="Clan Light Machine Gun Ammo - Full" shots="200"/>
+			</location>
+			<Game id="9"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(Rifle)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="f08fc7a5-0f2d-4af0-944e-e5d568b01e4c">
+			<pilot size="1" name="Jill El Guerroui" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="8" artillery="4" externalId="6810b1a6-a12c-4b2d-ab42-a1aa2be79f9e" initB="1" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="10"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(SRM)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e1239469-2a38-4764-9541-2504565c8749">
+			<pilot size="1" name="Gerd Lichtman" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="8" artillery="4" externalId="7081febc-2952-41c8-9bf9-cbd7f7b80a26" initB="1" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="11"/>
+		</entity>
+
+</unit>

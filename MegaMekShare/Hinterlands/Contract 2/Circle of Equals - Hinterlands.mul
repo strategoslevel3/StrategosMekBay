@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.06" >
+
+		<entity chassis="Rommel Tank" model="(Howitzer) Production" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="159c6321-7da1-43e0-835f-c6165dcdb6ae" quirks="low_profile::poor_target_short">
+			<pilot size="5" name="Captain Lupe Christensen" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" artillery="8" portraitCat="Female/Vehicle Gunner/" portraitFile="VeeGunner_F_15.png" externalId="9da1118f-5dbf-456d-b7a7-39d9034e30f2" ejected="false" edge="edge 2::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="ISLongTomCannonAmmo" shots="5"/>
+				<slot index="2" type="ISLongTomCannonAmmo" shots="5"/>
+				<slot index="3" type="ISLongTomCannonAmmo" shots="5"/>
+				<slot index="4" type="IS Ammo Thunderbolt-5" shots="12"/>
+			</location>
+			<Game id="7"/>
+		</entity>
+
+		<entity chassis="Gray Death Standard Suit" model="[SRM](Sqd4)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="76744bc6-e838-4dfa-8e6d-87e9671575fe" camoCategory="-- Colour Camo --" camoFileName="GRAY" camoRotation="0" camoScale="10">
+			<pilot size="3" name="Sergeant Terry Hoan" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="6" artillery="8" portraitCat="Male/Battle Armor Pilot/" portraitFile="BAPilot_M_31.png" externalId="c6fe2fbe-5743-4bc8-8797-41f3aa57984e" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<antiPersonnelMount baAPMMountNum="2" baAPMTypeName="InfantryAssaultRifle" />
+      The first slot in a location is at index="1".
+			<location index="0"> Squad
+				<armor points="3" type="Internal"/>
+				<slot index="1" type="ISBASRM1" isHit="true" isDestroyed="true"/>
+				<slot index="2" type="BA-SRM1 Ammo" shots="4"/>
+				<slot index="4" type="InfantryAssaultRifle" isHit="true" isDestroyed="true"/>
+				<slot index="5" type="ISImprovedSensors" isHit="true" isDestroyed="true"/>
+			</location>
+			<location index="1" isDestroyed="true" /> Trooper 1
+			<location index="3" isDestroyed="true" /> Trooper 3
+			<location index="4" isDestroyed="true" /> Trooper 4
+			<Game id="8"/>
+		</entity>
+
+		<entity chassis="Bandit Hovercraft" model="I" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="2f726ec9-3c39-4d48-8e52-cd186e2ee578" camoCategory="-- Colour Camo --" camoFileName="GRAY" camoRotation="0" camoScale="10">
+			<pilot size="4" name="Sergeant Maurício Losano" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="8" portraitCat="Male/Vehicle Gunner/" portraitFile="VeeGunner_M_49.png" externalId="a292c05a-772c-4511-b110-fe9675e9f13e" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Light Machine Gun Ammo - Half" shots="99"/>
+			</location>
+			<location index="1"> Front
+				<slot index="1" type="Light Machine Gun" quirks="mod_weapons" isDestroyed="false"/>
+			</location>
+			<location index="5"> Turret
+				<slot index="1" type="Light PPC" quirks="mod_weapons" isDestroyed="false"/>
+				<slot index="2" type="Light PPC" quirks="mod_weapons" isDestroyed="false"/>
+			</location>
+			<Game id="10"/>
+		</entity>
+
+		<entity chassis="Shadow Hawk IIC" model="8" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="4f915dc2-9f47-44f3-9be4-24b0ca0ad489" quirks="battle_fists_la::battle_fists_ra::imp_life_support" camoCategory="Clans/Sea Fox (Dark Age)/" camoFileName="Clan Sea Fox.jpg" camoRotation="0" camoScale="10">
+			<pilot size="1" name="Warrior Hassim" nick="" gender="MALE" clanperson="true" gunnery="3" piloting="3" artillery="8" portraitCat="Male/MekWarrior/" portraitFile="MW_M_39.png" externalId="69568e0e-808d-4490-9440-1b665289b3d5" commandB="3" ejected="false" edge="edge 1::edge_when_headhit" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="5" type="Improved Jump Jet" isHit="true" isRepairable="false" isDestroyed="true"/>
+				<slot index="6" type="Improved Jump Jet" isHit="true" isRepairable="false" isDestroyed="true"/>
+				<slot index="7" type="Improved Jump Jet" isHit="true" isRepairable="false" isDestroyed="true"/>
+				<slot index="8" type="Improved Jump Jet" isHit="true" isRepairable="false" isDestroyed="true"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="10" type="Clan Ammo LRM-10" shots="12"/>
+				<slot index="11" type="Clan Ammo LRM-10" shots="12"/>
+			</location>
+			<location index="4" isDestroyed="true" /> Right Arm
+			<Game id="3"/>
+		</entity>
+
+		<entity chassis="Locust" model="LCT-7V2" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a943cb21-bdfa-40a7-aa4c-ecf0c98b0faf" quirks="compact_mech::low_profile::ubiquitous_is::ubiquitous_clan::cramped_cockpit::no_arms::weak_legs">
+			<pilot size="1" name="Sergeant Yoshiro Takamotoi" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" artillery="8" portraitCat="Male/MekWarrior/" portraitFile="MW_M_26.png" externalId="ba9143f6-ac5f-4db4-98f5-3a2073d83dd0" commandB="2" ejected="false" edge="edge 3::edge_when_headhit" autoeject="true"/>
+			<Game id="4"/>
+		</entity>
+
+		<entity chassis="Thunderbolt" model="C 2 (Darius) Mk II" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e7d98a01-e61d-486f-91ad-e35f116d3740" quirks="multi_trac::rugged_2::ubiquitous_is">
+			<pilot size="1" name="Sergeant Darius &quot;Chemical&quot; Steiger" nick="Chemical" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="8" portraitCat="Male/MekWarrior/" portraitFile="MW_M_20.png" externalId="292afc2b-e8e4-4a56-8455-797c8b92cc02" commandB="3" ejected="false" edge="edge 1::edge_when_headhit" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="9" type="CLAMS Ammo" shots="24"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="10" type="Clan Ammo LRM-15" shots="8"/>
+			</location>
+			<Game id="6"/>
+		</entity>
+
+		<entity chassis="Quasimodo" model="QSM-3D" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="097848ec-e0cf-44ad-99ea-a60e97f8b091" camoCategory="-- Colour Camo --" camoFileName="DEEP_PURPLE" camoRotation="0" camoScale="10">
+			<pilot size="1" name="Sergeant Rufus &quot;Odyssey&quot; Langdon" nick="Odyssey" gender="MALE" clanperson="false" gunnery="3" piloting="5" artillery="8" portraitCat="Male/MekWarrior/" portraitFile="MW_M_94.png" externalId="8cea3493-4ea2-409c-ac31-04150518cb63" commandB="4" ejected="false" edge="edge 3::edge_when_headhit" autoeject="true"/>
+			<Game id="1"/>
+		</entity>
+
+		<entity chassis="Black Hawk (Nova)" model="S" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="d71cf06f-58c8-488d-ac89-39d903ab92e8" quirks="combat_computer::low_profile" camoCategory="Draconis Combine/DEST/" camoFileName="Red Hunters.jpg" camoRotation="0" camoScale="10">
+			<pilot size="1" name="Chu-i Kage &quot;Zetsubo&quot; Ha Omi" nick="Zetsubo" gender="MALE" clanperson="false" gunnery="3" piloting="4" artillery="8" portraitCat="Custom/" portraitFile="Shado.png" externalId="bbd4300c-d54f-495c-b3fb-879221d1c53d" commandB="2" ejected="false" advantages="human_tro Mek" edge="edge 3::edge_when_headhit" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<armor points="Destroyed"/>
+				<slot index="9" type="CLAMS Ammo" shots="24"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="9" type="Clan Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="2"/>
+		</entity>
+
+</unit>

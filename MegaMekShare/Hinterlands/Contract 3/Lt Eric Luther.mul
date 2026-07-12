@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.06" >
+
+		<entity chassis="Commando" model="COM-7S" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="881b24e2-2df8-4433-a306-ea10c6fcd269" quirks="low_profile::exp_actuator">
+			<pilot size="1" name="Lt Eric Luther" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" artillery="4" externalId="011a0156-5db8-45fd-9f26-6d133fbb42e8" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="3" type="IS Ammo SRM-4 Artemis-capable" shots="25"/>
+				<slot index="4" type="IS Streak SRM 2 Ammo" shots="50"/>
+			</location>
+			<Game id="14"/>
+		</entity>
+
+</unit>

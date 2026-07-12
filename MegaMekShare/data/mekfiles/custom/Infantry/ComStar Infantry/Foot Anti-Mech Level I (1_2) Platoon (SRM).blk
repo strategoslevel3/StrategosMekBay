@@ -1,0 +1,69 @@
+#Saved from version 0.49.19 on 2024-05-16
+<UnitType>
+Infantry
+</UnitType>
+
+<Name>
+Foot Anti-Mech Level I (1/2) Platoon
+</Name>
+
+<Model>
+(SRM)
+</Model>
+
+<mul id:>
+1147
+</mul id:>
+
+<year>
+2765
+</year>
+
+<originalBuildYear>
+2765
+</originalBuildYear>
+
+<type>
+IS Level 2
+</type>
+
+<role>
+Ambusher
+</role>
+
+<motion_type>
+Leg
+</motion_type>
+
+<Troopers Equipment>
+Generic Infantry Kit
+AntiMekGear
+</Troopers Equipment>
+
+<Field Guns Equipment>
+</Field Guns Equipment>
+
+<source>
+Total Warfare
+</source>
+
+<squad_size>
+6
+</squad_size>
+
+<squadn>
+3
+</squadn>
+
+<secondn>
+2
+</secondn>
+
+<Primary>
+InfantryAssaultRifle
+</Primary>
+
+<Secondary>
+InfantryHeavySRM
+</Secondary>
+

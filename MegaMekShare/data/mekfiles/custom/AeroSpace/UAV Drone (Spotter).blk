@@ -1,0 +1,92 @@
+#Saved from version 0.49.19 on 2024-05-08
+<UnitType>
+ConvFighter
+</UnitType>
+
+<Name>
+UAV Drone
+</Name>
+
+<Model>
+(Spotter)
+</Model>
+
+<year>
+3145
+</year>
+
+<originalBuildYear>
+3145
+</originalBuildYear>
+
+<type>
+IS Level 3
+</type>
+
+<role>
+None
+</role>
+
+<motion_type>
+None
+</motion_type>
+
+<SafeThrust>
+1
+</SafeThrust>
+
+<cockpit_type>
+0
+</cockpit_type>
+
+<vstol>
+1
+</vstol>
+
+<heatsinks>
+10
+</heatsinks>
+
+<sink_type>
+0
+</sink_type>
+
+<fuel>
+0
+</fuel>
+
+<engine_type>
+1
+</engine_type>
+
+<armor>
+0
+0
+0
+0
+</armor>
+
+<Nose Equipment>
+</Nose Equipment>
+
+<Left Wing Equipment>
+</Left Wing Equipment>
+
+<Right Wing Equipment>
+</Right Wing Equipment>
+
+<Aft Equipment>
+</Aft Equipment>
+
+<Wings Equipment>
+</Wings Equipment>
+
+<Fuselage Equipment>
+ISDroneOperatingSystem
+ISHighResImager
+</Fuselage Equipment>
+
+<tonnage>
+5.0
+</tonnage>
+

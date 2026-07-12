@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.51.00" >
+
+		<entity chassis="Thrush" model="TR-7" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="false" velocity="0" altitude="0" externalId="3d16f216-33dd-41e4-a9f8-2c37cbd6130a">
+			<pilot size="1" name="Lieutenant JG Ryan &quot;Dumpster&quot; MacArdle" nick="Dumpster" gender="MALE" clanperson="false" gunnery="4" piloting="3" artillery="4" portraitCat="Male/Aerospace Pilot/" portraitFile="ASF_M_18.png" externalId="3dfe95b4-7f13-4f6c-b75d-109b0168f29b" ejected="true" advantages="human_tro Aero" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="400"/>
+			<structural integrity="0"/>
+			<heat sinks="10"/>
+      <acriticals gear="None"/>
+			<location index="1"> Left Wing
+				<armor points="Destroyed"/>
+			</location>
+			<Game id="1"/>
+		</entity>
+
+		<entity chassis="Bluehawk Combat Support Fighter" model="MSF-42" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="false" velocity="0" altitude="0" externalId="bd8b0389-bcff-4a43-a317-0dc11ba94d23">
+			<pilot size="1" name="Lt. Jovan Raskovic" nick="Armbar" gender="MALE" clanperson="false" gunnery="3" piloting="4" artillery="3" externalId="835fc3ee-a069-49e8-be34-815766d59aee" ejected="true" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="480"/>
+			<structural integrity="0"/>
+			<heat sinks="0"/>
+      <acriticals fcs="1"/>
+      The first slot in a location is at index="1".
+			<location index="0"> Nose
+				<armor points="Destroyed"/>
+			</location>
+			<location index="5"> Fuselage
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="97"/>
+				<slot index="2" type="IS Ammo LRM-10" shots="11"/>
+				<slot index="3" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="3"/>
+			<Force force="Itrom Militia Wing|5||"/>
+		</entity>
+
+		<entity chassis="Bluehawk Combat Support Fighter" model="MSF-42" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="false" velocity="0" altitude="0" externalId="2edc66f5-2d0e-4ba7-9d4c-f3dc5e8715b7">
+			<pilot size="1" name="Lori Taji" nick="Generic" gender="FEMALE" clanperson="false" gunnery="4" piloting="6" artillery="4" externalId="8fc38d4f-6300-4a3f-a8e0-f978f7ea359b" ejected="true" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="480"/>
+			<structural integrity="0"/>
+			<heat sinks="0"/>
+      <acriticals avionics="1"/>
+      The first slot in a location is at index="1".
+			<location index="0"> Nose
+				<armor points="Destroyed"/>
+				<slot index="3" type="Machine Gun" isHit="true" isDestroyed="false"/>
+			</location>
+			<location index="1"> Left Wing
+				<armor points="7"/>
+			</location>
+			<location index="5"> Fuselage
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="97"/>
+				<slot index="2" type="IS Ammo LRM-10" shots="9"/>
+				<slot index="3" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="6"/>
+			<Force force="Itrom Militia Wing|5||"/>
+		</entity>
+
+		<entity chassis="Lightning" model="LTN-G15" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="false" velocity="0" altitude="0" externalId="c27acd1f-c845-4adc-84d1-08ae1359ce98">
+			<pilot size="1" name="Lt. Corey Muruthi" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" artillery="4" portraitCat="Male/Aerospace Pilot/" portraitFile="ASF_M_10.png" externalId="d2558bd8-b8f2-40ce-97cd-3303b2376434" ejected="true" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="400"/>
+			<structural integrity="0"/>
+			<heat sinks="11"/>
+      <acriticals engine="2"/>
+      The first slot in a location is at index="1".
+			<location index="0"> Nose
+				<armor points="8"/>
+			</location>
+			<location index="1"> Left Wing
+				<armor points="0"/>
+				<slot index="1" type="Medium Laser" isHit="true" isDestroyed="true"/>
+			</location>
+			<location index="2"> Right Wing
+				<armor points="15"/>
+			</location>
+			<location index="3"> Aft
+				<armor points="Destroyed"/>
+			</location>
+			<location index="5"> Fuselage
+				<slot index="1" type="IS Ammo AC/20" shots="2"/>
+				<slot index="2" type="IS Ammo AC/20" shots="5"/>
+			</location>
+			<Game id="43"/>
+		</entity>
+
+		<entity chassis="Bluehawk Combat Support Fighter" model="MSF-42" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="false" velocity="0" altitude="0" externalId="d0ffefbb-f90b-44dc-ba13-8e7e6181aaab">
+			<pilot size="1" name="Angela Galván" nick="Steadfast" gender="FEMALE" clanperson="false" gunnery="4" piloting="6" artillery="4" externalId="cbd744fa-ed7d-4fd3-92a1-2d626053984e" ejected="true" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="480"/>
+			<structural integrity="0"/>
+			<heat sinks="0"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Wing
+				<armor points="Destroyed"/>
+				<slot index="1" type="LRM 10" isHit="true" isDestroyed="true"/>
+			</location>
+			<location index="3"> Aft
+				<armor points="5"/>
+			</location>
+			<location index="5"> Fuselage
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="97"/>
+				<slot index="2" type="IS Ammo LRM-10" shots="9"/>
+				<slot index="3" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="4"/>
+		</entity>
+
+		<entity chassis="Lightning" model="LTN-G15" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="false" velocity="0" altitude="0" externalId="da2553a9-a8bf-441e-8aaa-a77e6fdc1b51">
+			<pilot size="1" name="José Ortega" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="5" portraitCat="Male/Aerospace Pilot/" portraitFile="ASF_M_9.png" externalId="59bb896c-1657-47ad-8fde-23182613ba5d" ejected="true" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="400"/>
+			<structural integrity="0"/>
+			<heat sinks="13"/>
+      The first slot in a location is at index="1".
+			<location index="0"> Nose
+				<armor points="21"/>
+			</location>
+			<location index="1"> Left Wing
+				<armor points="Destroyed"/>
+				<slot index="1" type="Medium Laser" isHit="true" isDestroyed="true"/>
+			</location>
+			<location index="2"> Right Wing
+				<armor points="Destroyed"/>
+				<slot index="1" type="Medium Laser" isHit="true" isDestroyed="true"/>
+			</location>
+			<location index="3"> Aft
+				<armor points="1"/>
+			</location>
+			<location index="5"> Fuselage
+				<slot index="1" type="IS Ammo AC/20" shots="0"/>
+				<slot index="2" type="IS Ammo AC/20" shots="5"/>
+			</location>
+			<Game id="44"/>
+		</entity>
+
+</unit>

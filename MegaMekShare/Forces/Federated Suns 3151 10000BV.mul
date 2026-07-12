@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.49.19.1" >
+
+		<entity chassis="Templar" model="TLR1-OE" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e8b7222d-c42b-4328-9850-7e2c76e9e5cc" quirks="easy_maintain" c3UUID="65e7f83b-dc33-4806-b31e-9c505e4a9e92">
+			<pilot size="1" name="Leftenant Siua Keanu" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="0ce5bb4c-361c-43fd-974e-dd30a81068a7" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="5" type="IS Ammo LRM-15 Artemis-capable" shots="8"/>
+				<slot index="6" type="IS Ammo LRM-15 Artemis-capable" shots="8"/>
+				<slot index="7" type="IS Ammo LRM-15 Artemis-capable" shots="8"/>
+				<slot index="8" type="IS Ammo LRM-15 Artemis-capable" shots="8"/>
+				<slot index="9" type="IS Ammo LRM-15" shots="8"/>
+			</location>
+			<Game id="1"/>
+		</entity>
+
+		<entity chassis="Ares" model="ARS-V1D Hephaestus" type="Tripod" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="df75bc04-54ee-4b5b-839d-819378713b9b" quirks="command_mech::distracting::searchlight" c3MasterIs="65e7f83b-dc33-4806-b31e-9c505e4a9e92" c3UUID="cd05bf22-1e6a-4fa6-be33-765989ed74d9">
+			<crew crewType="superheavy_tripod" ejected="false" advantages="human_tro Mek" autoeject="false">
+				<crewMember slot="0" name="Pvt. Obelix Iakovou" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="d1a7ddff-b1eb-4c82-a6ca-7d28ddfa6366"/>
+				<crewMember slot="1" name="Captain Andrea Caabay" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" artillery="4" externalId="fd41aaf2-fb92-4237-b407-9fc3dbfaabec"/>
+				<crewMember slot="2" name="Pvt. Yasutoki Nishida" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="d3887a19-b40a-4b8b-8ace-7908b90c2875"/>
+			</crew>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="11" type="IS Ammo SRM-2 Smoke" shots="50"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="11" type="IS Ammo LRM-5" shots="24"/>
+			</location>
+			<Game id="2"/>
+		</entity>
+
+		<entity chassis="Sprint Scout Helicopter" model="(C3)" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="cc28afe3-ded6-47a1-b4f5-f811ae5d17f0" c3MasterIs="65e7f83b-dc33-4806-b31e-9c505e4a9e92" c3UUID="78172557-c99e-4b4a-8e53-6a405b6b9644">
+			<pilot size="1" name="Pvt. Kamillra Rudbeck" nick="" gender="FEMALE" clanperson="false" gunnery="5" piloting="6" artillery="4" externalId="9641708d-1233-4a0a-b53c-28c4a9c83137" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<bombs>
+			</bombs>
+			<Game id="3"/>
+		</entity>
+
+		<entity chassis="Centurion" model="CN11-OC" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="3b5317f9-a2ad-4bfb-8790-d673962f7a92" quirks="easy_pilot" c3MasterIs="65e7f83b-dc33-4806-b31e-9c505e4a9e92" c3UUID="1eef2383-3a18-4c54-a6ea-1ef3fd255b4e">
+			<pilot size="1" name="Pvt. Sydney Hendry" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="eb2605bc-78ed-4d4a-827f-edfe6e8cff12" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="6" type="IS Ammo LRM-10 Artemis-capable" shots="12"/>
+				<slot index="7" type="IS Ammo LRM-10 Artemis-capable" shots="12"/>
+			</location>
+			<location index="4"> Right Arm
+				<slot index="5" type="ISPlasmaRifleAmmo" shots="10"/>
+				<slot index="6" type="ISPlasmaRifleAmmo" shots="10"/>
+			</location>
+			<Game id="4"/>
+		</entity>
+
+		<entity chassis="Grenadier II Battle Armor" model="A(Sqd4)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="de1cefc1-d437-430e-823b-804e980c1b63" quirks="difficult_maintain">
+			<pilot size="4" name="Sg. Herna Muljana" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="19b8e7c6-4e0a-4348-b894-5e50d8815dda" ejected="false"/>
+      The first slot in a location is at index="1".
+			<location index="0"> Squad
+				<slot index="8" type="BA-SRM4 Ammo" shots="4"/>
+				<slot index="9" type="BA-SRM4 Ammo" shots="4"/>
+			</location>
+			<Conveyance id="4"/>
+			<Game id="5"/>
+		</entity>
+
+		<entity chassis="Grenadier II Battle Armor" model="D(Sqd4)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="c6057902-93ca-431a-bd67-96c8be979a5f" quirks="difficult_maintain">
+			<pilot size="4" name="Sg. Faina Khalkiopov" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="37830ff0-918b-49c2-a8bf-b997584569be" ejected="false"/>
+      The first slot in a location is at index="1".
+			<location index="0"> Squad
+				<slot index="4" type="ISBATubeArtilleryAmmo" shots="4"/>
+				<slot index="5" type="ISBATubeArtilleryAmmo" shots="4"/>
+			</location>
+			<Conveyance id="1"/>
+			<Game id="6"/>
+		</entity>
+
+		<entity chassis="Sprint Scout Helicopter" model="(Interdictor)" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="602138c5-b7f4-4b80-ba50-7de0066973fd">
+			<pilot size="1" name="Dac Kien Sam" nick="" gender="MALE" clanperson="false" gunnery="5" piloting="6" artillery="4" externalId="ce9ffedb-6d85-4f22-8262-3008a5073311" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<bombs>
+			</bombs>
+			<Game id="7"/>
+		</entity>
+
+		<entity chassis="Grenadier II Battle Armor" model="D(Sqd4)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="83011828-3276-4574-b649-88a594cfd9db" quirks="difficult_maintain">
+			<pilot size="4" name="Sg. Kieu Aidinov" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="13ba7cd7-2d1b-458a-9e8c-f66bc7b840d4" ejected="false"/>
+      The first slot in a location is at index="1".
+			<location index="0"> Squad
+				<slot index="4" type="ISBATubeArtilleryAmmo" shots="4"/>
+				<slot index="5" type="ISBATubeArtilleryAmmo" shots="4"/>
+			</location>
+			<Conveyance id="2"/>
+			<Game id="8"/>
+		</entity>
+
+		<entity chassis="Field Gun Infantry Platoon (AC/10)" model="" type="Motorized" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="f9e3d5b9-40e6-4e87-95c7-d66c21947ea0">
+			<pilot size="1" name="Sb. Min-han Teng" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="8" artillery="4" externalId="a9146c03-e745-40d5-a9f0-6cc771025f1a" ejected="false"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+				<slot index="2" type="IS Flak Ammo AC/10" shots="10"/>
+				<slot index="4" type="IS Precision Ammo AC/10" shots="5"/>
+			</location>
+			<Game id="9"/>
+		</entity>
+
+		<entity chassis="Mechanized Tracked Platoon" model="(SRM)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="9cf88f1d-8667-4859-b1f3-271a8a2ac27f">
+			<pilot size="1" name="Sb. Cristina Lubis" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="8" artillery="4" externalId="4fcdfa14-72b5-42fd-b0f8-c35e3238c1d7" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="12"/>
+		</entity>
+
+		<entity chassis="Mechanized Tracked Platoon" model="(LRM)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="56b72b04-443f-42f3-9ff6-b6a146de7147">
+			<pilot size="1" name="Sb. Aidan MacKie" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="8" artillery="4" externalId="b2cc25d3-d633-4679-9b11-c9e174f05d0d" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="14"/>
+		</entity>
+
+</unit>

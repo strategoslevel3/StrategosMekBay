@@ -1,0 +1,149 @@
+Version:1.1
+Tantrum
+TNT-1A
+
+Config:Quad
+techbase:Mixed (IS Chassis)
+era:3152
+rules level:3
+
+mass:50
+engine:350 XL Engine(IS)
+structure:IS Endo Steel
+myomer:Standard
+cockpit:Standard Cockpit
+gyro:Compact Gyro
+
+heat sinks:10 IS Double
+walk mp:7
+jump mp:0
+
+armor:Impact-Resistant(Inner Sphere)
+FLL armor:24
+FRL armor:24
+LT armor:18
+RT armor:18
+CT armor:24
+HD armor:9
+RLL armor:24
+RRL armor:24
+RTL armor:6
+RTR armor:6
+RTC armor:8
+
+Weapons:1
+ER Large Laser, Right Torso
+
+Front Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Front Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Spikes
+ISMASC
+ISMASC
+ISMASC
+IS Impact-Resistant
+IS Impact-Resistant
+IS Impact-Resistant
+IS Impact-Resistant
+IS Impact-Resistant
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLERLargeLaser (T)
+Spikes
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Impact-Resistant
+IS Impact-Resistant
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Supercharger
+IS Impact-Resistant
+IS Impact-Resistant
+IS Impact-Resistant
+
+Head:
+Life Support
+Sensors
+Cockpit
+IS Endo Steel
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Rear Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Rear Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

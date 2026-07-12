@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.51.00" >
+
+		<entity chassis="Thrush" model="TR-7" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="3d16f216-33dd-41e4-a9f8-2c37cbd6130a">
+			<pilot size="1" name="Lieutenant JG Ryan &quot;Dumpster&quot; MacArdle" nick="Dumpster" gender="MALE" clanperson="false" gunnery="4" piloting="3" artillery="8" portraitCat="Male/Aerospace Pilot/" portraitFile="ASF_M_18.png" externalId="3dfe95b4-7f13-4f6c-b75d-109b0168f29b" ejected="false" advantages="zweihander" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="400"/>
+			<structural integrity="12"/>
+			<heat sinks="10"/>
+			<Game id="1"/>
+		</entity>
+
+		<entity chassis="Thrush" model="TR-7" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="20b57c61-9d79-4ed2-856a-61e30ea05ad4">
+			<pilot size="1" name="Chief Petty Officer Gunhilda &quot;Smokescreen&quot; Yu" nick="Smokescreen" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" artillery="8" portraitCat="Female/Aerospace Pilot/" portraitFile="ASF_F_15.png" externalId="8fa582b0-b7eb-4b75-bf5f-c99cf46fedf8" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="400"/>
+			<structural integrity="12"/>
+			<heat sinks="10"/>
+			<Game id="2"/>
+		</entity>
+
+</unit>

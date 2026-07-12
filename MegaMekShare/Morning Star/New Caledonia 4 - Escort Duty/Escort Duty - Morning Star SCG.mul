@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.49.14" >
+
+		<entity chassis="Strike Falcon Attack VTOL" model="" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" elevation="0" externalId="97946bda-5d87-4b54-8ddc-eed4c15bc5eb" quirks="easy_pilot::obsolete">
+			<pilot size="5" name="Lieutenant SG Daniela &quot;Convict&quot; Valdevieso" nick="Convict" gender="FEMALE" gunnery="4" piloting="4" artillery="8" portraitCat="Female/VTOL Pilot/" portraitFile="VTOL_F_11.png" externalId="94a14f80-7be4-4190-9d4d-4b7f4d438d75" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="2" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="3" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="10"/>
+		</entity>
+
+		<entity chassis="Strike Falcon Attack VTOL" model="" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" elevation="0" externalId="26e3ccac-8780-4834-bf23-6b78cac078d4" quirks="easy_pilot::obsolete">
+			<pilot size="5" name="Nira &quot;Hardcore&quot; Cabecinho" nick="Hardcore" gender="FEMALE" gunnery="4" piloting="4" artillery="5" externalId="47e9789f-537e-42ac-9549-f2605a8a2b5e" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="2" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="3" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="14"/>
+		</entity>
+
+		<entity chassis="Strike Falcon Attack VTOL" model="" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" elevation="0" externalId="c1ac7bdf-b1a4-40ff-93c8-0a9f23ad280f" quirks="easy_pilot::obsolete">
+			<pilot size="5" name="Zina &quot;Sawblade&quot; Waga" nick="Sawblade" gender="FEMALE" gunnery="5" piloting="4" artillery="8" externalId="96a11a90-fde1-462b-8a0f-c1c908d0cd94" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="2" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="3" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="15"/>
+		</entity>
+
+		<entity chassis="Strike Falcon Attack VTOL" model="" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" elevation="0" externalId="9c89a9e5-6b90-4861-8e9e-caa47975ca62" quirks="easy_pilot::obsolete">
+			<pilot size="5" name="Jessica &quot;Heatsink&quot; Kakelaka" nick="Heatsink" gender="FEMALE" gunnery="4" piloting="5" artillery="8" externalId="524124d1-8a15-461b-ac2f-25622135050c" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="2" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="3" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="16"/>
+		</entity>
+
+		<entity chassis="Boomerang Spotter Plane" model="" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" velocity="0" altitude="5" externalId="386308f3-f64f-4339-93d9-b8287fa5a278">
+			<pilot size="1" name="Sloan &quot;Kaiser&quot; MacCaw" nick="Kaiser" gender="FEMALE" gunnery="4" piloting="5" artillery="8" portraitCat="Female/Conventional Aircraft Pilot/" portraitFile="ConvPilot_F_13.png" externalId="6f9d07d7-a885-46a2-b68b-7f0de4765102" ejected="false"/>
+			<fuel left="273"/>
+			<bombs>
+			</bombs>
+			<structural integrity="4"/>
+			<heat sinks="0"/>
+			<location index="0"> Nose
+				<armor points="Destroyed"/>
+			</location>
+			<location index="1"> Left Wing
+				<armor points="Destroyed"/>
+			</location>
+			<location index="2"> Right Wing
+				<armor points="Destroyed"/>
+			</location>
+			<location index="3"> Aft
+				<armor points="Destroyed"/>
+			</location>
+			<Game id="21"/>
+		</entity>
+
+		<entity chassis="Javelin" model="JVN-10F 'Fire Javelin'" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="4111eec8-4aa5-425c-aefa-7c3ce0a6ef10" quirks="unbalanced">
+			<pilot size="1" name="Sergeant Grear &quot;Big Texas&quot; Sottrel" nick="Big Texas" gender="FEMALE" gunnery="4" piloting="4" artillery="8" portraitCat="Female/MechWarrior/" portraitFile="MW_F_10.png" externalId="f829720d-28c0-4d3b-aec9-9d799f19b9b1" ejected="false" autoeject="false"/>
+			<Game id="1"/>
+		</entity>
+
+		<entity chassis="Griffin" model="GRF-1S" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="24257e19-2163-4747-aabe-d64c21945e13" quirks="battle_fists_la::battle_fists_ra::rugged_1::ubiquitous_is::ubiquitous_clan">
+			<pilot size="1" name="Sergeant Turfa &quot;Wyvern&quot; bin Jawad" nick="Wyvern" gender="FEMALE" gunnery="4" piloting="4" artillery="8" portraitCat="Female/MechWarrior/" portraitFile="MW_F_82.png" externalId="b8923bee-8108-4564-9fe6-3a6ccd3d3896" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="3" type="IS Ammo LRM-5" shots="24"/>
+			</location>
+			<location index="4"> Right Arm
+				<slot index="5" type="Large Laser" quirks="jettison_capable" isDestroyed="false"/>
+				<slot index="6" type="Large Laser" quirks="jettison_capable" isDestroyed="false"/>
+			</location>
+			<Game id="3"/>
+		</entity>
+
+		<entity chassis="Dervish" model="DV-6M" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="b2ece91f-7072-452e-9887-f73362294662" quirks="easy_maintain::hyper_actuator">
+			<pilot size="1" name="Lieutenant JG Sameh &quot;Feedback&quot; Ndadaye" nick="Feedback" gender="MALE" gunnery="3" piloting="5" artillery="5" hits="1" portraitCat="Male/MechWarrior/" portraitFile="MW_M_46.png" externalId="1cf89377-e2c6-43d5-8a3d-5daf605e1fcf" commandB="7" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="3" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="3" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<location index="4"> Right Arm
+				<slot index="6" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="6" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="17"/>
+		</entity>
+
+		<entity chassis="Grasshopper" model="GHR-5H" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="f80ba5c5-75ee-4140-97d2-ccd60dcede50" quirks="rugged_1">
+			<pilot size="1" name="Sergeant Rosa &quot;Rigs&quot; Bice" nick="Rigs" gender="FEMALE" gunnery="4" piloting="4" artillery="8" portraitCat="Female/MechWarrior/" portraitFile="MW_F_68.png" externalId="8573bd33-6558-403d-bfa3-6437de7fe2a2" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="6" type="IS Ammo LRM-5" shots="24"/>
+			</location>
+			<Game id="5"/>
+		</entity>
+
+		<entity chassis="Wolfhound" model="WLF-1" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="487efb27-bd0b-4cd0-9852-33c1b178f05b" quirks="easy_maintain::good_rep_1">
+			<pilot size="1" name="Sergeant Kozue Ishikawa" nick="" gender="MALE" gunnery="3" piloting="4" artillery="8" portraitCat="Male/MechWarrior/" portraitFile="MW_M_106.png" externalId="08360bf0-0618-4f9a-a4ac-afe1225450d8" commandB="3" ejected="false" autoeject="false"/>
+			<Game id="37"/>
+		</entity>
+
+</unit>

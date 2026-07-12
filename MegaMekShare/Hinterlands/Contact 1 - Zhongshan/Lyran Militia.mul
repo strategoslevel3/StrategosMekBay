@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.02" >
+
+		<entity chassis="Rommel Tank" model="(Howitzer) Production" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="0aa5f65a-9cba-40a5-9e0b-9caf72d6b4e1" quirks="low_profile::poor_target_short">
+			<pilot size="5" name="Hauptmann Luca Kaplan" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" artillery="4" externalId="88ea334f-0491-4e62-844e-daddad9d3d7a" initB="2" commandB="4" ejected="false" edge="edge 2::edge_when_headhit::edge_when_tac::edge_when_explosion"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="ISLongTomCannonAmmo" shots="5"/>
+				<slot index="2" type="ISLongTomCannonAmmo" shots="5"/>
+				<slot index="3" type="ISLongTomCannonAmmo" shots="5"/>
+				<slot index="4" type="IS Ammo Thunderbolt-5" shots="12"/>
+			</location>
+			<Game id="17"/>
+		</entity>
+
+		<entity chassis="JES III Missile Carrier" model="" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="7138180c-4f69-49a0-ad92-46e39b96c46a" quirks="easy_maintain::imp_target_long">
+			<pilot size="4" name="Bimo Soedjatmoko" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="710efb99-b5cc-48f5-a7b0-55d2031cd236" initB="1" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="2" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="3" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="4" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="5" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="6" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="7" type="IS Ammo LRM-15" shots="8"/>
+			</location>
+			<Game id="18"/>
+		</entity>
+
+		<entity chassis="Drillson Heavy Hover Tank" model="(Streak)" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e47b9128-b6a4-4c6f-9c65-a952ef9d8697">
+			<pilot size="4" name="Kyle Stewart" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="dcc71214-23ac-4068-9eab-68903c82a7b9" initB="1" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Streak SRM 2 Ammo" shots="50"/>
+				<slot index="2" type="IS Streak SRM 2 Ammo" shots="50"/>
+			</location>
+			<Game id="19"/>
+		</entity>
+
+		<entity chassis="Cardinal Transport" model="" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="2072b46a-073c-4d1f-b3e8-0a2a5bb57a5d" quirks="vtol_rotor_dual">
+			<pilot size="4" name="Manlio" nick="" gender="MALE" clanperson="true" gunnery="4" piloting="5" artillery="4" externalId="4aeb4d24-a20d-4174-854a-e0c86a81a9f6" initB="1" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="CLAPGaussRifle Ammo" shots="40"/>
+				<slot index="2" type="Clan LB 2-X AC Ammo" shots="45"/>
+				<slot index="3" type="Clan Ammo LRM-5" shots="24"/>
+			</location>
+			<Game id="20"/>
+		</entity>
+
+		<entity chassis="Gray Death Standard Suit" model="[SRM](Sqd4)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="8de00ce6-6ee9-42f4-ae85-bc09744aac8f">
+			<pilot size="4" name="Neritan Mala" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" artillery="4" externalId="603d4683-26f4-4cba-93c3-17b1b738c471" initB="1" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<antiPersonnelMount baAPMMountNum="2" baAPMTypeName="InfantryAssaultRifle" />
+      The first slot in a location is at index="1".
+			<location index="0"> Squad
+				<slot index="2" type="BA-SRM1 Ammo" shots="4"/>
+			</location>
+			<Conveyance id="20"/>
+			<Game id="21"/>
+		</entity>
+
+		<entity chassis="Foot Platoon (Anti-'Mech)" model="(Rifle)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="45cfff34-037f-461b-8f77-cd3f67ffdf04">
+			<pilot size="1" name="Isolde Jovic" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="617449a8-2af6-445b-ad17-d395b50fc6d1" initB="1" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Conveyance id="23"/>
+			<Game id="22"/>
+		</entity>
+
+		<entity chassis="Bandit Hovercraft" model="I" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="aa7eb3c7-aaa7-4193-aa60-9035a31c2043">
+			<pilot size="4" name="Todd Zhi" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="e55b4124-9de4-4785-b97c-7f2afb1a73e2" initB="1" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Light Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<location index="1"> Front
+				<slot index="1" type="Light Machine Gun" quirks="mod_weapons" isDestroyed="false"/>
+			</location>
+			<location index="5"> Turret
+				<slot index="1" type="Light PPC" quirks="mod_weapons" isDestroyed="false"/>
+				<slot index="2" type="Light PPC" quirks="mod_weapons" isDestroyed="false"/>
+			</location>
+			<Game id="23"/>
+		</entity>
+
+</unit>

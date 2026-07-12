@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.06" >
+
+		<entity chassis="Cyclops" model="CP-10-Z" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="819cc505-dae6-4643-981e-4aae3b1ebe44" quirks="battle_computer::cowl::difficult_eject::weak_head_2">
+			<pilot size="1" name="Major Victor MacBride" nick="" gender="MALE" clanperson="false" gunnery="1" piloting="3" artillery="4" externalId="d95b7549-7401-49b7-98aa-a51afc05ac16" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="12" type="IS Ammo SRM-4" shots="25"/>
+			</location>
+			<location index="2"> Right Torso
+				<slot index="11" type="IS Ammo AC/20" shots="5"/>
+				<slot index="12" type="IS Ammo AC/20" shots="5"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="3" type="IS Ammo AC/20" shots="5"/>
+				<slot index="4" type="IS Ammo AC/20" shots="5"/>
+				<slot index="5" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="1"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 1st Company|2||2 Bat HQ Command Lance|1||"/>
+		</entity>
+
+		<entity chassis="Awesome" model="AWS-8R" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="4b429870-aded-48d1-8915-da5048db8464" quirks="battle_fists_la">
+			<pilot size="1" name="Lt. Inna Bauer" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="3" artillery="4" externalId="787360ad-c93e-4f12-b253-d550cc42504f" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="12" type="IS Ammo LRM-15" shots="8"/>
+			</location>
+			<Game id="2"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 1st Company|2||2 Bat HQ Command Lance|1||"/>
+		</entity>
+
+		<entity chassis="Goliath" model="GOL-1H" type="Quad" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="892a250e-0f39-4848-88fb-52b6655f45d3" quirks="multi_trac::exp_actuator">
+			<pilot size="1" name="Sg. Elisabeth Gómez" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" artillery="4" externalId="a1129672-2c9b-43f9-a66d-bbc42a6e5564" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="12" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="4" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="3"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 1st Company|2||2 Bat HQ Command Lance|1||"/>
+		</entity>
+
+		<entity chassis="Mauler" model="MAL-1PT6" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="4070018e-6c1d-43f0-b2de-cb7bb0bfc0a0">
+			<pilot size="1" name="Sg. Ryley Smith" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="3" artillery="4" externalId="bd6e6df7-86bc-4d3e-949c-8268e1950c88" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="6" type="Autocannon/2" quirks="stable_weapon" isDestroyed="false"/>
+				<slot index="7" type="Autocannon/2" quirks="stable_weapon" isDestroyed="false"/>
+				<slot index="8" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="9" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="10" type="IS Ammo AC/2" shots="45"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="6" type="Autocannon/2" quirks="stable_weapon" isDestroyed="false"/>
+				<slot index="7" type="Autocannon/2" quirks="stable_weapon" isDestroyed="false"/>
+				<slot index="8" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="9" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="10" type="IS Ammo AC/2" shots="45"/>
+			</location>
+			<Game id="4"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 1st Company|2||2 Bat HQ Command Lance|1||"/>
+		</entity>
+
+		<entity chassis="Marauder" model="MAD-3L" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="635d1cff-afba-4b18-97f4-c021e74e9f66" quirks="command_mech::hyper_actuator::low_profile">
+			<pilot size="1" name="Lt. Hamilton bin Nooh" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" artillery="4" externalId="8832d16c-0e70-4068-b54f-89d161f9e913" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="1" type="Autocannon/5" quirks="exposed_linkage::direct_torso_mount" isDestroyed="false"/>
+				<slot index="2" type="Autocannon/5" quirks="exposed_linkage::direct_torso_mount" isDestroyed="false"/>
+				<slot index="3" type="Autocannon/5" quirks="exposed_linkage::direct_torso_mount" isDestroyed="false"/>
+				<slot index="4" type="Autocannon/5" quirks="exposed_linkage::direct_torso_mount" isDestroyed="false"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="3" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<Game id="5"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 1st Company|2||2 Bat 1st Com Alpha Heavy Battle Lance|3||"/>
+		</entity>
+
+		<entity chassis="Black Knight" model="BL-7-KNT-L" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="17d814a0-4262-4671-aa21-8e523330cd1c" quirks="command_mech">
+			<pilot size="1" name="Sg. Dharam Mitanu" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="4" artillery="4" externalId="bde9c146-f547-41c0-b3e6-a37e0256dbe9" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+			<Game id="6"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 1st Company|2||2 Bat 1st Com Alpha Heavy Battle Lance|3||"/>
+		</entity>
+
+		<entity chassis="Cataphract" model="CTF-2X" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e2a0a0a0-e180-463b-a2eb-d53532786274" quirks="pro_actuator">
+			<pilot size="1" name="Sg. Erik Kolijn" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" artillery="4" externalId="abea6021-99f7-4e35-8a0f-95faabedfe2a" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="2" type="IS Ammo AC/10" shots="10"/>
+				<slot index="3" type="IS Ammo AC/10" shots="10"/>
+				<slot index="4" type="IS Ammo SRM-4" shots="25"/>
+			</location>
+			<Game id="7"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 1st Company|2||2 Bat 1st Com Alpha Heavy Battle Lance|3||"/>
+		</entity>
+
+		<entity chassis="Griffin" model="GRF-1N" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a0f17929-3fc5-464f-b740-134baadc663b" quirks="battle_fists_la::battle_fists_ra::rugged_1::ubiquitous_is::ubiquitous_clan">
+			<pilot size="1" name="Sg. My-Hanh Giap" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="3" artillery="4" externalId="0b0a6cd7-1e3f-4cce-888b-4da71184a8b5" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="5" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="6" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<location index="4"> Right Arm
+				<slot index="5" type="PPC" quirks="jettison_capable" isDestroyed="false"/>
+				<slot index="6" type="PPC" quirks="jettison_capable" isDestroyed="false"/>
+				<slot index="7" type="PPC" quirks="jettison_capable" isDestroyed="false"/>
+			</location>
+			<Game id="135"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 1st Company|2||2 Bat 1st Com Bravo Striker Lance|4||"/>
+		</entity>
+
+		<entity chassis="Ostsol" model="OTL-4D" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="b5df93fc-febe-4724-90d4-b431c673c0a4" quirks="imp_sensors::low_profile">
+			<pilot size="1" name="Sg. Ariadne Zolotas" nick="" gender="FEMALE" clanperson="false" gunnery="2" piloting="3" artillery="4" externalId="ea04f48c-0730-4b6b-ba5b-27eaa6f577a2" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+			<Game id="8"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 1st Company|2||2 Bat 1st Com Alpha Heavy Battle Lance|3||"/>
+		</entity>
+
+		<entity chassis="Shadow Hawk" model="SHD-2H" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="dc15a85b-7fe5-488e-92c7-b8b8db1f14cc" quirks="battle_fists_la::battle_fists_ra::imp_life_support::rugged_1::ubiquitous_is::ubiquitous_clan">
+			<pilot size="1" name="Lt. Dean Southworth" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="4" artillery="4" externalId="a936e375-d909-48f4-8cd0-e1a7f12478c8" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="12" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<location index="2"> Right Torso
+				<slot index="4" type="IS Ammo LRM-5" shots="24"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="6" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<Game id="9"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 1st Company|2||2 Bat 1st Com Bravo Striker Lance|4||"/>
+		</entity>
+
+		<entity chassis="Mobile Long Tom Artillery" model="LT-MOB-25" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="8373924c-dc6e-40ab-bc0e-3ec8154cb9b5">
+			<pilot size="5" name="Cp. Jennifer Hopkins" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="6" artillery="4" externalId="e890b50d-c763-4189-96f2-b125e89ed46b" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="2" type="ISLongTomAmmo" shots="5"/>
+				<slot index="3" type="ISLongTomAmmo" shots="5"/>
+				<slot index="4" type="ISLongTomAmmo" shots="5"/>
+				<slot index="5" type="ISLongTomAmmo" shots="5"/>
+			</location>
+			<Game id="137"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 2nd Company|7||2 Bat 2nd Com Artillery Lance|5||"/>
+		</entity>
+
+		<entity chassis="Quickdraw" model="QKD-5A" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="d4a895a5-ddb4-4cc1-8b95-88f06ce53bb8" quirks="hyper_actuator::exp_actuator">
+			<pilot size="1" name="Sg. Eddie Punnoose" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="aeb0c2c4-790e-442a-a7e7-9fea902ebd4e" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="5" type="IS Ammo SRM-4" shots="25"/>
+			</location>
+			<Game id="10"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 1st Company|2||2 Bat 1st Com Bravo Striker Lance|4||"/>
+		</entity>
+
+		<entity chassis="Mobile Long Tom Artillery" model="LT-MOB-25 (Ammunition Carriage)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a59f19f4-1d45-4314-ac89-2e555129696b">
+			<pilot size="1" name="Cp. Gavin Sjodin" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="6" artillery="4" externalId="662337da-69fb-4ae5-a697-498523f14675" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="ISLongTomAmmo" shots="5"/>
+				<slot index="2" type="ISLongTomAmmo" shots="5"/>
+				<slot index="3" type="ISLongTomAmmo" shots="5"/>
+				<slot index="4" type="ISLongTomAmmo" shots="5"/>
+				<slot index="5" type="ISLongTomAmmo" shots="5"/>
+			</location>
+			<Game id="138"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 2nd Company|7||2 Bat 2nd Com Artillery Lance|5||"/>
+		</entity>
+
+		<entity chassis="Clint" model="CLNT-2-3T" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="1f2ffa13-6c54-4bf2-952f-e657a74a35e6" quirks="imp_target_long::imp_target_med::difficult_maintain::exp_actuator::non_standard">
+			<pilot size="1" name="Sg. Desiree Blye" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" artillery="4" externalId="f1d3b98d-b470-424a-a906-743c07571c77" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="3" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<Game id="11"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 1st Company|2||2 Bat 1st Com Bravo Striker Lance|4||"/>
+		</entity>
+
+		<entity chassis="Mobile Long Tom Artillery" model="LT-MOB-25" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="3e4dd702-7b9e-43d2-9dc4-40bad0b2b3d4">
+			<pilot size="5" name="Cp. Ok-Jim Mae" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="0e72719f-4fe3-47e6-a351-b2c529924b88" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="2" type="ISLongTomAmmo" shots="5"/>
+				<slot index="3" type="ISLongTomAmmo" shots="5"/>
+				<slot index="4" type="ISLongTomAmmo" shots="5"/>
+				<slot index="5" type="ISLongTomAmmo" shots="5"/>
+			</location>
+			<Game id="139"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 2nd Company|7||2 Bat 2nd Com Artillery Lance|5||"/>
+		</entity>
+
+		<entity chassis="Cicada" model="CDA-2A" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="d48ab423-2003-4815-8b73-fadf157331e9" quirks="no_arms">
+			<pilot size="1" name="Lt Guo-fang Lau" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="3" artillery="4" externalId="561aad07-3c71-4f63-97a4-717b261e071d" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="4"> Right Arm
+				<slot index="3" type="Empty"/>
+				<slot index="4" type="Empty"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="3" type="Empty"/>
+				<slot index="4" type="Empty"/>
+			</location>
+			<Game id="12"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 1st Company|2||2 Bat HQ Command Lance|1||2 Bat 1st Com Charlie Recon Lance|6||"/>
+		</entity>
+
+		<entity chassis="Mobile Long Tom Artillery" model="LT-MOB-25 (Ammunition Carriage)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="14e465e5-1965-4492-a410-c32cc7b938de">
+			<pilot size="1" name="Cp. Frank Martyn" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="c0107447-0a4e-4c0e-a0ed-6b071612875d" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="ISLongTomAmmo" shots="5"/>
+				<slot index="2" type="ISLongTomAmmo" shots="5"/>
+				<slot index="3" type="ISLongTomAmmo" shots="5"/>
+				<slot index="4" type="ISLongTomAmmo" shots="5"/>
+				<slot index="5" type="ISLongTomAmmo" shots="5"/>
+			</location>
+			<Game id="140"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 2nd Company|7||2 Bat 2nd Com Artillery Lance|5||"/>
+		</entity>
+
+		<entity chassis="Wolfhound" model="WLF-1" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="26b9293a-8d2f-4d7b-aa41-5741be29102f" quirks="easy_maintain::good_rep_1">
+			<pilot size="1" name="Sg. Fawzia Siraj" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" artillery="4" externalId="5e21780d-b394-4744-856f-626c5209ff50" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+			<Game id="13"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 1st Company|2||2 Bat HQ Command Lance|1||2 Bat 1st Com Charlie Recon Lance|6||"/>
+		</entity>
+
+		<entity chassis="Mobile Long Tom Artillery" model="LT-MOB-25" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="9d8cbf39-3e7b-4d7d-956b-f9b33a31e713">
+			<pilot size="5" name="Cp. Shen Sordelli" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" artillery="4" externalId="e98fe371-7af3-4905-9cad-e8246f4b18fa" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="2" type="ISLongTomAmmo" shots="5"/>
+				<slot index="3" type="ISLongTomAmmo" shots="5"/>
+				<slot index="4" type="ISLongTomAmmo" shots="5"/>
+				<slot index="5" type="ISLongTomAmmo" shots="5"/>
+			</location>
+			<Game id="141"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 2nd Company|7||2 Bat 2nd Com Artillery Lance|5||"/>
+		</entity>
+
+		<entity chassis="Javelin" model="JVN-10A" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="19c05932-fce0-47fa-99d8-f092367c49f7" quirks="unbalanced">
+			<pilot size="1" name="Sg. David Agafonnikov" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="4" artillery="4" externalId="1b8f44c4-8440-46d4-a4e7-013890596965" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="4" type="IS Ammo LRM-15" shots="8"/>
+			</location>
+			<Game id="14"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 1st Company|2||2 Bat HQ Command Lance|1||2 Bat 1st Com Charlie Recon Lance|6||"/>
+		</entity>
+
+		<entity chassis="Mobile Long Tom Artillery" model="LT-MOB-25 (Ammunition Carriage)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="3776aa1f-b430-4824-881f-1efb084e8950">
+			<pilot size="1" name="Cp. Mark Tagore" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="5" artillery="4" externalId="c82cf586-1689-4200-ac2e-2942cae340e5" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="ISLongTomAmmo" shots="5"/>
+				<slot index="2" type="ISLongTomAmmo" shots="5"/>
+				<slot index="3" type="ISLongTomAmmo" shots="5"/>
+				<slot index="4" type="ISLongTomAmmo" shots="5"/>
+				<slot index="5" type="ISLongTomAmmo" shots="5"/>
+			</location>
+			<Game id="142"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 2nd Company|7||2 Bat 2nd Com Artillery Lance|5||"/>
+		</entity>
+
+		<entity chassis="Von Luckner Heavy Tank" model="VNL-K65N" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="ba7116a0-2d52-4fcc-8a05-e83628898528" quirks="difficult_maintain">
+			<pilot size="5" name="Captain Hersek Gökalp" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="3" artillery="4" externalId="fc071a33-fad0-4431-9557-0292b4e71263" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo AC/20" shots="5"/>
+				<slot index="2" type="IS Ammo AC/20" shots="5"/>
+				<slot index="3" type="IS Ammo AC/20" shots="5"/>
+				<slot index="4" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="5" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="6" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="7" type="IS Ammo SRM-4 Smoke" shots="25"/>
+			</location>
+			<Game id="15"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 2nd Company|7||2 Bat 2nd Com Alpha Heavy Battle Lance|8||"/>
+		</entity>
+
+		<entity chassis="Chameleon" model="TRC-4C" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="509a89a0-4b82-434b-8a88-41c737067bc8" quirks="easy_pilot">
+			<pilot size="1" name="Sg. Martha Hill" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" artillery="4" externalId="fe06dcba-691f-43e6-bc22-f5f9f4586b83" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="4" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="143"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 1st Company|2||2 Bat HQ Command Lance|1||2 Bat 1st Com Charlie Recon Lance|6||"/>
+		</entity>
+
+		<entity chassis="Von Luckner Heavy Tank" model="VNL-K65N" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="6b6c5f29-16e9-478d-a60c-0694e2c0da23" quirks="difficult_maintain">
+			<pilot size="5" name="Sg. Peter Craster" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="3" artillery="4" externalId="f6fca1af-c8e8-447e-b95f-9732941c226c" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo AC/20" shots="5"/>
+				<slot index="2" type="IS Ammo AC/20" shots="5"/>
+				<slot index="3" type="IS Ammo AC/20" shots="5"/>
+				<slot index="4" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="5" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="6" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="7" type="IS Ammo SRM-4 Smoke" shots="25"/>
+			</location>
+			<Game id="16"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 2nd Company|7||2 Bat 2nd Com Alpha Heavy Battle Lance|8||"/>
+		</entity>
+
+		<entity chassis="Warrior Attack Helicopter" model="H-7" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="2f29621d-3709-404a-81f9-055b2d270e0a" quirks="vtol_rotor_coaxial">
+			<pilot size="2" name="Cp. Ramil Gabagat" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="5" artillery="4" externalId="91ee133c-6901-4e19-8b4d-8fefc9bef580" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="2" type="IS Ammo AC/2" shots="45"/>
+			</location>
+			<Game id="144"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 3rd Company|9||2 Bat 3rd Com Bravo Airbourne Scout Lance|10||"/>
+		</entity>
+
+		<entity chassis="Manticore Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="21dcdbc2-16e7-4c26-8b5e-50235527ad5c">
+			<pilot size="4" name="Lt. Dobrynya Bielatowicz" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="3" artillery="4" externalId="96d29bc1-2e90-4e4c-9ebd-c3f421eb751e" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="2" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="17"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 2nd Company|7||2 Bat 2nd Com Bravo Direct Fire Lance|11||"/>
+		</entity>
+
+		<entity chassis="Warrior Attack Helicopter" model="H-7" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="15fce1e9-aec7-4e9b-8f89-5bcd3cb8771a" quirks="vtol_rotor_coaxial">
+			<pilot size="2" name="Cp. Princess Ginevglekov" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="4" artillery="4" externalId="d261d962-637a-4185-af92-49a75cc60aa4" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="2" type="IS Ammo AC/2" shots="45"/>
+			</location>
+			<Game id="145"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 3rd Company|9||2 Bat 3rd Com Bravo Airbourne Scout Lance|10||"/>
+		</entity>
+
+		<entity chassis="Manticore Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="ec4e8714-b489-4eac-a149-7f32b9438802">
+			<pilot size="4" name="Sg. Anders Sauer" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="4" artillery="4" externalId="bb54705a-9222-446d-9e1b-6e44170124cd" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="2" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="18"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 2nd Company|7||2 Bat 2nd Com Bravo Direct Fire Lance|11||"/>
+		</entity>
+
+		<entity chassis="J. Edgar Light Hover Tank" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="5395ba26-e6c3-4a45-8b6e-514bc1fa8b14">
+			<pilot size="2" name="Cp. Kim-Fan Hsu" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" artillery="4" externalId="9fe8a4df-925b-4228-a224-41a8c8a1548c" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="146"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 3rd Company|9||2 Bat 3rd Com Alpha Striker Lance|12||"/>
+		</entity>
+
+		<entity chassis="Schrek PPC Carrier" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="6987119d-2c4e-43c2-8d23-b78cbdcdb877" quirks="low_profile">
+			<pilot size="6" name="Sg. Neil Purdie" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="3" artillery="4" externalId="3e4ab958-9267-4d0f-96e4-d16dd4b4b79d" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="19"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 2nd Company|7||2 Bat 2nd Com Bravo Direct Fire Lance|11||"/>
+		</entity>
+
+		<entity chassis="J. Edgar Light Hover Tank" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="6e09978e-e139-4351-b73c-a265ddc8ece7">
+			<pilot size="2" name="Cp. Dave Trmka" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" artillery="4" externalId="9cb7a3e0-272f-497a-80a4-a6bf89ed6f64" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="147"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 3rd Company|9||2 Bat 3rd Com Alpha Striker Lance|12||"/>
+		</entity>
+
+		<entity chassis="Schrek PPC Carrier" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="3a3c8a25-8105-4de2-83b6-1e9604f04cb1" quirks="low_profile">
+			<pilot size="6" name="Sg. Thanos Hagiorgiu" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="3" artillery="4" externalId="779ed0d1-9d2e-437c-bdf7-a64fcf85f755" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="20"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 2nd Company|7||2 Bat 2nd Com Bravo Direct Fire Lance|11||"/>
+		</entity>
+
+		<entity chassis="Savannah Master Hovercraft" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="d319e903-f914-42be-a609-8473d2c6a474">
+			<pilot size="1" name="Lt. Ashwini Thundyil" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="3" artillery="4" externalId="662df275-9fd9-4a0d-80fb-22ecc44e98d6" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="148"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 3rd Company|9||2 Bat 3rd Com Delta Scout Lance|13||"/>
+		</entity>
+
+		<entity chassis="Patton Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="cfdac11a-72b2-450f-8a80-c338cd8cfffc" quirks="low_profile::poor_target_short">
+			<pilot size="5" name="Lt. Joe Muruthi" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" artillery="4" externalId="ca909f8a-a8cc-402d-8f9c-20400fa2e708" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-5" shots="24"/>
+				<slot index="2" type="IS Ammo AC/10" shots="10"/>
+				<slot index="3" type="IS Ammo AC/10" shots="10"/>
+			</location>
+			<Game id="21"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 2nd Company|7||2 Bat 2nd Com Alpha Heavy Battle Lance|8||"/>
+		</entity>
+
+		<entity chassis="Savannah Master Hovercraft" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="b2b1807f-a6c1-4c6f-88c6-b3c78074867c">
+			<pilot size="1" name="Cp. Hope Rosler" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="4" artillery="4" externalId="a1007b69-b4df-4679-af2f-0ffe6593437c" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="149"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 3rd Company|9||2 Bat 3rd Com Delta Scout Lance|13||"/>
+		</entity>
+
+		<entity chassis="Patton Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="d4400559-92ac-4cfb-9be8-ad5259e1e216" quirks="low_profile::poor_target_short">
+			<pilot size="5" name="Sg. Jim Starling" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="3" artillery="4" externalId="d1797983-8443-4b87-946d-b65ddfeebb75" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-5" shots="24"/>
+				<slot index="2" type="IS Ammo AC/10" shots="10"/>
+				<slot index="3" type="IS Ammo AC/10" shots="10"/>
+			</location>
+			<Game id="22"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 2nd Company|7||2 Bat 2nd Com Alpha Heavy Battle Lance|8||"/>
+		</entity>
+
+		<entity chassis="Savannah Master Hovercraft" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="278bdf81-621b-4a3d-a82d-d33a4f0e56a8">
+			<pilot size="1" name="Cp. Bartolo Vercesi" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" artillery="4" externalId="ad92e893-0887-483d-85f3-515c302e6acb" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="150"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 3rd Company|9||2 Bat 3rd Com Delta Scout Lance|13||"/>
+		</entity>
+
+		<entity chassis="Pike Support Vehicle" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="9d42ee26-73d0-4a55-8f01-bb5e8e644ad4">
+			<pilot size="4" name="Lt. Brody Kanjuchi" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="3" artillery="4" externalId="e3110104-bfcc-4551-a217-d67c5d19f779" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2 Smoke" shots="50"/>
+				<slot index="2" type="IS Flak Ammo AC/2" shots="45"/>
+				<slot index="3" type="IS Flak Ammo AC/2" shots="45"/>
+				<slot index="4" type="IS Flak Ammo AC/2" shots="45"/>
+				<slot index="5" type="IS Ammo AC/2" shots="45"/>
+				<slot index="6" type="IS Ammo AC/2" shots="45"/>
+			</location>
+			<Game id="23"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 2nd Company|7||2 Bat 2nd Com Charlie Indirect Fire Lance|14||"/>
+		</entity>
+
+		<entity chassis="Savannah Master Hovercraft" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="821a9a4c-6f30-4698-b215-f1b24d26b359">
+			<pilot size="1" name="Cp. Arjen Maurer" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="3" artillery="4" externalId="9b57c694-8d1a-4c41-8506-f81593b8bebc" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="151"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 3rd Company|9||2 Bat 3rd Com Delta Scout Lance|13||"/>
+		</entity>
+
+		<entity chassis="Pike Support Vehicle" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="2817a9ee-36da-4e49-8550-092bd2d61c00">
+			<pilot size="4" name="Sg. Jaimi MacQuistan" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" artillery="4" externalId="db7ddf36-b225-4e36-a524-95621e328f29" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2 Smoke" shots="50"/>
+				<slot index="2" type="IS Flak Ammo AC/2" shots="45"/>
+				<slot index="3" type="IS Flak Ammo AC/2" shots="45"/>
+				<slot index="4" type="IS Flak Ammo AC/2" shots="45"/>
+				<slot index="5" type="IS Ammo AC/2" shots="45"/>
+				<slot index="6" type="IS Ammo AC/2" shots="45"/>
+			</location>
+			<Game id="24"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 2nd Company|7||2 Bat 2nd Com Charlie Indirect Fire Lance|14||"/>
+		</entity>
+
+		<entity chassis="LRM Carrier" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="12eb0181-011e-4d39-b4b8-aaf9e4542c5d">
+			<pilot size="4" name="Sg. Teresa Komninos" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="3" artillery="4" externalId="d1a185b3-825b-4320-a09e-33c5c098376f" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="2" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="3" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="4" type="IS Ammo LRM-20" shots="6"/>
+			</location>
+			<Game id="25"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 2nd Company|7||2 Bat 2nd Com Charlie Indirect Fire Lance|14||"/>
+		</entity>
+
+		<entity chassis="LRM Carrier" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="718f0250-a3b2-414c-b721-a5733398651f">
+			<pilot size="4" name="Sg. Yugoro Matsuo" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="4" artillery="4" externalId="b3d482f4-c21f-40d9-b244-137f28195f00" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="2" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="3" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="4" type="IS Ammo LRM-20" shots="6"/>
+			</location>
+			<Game id="26"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 2nd Company|7||2 Bat 2nd Com Charlie Indirect Fire Lance|14||"/>
+		</entity>
+
+		<entity chassis="Warrior Attack Helicopter" model="H-7" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="b1bf3a5f-9770-40e4-a4cf-4d125a42ea63" quirks="vtol_rotor_coaxial">
+			<pilot size="2" name="Lt. Edith Morse" nick="" gender="FEMALE" clanperson="false" gunnery="2" piloting="4" artillery="4" externalId="637f2f8e-5a38-4da1-b1f8-da24032f6c56" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="2" type="IS Ammo AC/2" shots="45"/>
+			</location>
+			<Game id="29"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 3rd Company|9||2 Bat 3rd Com Bravo Airbourne Scout Lance|10||"/>
+		</entity>
+
+		<entity chassis="Warrior Attack Helicopter" model="H-7" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="aee5d21f-8a1d-4a4e-9e68-9f13f300bd07" quirks="vtol_rotor_coaxial">
+			<pilot size="2" name="Cp. Kalif Ekundayo" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" artillery="4" externalId="7564bad7-a673-4c71-a1e2-0cb8e94a9bb0" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="2" type="IS Ammo AC/2" shots="45"/>
+			</location>
+			<Game id="30"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 3rd Company|9||2 Bat 3rd Com Bravo Airbourne Scout Lance|10||"/>
+		</entity>
+
+		<entity chassis="Drillson Heavy Hover Tank" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="6b2a4cbe-0d1f-4f92-8093-08789e485cdb">
+			<pilot size="4" name="Captain Cho-mi Chen" nick="" gender="FEMALE" clanperson="false" gunnery="2" piloting="4" artillery="4" externalId="84fab821-2d72-48a0-b42f-1f4811b361a2" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2" shots="50"/>
+				<slot index="2" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="3" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="31"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 3rd Company|9||2 Bat 3rd Com Alpha Striker Lance|12||"/>
+		</entity>
+
+		<entity chassis="Drillson Heavy Hover Tank" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="655349aa-6a4c-4677-bc96-023f6574cb40">
+			<pilot size="4" name="Lt. Duvessa Fenton" nick="" gender="FEMALE" clanperson="false" gunnery="2" piloting="3" artillery="4" externalId="efcf9a9d-4b1e-468e-a23a-f8d5a5ca5bf3" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2" shots="50"/>
+				<slot index="2" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="3" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="32"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 3rd Company|9||2 Bat 3rd Com Alpha Striker Lance|12||"/>
+		</entity>
+
+		<entity chassis="Pegasus Scout Hover Tank" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="f7bcd8d3-dedd-42a4-adfb-6c8765542b26">
+			<pilot size="3" name="Lt. Aurelien Boytiguel" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="5" artillery="4" externalId="df16708e-c777-43e6-9604-a3c1f4876144" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="33"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 3rd Company|9||2 Bat 3rd Com Charlie Transport Lance|15||"/>
+		</entity>
+
+		<entity chassis="Pegasus Scout Hover Tank" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="3af07d98-6890-43b0-8efc-3a36974886a5">
+			<pilot size="3" name="Cp. Abdul-Muta'al Yoonus" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="5" artillery="4" externalId="b3f0202c-8dfa-4de0-af93-cdbdf1dcb46a" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="34"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 3rd Company|9||2 Bat 3rd Com Charlie Transport Lance|15||"/>
+		</entity>
+
+		<entity chassis="Maxim Heavy Hover Transport" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="f23ae5f9-849f-4294-b562-6317d7894d70">
+			<pilot size="4" name="Cp. Kanika Kulasekaran" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="b4a60f9b-c600-4f2b-a18d-a13b52a944b3" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+				<slot index="2" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="3" type="IS Ammo SRM-2" shots="50"/>
+				<slot index="4" type="IS Ammo LRM-5" shots="24"/>
+			</location>
+			<Game id="35"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 3rd Company|9||2 Bat 3rd Com Charlie Transport Lance|15||"/>
+		</entity>
+
+		<entity chassis="Maxim Heavy Hover Transport" model="" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="41fbf7a7-dbec-444a-9990-227a7edde7cd">
+			<pilot size="4" name="Cp. Doug Helebrant" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="4" artillery="4" externalId="2be4cceb-01c6-445f-b694-206f61eb4d6d" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+				<slot index="2" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="3" type="IS Ammo SRM-2" shots="50"/>
+				<slot index="4" type="IS Ammo LRM-5" shots="24"/>
+			</location>
+			<Game id="36"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 3rd Company|9||2 Bat 3rd Com Charlie Transport Lance|15||"/>
+		</entity>
+
+		<entity chassis="Overlord" model="(2775) (Combined Arms)" type="Spheroid" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="a646e807-05b7-430a-a8c5-b029bb21a500">
+			<pilot size="5" name="Captain Mu'mina bin Alim" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="3" artillery="4" externalId="25fccd77-b5e5-4eb0-8fd5-ac7dc2b97aba" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="9180"/>
+			<structural integrity="18"/>
+			<heat sinks="120"/>
+			<transportBay index="1">
+				<damage>0.0</damage>
+				<doors>4</doors>
+			</transportBay>
+			<transportBay index="2">
+				<damage>0.0</damage>
+				<doors>2</doors>
+			</transportBay>
+			<transportBay index="3">
+				<damage>0.0</damage>
+				<doors>0</doors>
+			</transportBay>
+			<transportBay index="0">
+				<damage>0.0</damage>
+				<doors>0</doors>
+			</transportBay>
+			<transportBay index="0">
+				<damage>0.0</damage>
+				<doors>0</doors>
+			</transportBay>
+			<transportBay index="0">
+				<damage>0.0</damage>
+				<doors>0</doors>
+			</transportBay>
+			<transportBay index="7">
+				<damage>0.0</damage>
+				<doors>2</doors>
+			</transportBay>
+      The first slot in a location is at index="1".
+			<location index="0"> Nose
+				<slot index="9" type="IS Ammo AC/20" shots="30" weaponsBayIndex="5"/>
+				<slot index="10" type="IS Ammo AC/5" shots="40" weaponsBayIndex="5"/>
+			</location>
+			<location index="1"> Left Side
+				<slot index="5" type="IS Ammo AC/5" shots="40" weaponsBayIndex="4"/>
+				<slot index="8" type="IS Ammo LRM-20" shots="30" weaponsBayIndex="7"/>
+			</location>
+			<location index="2"> Right Side
+				<slot index="5" type="IS Ammo AC/5" shots="40" weaponsBayIndex="4"/>
+				<slot index="8" type="IS Ammo LRM-20" shots="30" weaponsBayIndex="7"/>
+			</location>
+			<location index="3"> Aft
+				<slot index="4" type="IS Ammo AC/5" shots="80" weaponsBayIndex="2"/>
+				<slot index="7" type="IS Ammo LRM-20" shots="36" weaponsBayIndex="6"/>
+			</location>
+			<Game id="39"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 5th AeroSpace|17||2 Bat DropShip|16||"/>
+		</entity>
+
+		<entity chassis="Seeker" model="(2815)" type="Spheroid" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="876919bb-7a1b-4619-a642-0d4765337bca">
+			<pilot size="4" name="Captain Lupe Anadare" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="4" artillery="4" externalId="8223797e-6960-473a-b685-fd8fa61d7069" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="6450"/>
+			<structural integrity="10"/>
+			<heat sinks="101"/>
+			<transportBay index="1">
+				<damage>0.0</damage>
+				<doors>1</doors>
+			</transportBay>
+			<transportBay index="2">
+				<damage>0.0</damage>
+				<doors>1</doors>
+			</transportBay>
+			<transportBay index="3">
+				<damage>0.0</damage>
+				<doors>1</doors>
+			</transportBay>
+			<transportBay index="0">
+				<damage>0.0</damage>
+				<doors>0</doors>
+			</transportBay>
+			<transportBay index="0">
+				<damage>0.0</damage>
+				<doors>0</doors>
+			</transportBay>
+			<transportBay index="0">
+				<damage>0.0</damage>
+				<doors>0</doors>
+			</transportBay>
+      The first slot in a location is at index="1".
+			<location index="1"> Left Side
+				<slot index="5" type="IS Ammo LRM-10" shots="12" weaponsBayIndex="4"/>
+			</location>
+			<location index="2"> Right Side
+				<slot index="5" type="IS Ammo LRM-10" shots="12" weaponsBayIndex="4"/>
+			</location>
+			<Game id="40"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 5th AeroSpace|17||2 Bat DropShip|16||"/>
+		</entity>
+
+		<entity chassis="Chippewa" model="CHP-W5" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="3431bd22-f95c-4ae1-999c-7b54ac57d03d">
+			<pilot size="1" name="Captain Shizuo Matsui" nick="" gender="FEMALE" clanperson="false" gunnery="2" piloting="3" artillery="4" externalId="57a6d293-68bc-4c96-b1fb-3fdc92d7362c" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="400"/>
+			<bombs>
+				<bomb type="HEBomb" load="10" Internal="false"/>
+				<bomb type="ClusterBomb" load="8" Internal="false"/>
+			</bombs>
+			<structural integrity="9"/>
+			<heat sinks="25"/>
+      The first slot in a location is at index="1".
+			<location index="5"> Fuselage
+				<slot index="1" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="2" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="3" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="4" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="5" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="41"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 5th AeroSpace|17||2 Bat 1st Striker Squadron|18||"/>
+		</entity>
+
+		<entity chassis="Chippewa" model="CHP-W5" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="c8d80ed6-0055-4a56-9cf4-72ab5779d700">
+			<pilot size="1" name="Sg. Mesrak Mahmud" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="3" artillery="4" externalId="3fb1f65e-6366-435b-8272-15446fd83342" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="400"/>
+			<bombs>
+				<bomb type="HEBomb" load="10" Internal="false"/>
+				<bomb type="ClusterBomb" load="8" Internal="false"/>
+			</bombs>
+			<structural integrity="9"/>
+			<heat sinks="25"/>
+      The first slot in a location is at index="1".
+			<location index="5"> Fuselage
+				<slot index="1" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="2" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="3" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="4" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="5" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="42"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 5th AeroSpace|17||2 Bat 1st Striker Squadron|18||"/>
+		</entity>
+
+		<entity chassis="Lightning" model="LTN-G15" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="ac83e9bc-0911-4c0d-8133-132c465c0274">
+			<pilot size="1" name="Lt. Calixta Canetti" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="3" artillery="4" externalId="a42b811f-035d-43cc-97e4-dac0416a77da" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="400"/>
+			<bombs>
+				<bomb type="HEBomb" load="5" Internal="false"/>
+				<bomb type="ClusterBomb" load="5" Internal="false"/>
+			</bombs>
+			<structural integrity="6"/>
+			<heat sinks="13"/>
+      The first slot in a location is at index="1".
+			<location index="5"> Fuselage
+				<slot index="1" type="IS Ammo AC/20" shots="5"/>
+				<slot index="2" type="IS Ammo AC/20" shots="5"/>
+			</location>
+			<Game id="43"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 5th AeroSpace|17||2 Bat 2nd Fire Support Squadron|19||"/>
+		</entity>
+
+		<entity chassis="Lightning" model="LTN-G15" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="6d6c5d17-a7d8-42ae-be9f-f4b83dd3710b">
+			<pilot size="1" name="Sg. Corina Ch'oe" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" artillery="4" externalId="fc9da865-d48b-403b-b601-f784f22a5725" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="400"/>
+			<bombs>
+				<bomb type="HEBomb" load="5" Internal="false"/>
+				<bomb type="ClusterBomb" load="5" Internal="false"/>
+			</bombs>
+			<structural integrity="6"/>
+			<heat sinks="13"/>
+      The first slot in a location is at index="1".
+			<location index="5"> Fuselage
+				<slot index="1" type="IS Ammo AC/20" shots="5"/>
+				<slot index="2" type="IS Ammo AC/20" shots="5"/>
+			</location>
+			<Game id="44"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 5th AeroSpace|17||2 Bat 2nd Fire Support Squadron|19||"/>
+		</entity>
+
+		<entity chassis="Thrush" model="TR-7" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="ad114662-0c5b-4de5-b0db-d8392acbcd75">
+			<pilot size="1" name="Lt, Efrosiniya Idell" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" artillery="4" externalId="8cfe31dc-abd6-4fc2-8791-d12a3d75738c" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="400"/>
+			<bombs>
+			</bombs>
+			<structural integrity="12"/>
+			<heat sinks="10"/>
+			<Game id="45"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 5th AeroSpace|17||2 Bat 3rd Interceptor Squadron|20||"/>
+		</entity>
+
+		<entity chassis="Thrush" model="TR-7" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="a3885209-e881-4966-b8dc-9bbef2addad2">
+			<pilot size="1" name="Sg. Ewan Kamau" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="4" artillery="4" externalId="48bdd789-c207-424f-9c34-8de548114c93" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="400"/>
+			<bombs>
+			</bombs>
+			<structural integrity="12"/>
+			<heat sinks="10"/>
+			<Game id="46"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 5th AeroSpace|17||2 Bat 3rd Interceptor Squadron|20||"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(Rifle)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="991a48bf-78d2-4a7d-a781-1f4d2c1be342">
+			<pilot size="1" name="Captain Cecília Pavlik" nick="" gender="FEMALE" clanperson="false" gunnery="2" piloting="8" artillery="4" externalId="df1ed523-e1db-4278-bb37-44da252e77de" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="47"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 4th Infantry Company|21||"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(SRM)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="8df8f129-9b50-46e6-bab7-6135ce299fa9">
+			<pilot size="1" name="Lt. Katon Tru" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="8" artillery="4" externalId="f1b45597-f80b-4e14-bb16-5b5fdac932fd" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="48"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 4th Infantry Company|21||"/>
+		</entity>
+
+		<entity chassis="Mechanized Wheeled Platoon" model="(MG)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="1ad173be-c261-445f-8d8e-f50cea2744ab">
+			<pilot size="1" name="Lt. Larochka Arabov" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="8" artillery="4" externalId="6fca37f1-f733-4bfb-bc4e-83e08e1b1e06" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="49"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 4th Infantry Company|21||"/>
+		</entity>
+
+		<entity chassis="Mobile Headquarters" model="(ICE)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="6cbbfe60-db35-43a4-ae30-2fd5b16b29f4">
+			<pilot size="2" name="Cp. Ceasario Bercovici" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="6" artillery="4" externalId="b198d199-7598-4d3b-b983-2d5707bfe237" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="50"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 6th Support Company|22||2 Bat Support Compant HQ Lance|23||"/>
+		</entity>
+
+		<entity chassis="Coolant Truck" model="135-K" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="70bd45a9-c08e-408e-8cfc-e95a9f80c43d">
+			<pilot size="2" name="Cp. Marek Rysanek" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="6" artillery="4" externalId="2caac069-0012-445c-91eb-1615b9134114" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Vehicle Flamer Ammo" shots="20"/>
+				<slot index="2" type="IS Vehicle Flamer Ammo" shots="20"/>
+			</location>
+			<Game id="51"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 6th Support Company|22||2 Bat Support Compant HQ Lance|23||"/>
+		</entity>
+
+		<entity chassis="J-27 Ordnance Transport" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="7c44cb1f-b74e-492e-ad89-f0ac1a7bdedf">
+			<pilot size="1" name="Cp. Yaqub Daulatzai" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="6ba536ed-8f32-4267-93f8-3fd4aa80a2f6" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="53"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 6th Support Company|22||2 Bat Support Compant HQ Lance|23||"/>
+		</entity>
+
+		<entity chassis="J-27 Ordnance Transport" model="(Trailer)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="c7f6528e-f5d9-45b9-aad6-760934ed3c77">
+			<pilot size="1" name="Cp. Jan Batte" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="52d20d7a-97e1-4656-8502-fe7d956b2f7b" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="54"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 6th Support Company|22||2 Bat Support Compant HQ Lance|23||"/>
+		</entity>
+
+		<entity chassis="MASH Truck" model="(ICE)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="f903bc4d-58d7-43b1-9e2d-42c4c202e91d">
+			<pilot size="2" name="Cp. Wlodz Sabo" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="5" artillery="4" externalId="e9b04a12-52b3-47a9-bfaa-70be6862c9b0" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="55"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 6th Support Company|22||2 Bat Support Compant HQ Lance|23||"/>
+		</entity>
+
+		<entity chassis="Mobile Long Tom Artillery" model="LT-MOB-25" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a6d76e36-c1cf-4eb4-b7bb-d1a850dc0b25">
+			<pilot size="5" name="Captain Ezio Zuccarello" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="4" artillery="4" externalId="ad1ec170-14bf-43c8-ba7d-c345a70e1015" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="2" type="ISLongTomAmmo" shots="5"/>
+				<slot index="3" type="ISLongTomAmmo" shots="5"/>
+				<slot index="4" type="ISLongTomAmmo" shots="5"/>
+				<slot index="5" type="ISLongTomAmmo" shots="5"/>
+			</location>
+			<Game id="56"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 2nd Company|7||2 Bat 2nd Com Artillery Lance|5||"/>
+		</entity>
+
+		<entity chassis="Mobile Long Tom Artillery" model="LT-MOB-25 (Ammunition Carriage)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="31522303-e51b-4b19-bcbb-b65f97b39ca7">
+			<pilot size="1" name="Cp. Muldoom Hood" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="6" artillery="4" externalId="99d52e90-2bf3-4865-974d-4875dc601b22" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="ISLongTomAmmo" shots="5"/>
+				<slot index="2" type="ISLongTomAmmo" shots="5"/>
+				<slot index="3" type="ISLongTomAmmo" shots="5"/>
+				<slot index="4" type="ISLongTomAmmo" shots="5"/>
+				<slot index="5" type="ISLongTomAmmo" shots="5"/>
+			</location>
+			<Game id="57"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 2nd Company|7||2 Bat 2nd Com Artillery Lance|5||"/>
+		</entity>
+
+		<entity chassis="Flatbed Truck" model="" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="d5a0a6fe-5755-4bb1-a919-06fb38cff59b">
+			<pilot size="1" name="Cp. Harrison Alamdar" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="6" artillery="4" externalId="16222c15-a717-4ee3-89e7-6497968f13ff" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="59"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 6th Support Company|22||2 Bat Support Compant Transport Lance Alpha|24||"/>
+		</entity>
+
+		<entity chassis="Flatbed Truck" model="" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="edab83e2-28f0-4ddd-ada9-5e1ecf45c107">
+			<pilot size="1" name="Cp. Eli Orszajg" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="6" artillery="4" externalId="14e3d316-29a8-48b4-af46-bd072039231a" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="60"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 6th Support Company|22||2 Bat Support Compant Transport Lance Alpha|24||"/>
+		</entity>
+
+		<entity chassis="Flatbed Truck" model="" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="97e82bbb-0da1-4a6d-a35a-e29b05a57fce">
+			<pilot size="1" name="Cp. Natália Zimin" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="63ca65f9-1597-4c7c-8447-1831b695156c" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="61"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 6th Support Company|22||2 Bat Support Compant Transport Lance Alpha|24||"/>
+		</entity>
+
+		<entity chassis="Flatbed Truck" model="" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="526981f3-ae3d-4ce3-b4bb-60561b1df9bb">
+			<pilot size="1" name="Cp. Alex Weidner" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="4" artillery="4" externalId="2c84d70c-86e8-4d83-850a-911becc96e29" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="62"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 6th Support Company|22||2 Bat Support Compant Transport Lance Alpha|24||"/>
+		</entity>
+
+		<entity chassis="Flatbed Truck" model="" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="528adb8a-a5c7-4db3-8210-17026978bdfe">
+			<pilot size="1" name="Cp. Chandrakin Chhachhi" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="ae7bf05c-b786-43b7-949d-c39860c46810" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="63"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 6th Support Company|22||2 Bat Support Compant Transport Lance Bravo|25||"/>
+		</entity>
+
+		<entity chassis="Flatbed Truck" model="" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="299fa413-2c9d-4e95-bc73-22ec2b25999b">
+			<pilot size="1" name="Cp. Charles Mandrapilias" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="4" artillery="4" externalId="19e0e0ef-1ac2-47bc-8028-2ba42b655816" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="64"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 6th Support Company|22||2 Bat Support Compant Transport Lance Bravo|25||"/>
+		</entity>
+
+		<entity chassis="Flatbed Truck" model="" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="6855d094-67df-4044-b2e9-74041841b025">
+			<pilot size="1" name="Cp. Hafizi Nnano" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="5" artillery="4" externalId="13cdf6c9-a2b0-494b-b847-6c0ebce78bb1" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="65"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 6th Support Company|22||2 Bat Support Compant Transport Lance Bravo|25||"/>
+		</entity>
+
+		<entity chassis="Flatbed Truck" model="" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="90167f4f-b98e-4e54-9344-f8c6f719079f">
+			<pilot size="1" name="Cp. Markonah Chandio" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="4" artillery="4" externalId="cf7832a3-01c8-47b7-8d5f-087ceabdc91c" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="66"/>
+			<Force force="McCarrons Armored Cavalry, 5th Regiment|0||2 Bat 6th Support Company|22||2 Bat Support Compant Transport Lance Bravo|25||"/>
+		</entity>
+
+</unit>

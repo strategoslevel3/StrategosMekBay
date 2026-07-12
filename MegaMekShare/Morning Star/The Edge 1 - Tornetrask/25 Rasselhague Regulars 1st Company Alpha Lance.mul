@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.49.14" >
+
+		<entity chassis="Crusader" model="CRD-3K" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="902d2084-bad7-4763-a99d-7188b88cbd17">
+			<pilot size="1" name="Chu-i Riya Mokate" nick="" gender="FEMALE" gunnery="4" piloting="6" externalId="e8ef3c55-4358-480d-85e7-6a78f04e0cbc" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<location index="2"> Right Torso
+				<slot index="4" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="4" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="1"/>
+		</entity>
+
+		<entity chassis="Catapult" model="CPLT-K2" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="1446cdd8-9eea-417d-9c4b-577d0c3f6a0d">
+			<pilot size="1" name="Omitsu Hofmeihr" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="343779e1-d858-40db-9562-f095c5ddda79" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="12" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="2"/>
+		</entity>
+
+		<entity chassis="Dragon" model="DRG-1N" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="2441e046-570f-4748-829e-b812b07aa5fe">
+			<pilot size="1" name="Tecla Noda" nick="" gender="FEMALE" gunnery="6" piloting="7" externalId="6a6420c2-e229-43cb-94c3-5e8f91dceb02" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="1" type="IS Ammo AC/5" shots="20"/>
+				<slot index="2" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="2" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="3" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="3"/>
+		</entity>
+
+		<entity chassis="Thunderbolt" model="TDR-5S" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="1ebfb6bf-952c-4c28-8810-9cbc04a99b4d">
+			<pilot size="1" name="Musfira Jumah" nick="" gender="FEMALE" gunnery="4" piloting="5" externalId="561866ce-c561-41ed-b2be-ac378074468c" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="12" type="IS Ammo LRM-15" shots="8"/>
+			</location>
+			<location index="2"> Right Torso
+				<slot index="5" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="7" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="4"/>
+		</entity>
+
+</unit>

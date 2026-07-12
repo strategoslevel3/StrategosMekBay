@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.02" >
+
+		<entity chassis="Civillians" model="(Unarmed)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="8c5129a9-b10e-4ba2-a294-9b3211358a4f">
+			<pilot size="1" name="Ruby" nick="" gender="FEMALE" clanperson="true" gunnery="7" piloting="8" artillery="4" externalId="4f0acfe4-65ce-4c3f-a105-88eb3a5ecf2e" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="35"/>
+		</entity>
+
+		<entity chassis="Civillians" model="(Unarmed)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="721aeaaa-7dbc-4419-89d9-dae9c9ee6b16">
+			<pilot size="1" name="Kim" nick="" gender="FEMALE" clanperson="true" gunnery="7" piloting="8" artillery="4" externalId="342a75a2-55f3-4614-ad8d-76f4c545343b" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="36"/>
+		</entity>
+
+		<entity chassis="Civillians" model="(Unarmed)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="90f80a80-0c36-4584-b962-5eb8b61fee70">
+			<pilot size="1" name="Jorge" nick="" gender="MALE" clanperson="true" gunnery="7" piloting="8" artillery="4" externalId="695e38c0-dce2-4fc3-aced-dbf426cbbeda" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="37"/>
+		</entity>
+
+		<entity chassis="Civillians" model="(Unarmed)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="acb671a0-2326-4d26-b51e-7b3cf1c589dc">
+			<pilot size="1" name="Lucille" nick="" gender="FEMALE" clanperson="true" gunnery="7" piloting="8" artillery="4" externalId="8251c40e-1184-48ce-8453-69364873bd3c" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="38"/>
+		</entity>
+
+		<entity chassis="Civillians" model="(Unarmed)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="3d7c08fd-d2f4-48a5-a274-a56b12d5e779">
+			<pilot size="1" name="Michael" nick="" gender="MALE" clanperson="true" gunnery="7" piloting="8" artillery="4" externalId="34af2724-c234-4358-a263-e5deb8ab30c4" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="39"/>
+		</entity>
+
+		<entity chassis="Civillians" model="(Unarmed)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e8a4db25-2929-4f16-9183-7e1f0bfaa3ce">
+			<pilot size="1" name="Iher" nick="" gender="MALE" clanperson="true" gunnery="7" piloting="8" artillery="4" externalId="d00c17c0-b72f-4608-861e-6852d7ebf7a2" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="40"/>
+		</entity>
+
+		<entity chassis="Civillians" model="(Unarmed)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="3830b084-1a71-47ed-8caa-ecc30e722f30">
+			<pilot size="1" name="Jeff" nick="" gender="MALE" clanperson="true" gunnery="7" piloting="8" artillery="4" externalId="a305569c-9e8e-4bc2-9fa8-8cd457ff7b28" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="41"/>
+		</entity>
+
+		<entity chassis="Civillians" model="(Unarmed)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="bae93837-adba-4c17-8d86-858f82064a34">
+			<pilot size="1" name="Meiiri" nick="" gender="FEMALE" clanperson="true" gunnery="7" piloting="8" artillery="4" externalId="5ed98f4c-8d0b-4ed6-9149-2cb9f0a323ef" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="42"/>
+		</entity>
+
+		<entity chassis="Civillians" model="(Unarmed)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="c65aa44d-51f6-4745-83e1-e105ad9661a5">
+			<pilot size="1" name="Ed" nick="" gender="MALE" clanperson="true" gunnery="7" piloting="8" artillery="4" externalId="1fe37af9-67fe-4eb0-a776-0b95dc933863" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="43"/>
+		</entity>
+
+		<entity chassis="Civillians" model="(Unarmed)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="3f8bf14c-9a7d-48ad-bea5-90d91096d1ce">
+			<pilot size="1" name="Shirley" nick="" gender="FEMALE" clanperson="true" gunnery="7" piloting="8" artillery="4" externalId="fdbd79df-2b07-44c5-bfc8-355deaee5b59" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="44"/>
+		</entity>
+
+</unit>

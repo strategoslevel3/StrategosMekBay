@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.49.14" >
+
+		<entity chassis="Mechanized Wheeled Platoon" model="(Rifle + Support MG)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="13defd64-e02d-436e-9199-639a55e6d136">
+			<pilot size="1" name="Elvinia Beavis" nick="" gender="FEMALE" gunnery="4" piloting="8" externalId="466909de-04f4-42ea-8d5e-cc7dc6f4f514" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="55"/>
+		</entity>
+
+		<entity chassis="Mechanized Wheeled Platoon" model="(Rifle + Support MG)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" externalId="51be1ea6-67c5-40c6-9264-be433a20de8f">
+			<pilot size="1" name="Sirpa Janecky" nick="" gender="FEMALE" gunnery="4" piloting="8" externalId="7a19462b-f32e-4261-8346-8b3ecc3d36ae" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="56"/>
+		</entity>
+
+</unit>

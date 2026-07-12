@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.49.15" >
+
+		<entity chassis="Lightning" model="LTN-G15" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" velocity="0" altitude="5" externalId="c83561d0-7cde-4b7a-b8d2-3c1beb7152e5">
+			<pilot size="1" name="Asad Sanjrani" nick="" gender="MALE" gunnery="4" piloting="5" externalId="08356890-b7f9-417e-81c8-bad221f3d531" ejected="false"/>
+			<fuel left="400"/>
+			<bombs>
+				<bomb type="HEBomb" load="10"/>
+			</bombs>
+			<structural integrity="6"/>
+			<heat sinks="13"/>
+      The first slot in a location is at index="1".
+			<location index="5"> Fuselage
+				<slot index="1" type="IS Ammo AC/20" shots="5"/>
+				<slot index="2" type="IS Ammo AC/20" shots="5"/>
+			</location>
+			<Game id="1"/>
+		</entity>
+
+		<entity chassis="Lightning" model="LTN-G15" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" neverDeployed="true" velocity="0" altitude="5" externalId="a0e15283-43ea-4c27-9875-89c8a338090d">
+			<pilot size="1" name="Muhjar bin Usamah" nick="" gender="FEMALE" gunnery="4" piloting="4" externalId="503111d8-082e-44a3-b596-ef02d6c238f8" ejected="false"/>
+			<fuel left="400"/>
+			<bombs>
+				<bomb type="HEBomb" load="10"/>
+			</bombs>
+			<structural integrity="6"/>
+			<heat sinks="13"/>
+      The first slot in a location is at index="1".
+			<location index="5"> Fuselage
+				<slot index="1" type="IS Ammo AC/20" shots="5"/>
+				<slot index="2" type="IS Ammo AC/20" shots="5"/>
+			</location>
+			<Game id="2"/>
+		</entity>
+
+</unit>

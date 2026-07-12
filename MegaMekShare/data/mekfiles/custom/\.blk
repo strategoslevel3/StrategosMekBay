@@ -1,0 +1,73 @@
+#Saved from version 0.49.19.1 on 2024-06-06
+<UnitType>
+Infantry
+</UnitType>
+
+<Name>
+Intel Team
+</Name>
+
+<Model>
+Infantry
+</Model>
+
+<year>
+3067
+</year>
+
+<originalBuildYear>
+3067
+</originalBuildYear>
+
+<type>
+IS Level 4
+</type>
+
+<role>
+Sniper
+</role>
+
+<motion_type>
+Leg
+</motion_type>
+
+<Troopers Equipment>
+AntiMekGear
+Sneak Suit (Camo/IR/ECM)
+</Troopers Equipment>
+
+<Field Guns Equipment>
+</Field Guns Equipment>
+
+<squad_size>
+7
+</squad_size>
+
+<squadn>
+1
+</squadn>
+
+<secondn>
+2
+</secondn>
+
+<Primary>
+InfantryAssaultRifle
+</Primary>
+
+<Secondary>
+Sniper Rifle (LRS-53 Sniper Rifle)
+</Secondary>
+
+<sneakcamo>
+true
+</sneakcamo>
+
+<sneakir>
+true
+</sneakir>
+
+<sneakecm>
+true
+</sneakecm>
+

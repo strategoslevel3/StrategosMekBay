@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.02" >
+
+		<entity chassis="Shadow Hawk IIC" model="8" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="60214ada-9129-4ecd-90a5-c2bfe94c0162" camoCategory="Clans/Sea Fox (Dark Age)/" camoFileName="Tiburon Khanate.jpg" camoRotation="0" camoScale="10">
+			<pilot size="1" name="Hassim" nick="" gender="FEMALE" clanperson="true" gunnery="4" piloting="5" portraitCat="Male/MekWarrior/" portraitFile="MW_M_103.png" externalId="1a1d5829-2097-4ae6-8507-70a62faa929b" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="10" type="Clan Ammo LRM-10" shots="12"/>
+				<slot index="11" type="Clan Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="8"/>
+		</entity>
+
+</unit>

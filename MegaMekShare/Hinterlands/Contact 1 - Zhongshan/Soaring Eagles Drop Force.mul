@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.02" >
+
+		<entity chassis="Leopard" model="(3056)" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="15d0753a-9aeb-4e77-8115-d43e9aaa4629">
+			<pilot size="4" name="Monica Bartolani" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="6" artillery="4" externalId="1544ce86-8758-40d2-a0bf-3504f50b0b54" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="4000"/>
+			<structural integrity="7"/>
+			<heat sinks="70"/>
+			<transportBay index="1">
+				<damage>0.0</damage>
+				<doors>4</doors>
+				<loaded>12</loaded>
+				<loaded>13</loaded>
+				<loaded>14</loaded>
+				<loaded>15</loaded>
+			</transportBay>
+			<transportBay index="2">
+				<damage>0.0</damage>
+				<doors>2</doors>
+			</transportBay>
+			<transportBay index="3">
+				<damage>0.0</damage>
+				<doors>0</doors>
+			</transportBay>
+			<transportBay index="0">
+				<damage>0.0</damage>
+				<doors>0</doors>
+			</transportBay>
+			<transportBay index="0">
+				<damage>0.0</damage>
+				<doors>0</doors>
+			</transportBay>
+			<transportBay index="0">
+				<damage>0.0</damage>
+				<doors>0</doors>
+			</transportBay>
+      The first slot in a location is at index="1".
+			<location index="0"> Nose
+				<slot index="6" type="IS Ammo LRM-20 Artemis-capable" shots="12" weaponsBayIndex="5"/>
+			</location>
+			<location index="1"> Left Side
+				<slot index="3" type="IS Ammo LRM-20 Artemis-capable" shots="12" weaponsBayIndex="2"/>
+			</location>
+			<location index="2"> Right Side
+				<slot index="3" type="IS Ammo LRM-20 Artemis-capable" shots="12" weaponsBayIndex="2"/>
+			</location>
+			<Game id="16"/>
+		</entity>
+
+		<entity chassis="Shadow Hawk" model="SHD-7M" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="84fea1cb-ca79-4d84-9c15-40f9c5126ede" quirks="battle_fists_la::battle_fists_ra::imp_life_support::rugged_1::ubiquitous_is::ubiquitous_clan">
+			<pilot size="1" name="Lt. Lisa MacCathaty" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" artillery="4" externalId="aad755e8-5d10-4fde-baf5-7dc793043741" initB="2" commandB="3" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="12" type="IS Streak SRM 2 Ammo" shots="50"/>
+			</location>
+			<location index="2"> Right Torso
+				<slot index="9" type="IS Ammo LRM-15" shots="8"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="11" type="IS Light Gauss Ammo" shots="16"/>
+			</location>
+			<Conveyance id="16"/>
+			<Game id="12"/>
+		</entity>
+
+		<entity chassis="Rook" model="NH-2" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a3f0c96e-82de-45ad-b564-650eff9fc801" quirks="rugged_1">
+			<pilot size="1" name="Muhammed Firdausi" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="512f3c45-ef7c-4e79-80ba-8a9a63a0cae4" initB="1" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+			<Conveyance id="16"/>
+			<Game id="13"/>
+		</entity>
+
+		<entity chassis="Wight" model="WGT-3SC" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="6bf9ab66-25ec-454b-bae7-cad71458a1fe" quirks="exp_actuator::weak_legs">
+			<pilot size="1" name="Sybil Meidani" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="6f824570-7d6c-485e-9478-f295d2cdda64" initB="1" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="6" type="ISPlasmaRifleAmmo" shots="10"/>
+				<slot index="7" type="ISPlasmaRifleAmmo" shots="10"/>
+				<slot index="8" type="ISPlasmaRifleAmmo" shots="10"/>
+			</location>
+			<Conveyance id="16"/>
+			<Game id="14"/>
+		</entity>
+
+		<entity chassis="Firestarter" model="FS9-M3" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="4cd00016-92f6-4e90-bf4a-d64ea7b17737">
+			<pilot size="1" name="Kyle Poskitt" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="8a339f49-8315-414e-88ff-f42cae3cfa1c" initB="2" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="4"> Right Arm
+				<slot index="7" type="Flamer" quirks="exposed_linkage" isDestroyed="false"/>
+				<slot index="8" type="Flamer" quirks="exposed_linkage" isDestroyed="false"/>
+				<slot index="9" type="Flamer" quirks="exposed_linkage" isDestroyed="false"/>
+			</location>
+			<Conveyance id="16"/>
+			<Game id="15"/>
+		</entity>
+
+</unit>

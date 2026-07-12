@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.51.00" >
+
+		<entity chassis="Bluehawk Combat Support Fighter" model="MSF-42" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="62923664-86a0-4827-abae-f65c8b46052b">
+			<pilot size="1" name="Reomel Karaganilla" nick="Camel" gender="MALE" clanperson="false" gunnery="4" piloting="4" externalId="9a63cfd3-c481-44fe-bd73-d67ff4cfb214" ejected="false"/>
+			<fuel left="480"/>
+			<structural integrity="5"/>
+			<heat sinks="0"/>
+      The first slot in a location is at index="1".
+			<location index="5"> Fuselage
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="2" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="3" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="1"/>
+		</entity>
+
+		<entity chassis="Bluehawk Combat Support Fighter" model="MSF-42" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="14c897d7-b8a0-48c9-9cc2-715b003d35dd">
+			<pilot size="1" name="Assana Ulderink" nick="Charity Case" gender="FEMALE" clanperson="false" gunnery="4" piloting="6" externalId="2645b2d7-8562-4894-9931-7f43a71dca8c" ejected="false"/>
+			<fuel left="480"/>
+			<structural integrity="5"/>
+			<heat sinks="0"/>
+      The first slot in a location is at index="1".
+			<location index="5"> Fuselage
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="2" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="3" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="2"/>
+		</entity>
+
+		<entity chassis="Bluehawk Combat Support Fighter" model="MSF-42" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="bd8b0389-bcff-4a43-a317-0dc11ba94d23">
+			<pilot size="1" name="Jovan Raskovic" nick="Armbar" gender="MALE" clanperson="false" gunnery="3" piloting="6" externalId="835fc3ee-a069-49e8-be34-815766d59aee" ejected="false"/>
+			<fuel left="480"/>
+			<structural integrity="5"/>
+			<heat sinks="0"/>
+      The first slot in a location is at index="1".
+			<location index="5"> Fuselage
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="2" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="3" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="3"/>
+		</entity>
+
+		<entity chassis="Bluehawk Combat Support Fighter" model="MSF-42" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="d0ffefbb-f90b-44dc-ba13-8e7e6181aaab">
+			<pilot size="1" name="Angela Galván" nick="Steadfast" gender="FEMALE" clanperson="false" gunnery="4" piloting="6" externalId="cbd744fa-ed7d-4fd3-92a1-2d626053984e" ejected="false"/>
+			<fuel left="480"/>
+			<structural integrity="5"/>
+			<heat sinks="0"/>
+      The first slot in a location is at index="1".
+			<location index="5"> Fuselage
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="2" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="3" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="4"/>
+		</entity>
+
+		<entity chassis="Bluehawk Combat Support Fighter" model="MSF-42" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="79eaa0fc-0495-4d23-bf50-72343c2db1bc">
+			<pilot size="1" name="Donovan Saibal" nick="Geode" gender="MALE" clanperson="false" gunnery="4" piloting="4" externalId="3177d78c-0bd0-44c8-bf6b-20ee153853c9" ejected="false"/>
+			<fuel left="480"/>
+			<structural integrity="5"/>
+			<heat sinks="0"/>
+      The first slot in a location is at index="1".
+			<location index="5"> Fuselage
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="2" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="3" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="5"/>
+		</entity>
+
+		<entity chassis="Bluehawk Combat Support Fighter" model="MSF-42" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="2edc66f5-2d0e-4ba7-9d4c-f3dc5e8715b7">
+			<pilot size="1" name="Lori Taji" nick="Generic" gender="FEMALE" clanperson="false" gunnery="4" piloting="6" externalId="8fc38d4f-6300-4a3f-a8e0-f978f7ea359b" ejected="false"/>
+			<fuel left="480"/>
+			<structural integrity="5"/>
+			<heat sinks="0"/>
+      The first slot in a location is at index="1".
+			<location index="5"> Fuselage
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="2" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="3" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="6"/>
+		</entity>
+
+</unit>

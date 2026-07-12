@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.02" >
+
+		<entity chassis="Civillians" model="(Unarmed)" type="Leg" commander="false" offboard="false" hidden="true" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="f8225176-7693-4a41-8ddc-3eeebaa36d12" camoCategory="Lyran Commonwealth/Alliance Jaegers/" camoFileName="1st Coventry Jaegers.jpg" camoRotation="0" camoScale="10">
+			<pilot size="1" name="Oliver" nick="" gender="MALE" clanperson="true" gunnery="3" piloting="8" artillery="4" externalId="be584dbc-db8e-4a30-86f1-a716868bd53f" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="37"/>
+		</entity>
+
+		<entity chassis="Civillians" model="(Unarmed)" type="Leg" commander="false" offboard="false" hidden="true" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="b011d82b-b5ce-4f16-b720-e3b0e95da93e" camoCategory="Lyran Commonwealth/Alliance Jaegers/" camoFileName="1st Coventry Jaegers.jpg" camoRotation="0" camoScale="10">
+			<pilot size="1" name="Shemika" nick="" gender="FEMALE" clanperson="true" gunnery="3" piloting="8" artillery="4" externalId="846e5c8c-026f-45e0-8096-978de1f741d9" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="38"/>
+		</entity>
+
+		<entity chassis="Civillians" model="(Unarmed)" type="Leg" commander="false" offboard="false" hidden="true" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="9aade85f-957a-4b1a-a958-a060fce55ecc">
+			<pilot size="1" name="Erin" nick="" gender="MALE" clanperson="true" gunnery="4" piloting="8" artillery="4" externalId="35e0db44-a2cd-476b-89ba-f23d19178c74" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="39"/>
+		</entity>
+
+		<entity chassis="Civillians" model="(Unarmed)" type="Leg" commander="false" offboard="false" hidden="true" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="2c0a362b-74d5-4567-9103-8c1839d12454">
+			<pilot size="1" name="Toan" nick="" gender="MALE" clanperson="true" gunnery="3" piloting="8" artillery="4" externalId="623a1159-f470-417f-b567-bcfbcc28b973" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="40"/>
+		</entity>
+
+		<entity chassis="Civillians" model="(Unarmed)" type="Leg" commander="false" offboard="false" hidden="true" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="f0cef332-c61c-462a-b843-89440778afe5" camoCategory="Lyran Commonwealth/Alliance Jaegers/" camoFileName="1st Coventry Jaegers.jpg" camoRotation="0" camoScale="10">
+			<pilot size="1" name="Andel" nick="" gender="MALE" clanperson="true" gunnery="3" piloting="8" artillery="4" externalId="5ed0fca6-3837-4ede-bbad-166968d5f203" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="43"/>
+		</entity>
+
+		<entity chassis="Civillians" model="(Unarmed)" type="Leg" commander="false" offboard="false" hidden="true" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="7564c997-9d8c-4e32-a9d5-b84d0006f743" camoCategory="Lyran Commonwealth/Alliance Jaegers/" camoFileName="1st Coventry Jaegers.jpg" camoRotation="0" camoScale="10">
+			<pilot size="1" name="Dennis" nick="" gender="MALE" clanperson="true" gunnery="4" piloting="8" artillery="4" externalId="1251dec7-349d-4598-b466-51a35f98d1ed" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="44"/>
+		</entity>
+
+		<entity chassis="Civillians" model="(Unarmed)" type="Leg" commander="false" offboard="false" hidden="true" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="439166bd-7654-4467-b6d8-c36ab4db6061">
+			<pilot size="1" name="Jacqueleen" nick="" gender="FEMALE" clanperson="true" gunnery="4" piloting="8" artillery="4" externalId="0e1c9912-cc47-496d-be5b-f3738ea11f77" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="45"/>
+		</entity>
+
+		<entity chassis="Civillians" model="(Unarmed)" type="Leg" commander="false" offboard="false" hidden="true" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="c12485fd-bba4-43ac-89cd-6c541a4b5015">
+			<pilot size="1" name="Wilford" nick="" gender="MALE" clanperson="true" gunnery="4" piloting="8" artillery="4" externalId="aedcd1f9-2283-415a-afea-005b2bcc42d1" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="46"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="true" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="62a5d197-163b-4a56-ba2b-74901e4283ca" camoCategory="Lyran Commonwealth/Alliance Jaegers/" camoFileName="1st Coventry Jaegers.jpg" camoRotation="0" camoScale="10">
+			<pilot size="1" name="Fay Nichetti" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="4" artillery="4" externalId="686d5ca6-29e0-432a-9e24-9dae07ae1c28" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="47"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="true" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="393bd99b-da0a-42e2-9db5-ad9b3f36ef18">
+			<pilot size="1" name="Waseme Mtulivu" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="4726937b-8df7-4621-9f05-b4c69b54d9a0" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="48"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="true" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="b6ad4f45-73ff-4d51-8e37-af458266e3e3" camoCategory="Lyran Commonwealth/Alliance Jaegers/" camoFileName="1st Coventry Jaegers.jpg" camoRotation="0" camoScale="10">
+			<pilot size="1" name="Suk-Hee Chong" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="4" artillery="4" externalId="a08199dd-03a2-4115-90c0-d3c863745bae" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="50"/>
+		</entity>
+
+		<entity chassis="Armored Personnel Carrier" model="(Wheeled)" type="Wheeled" commander="false" offboard="false" hidden="true" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e1598042-66a3-40d0-a9ab-434b74f0d945">
+			<pilot size="1" name="Ben Dsirat" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" artillery="4" externalId="212b33bb-76a8-4c77-8bee-616187f3ed7e" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="51"/>
+		</entity>
+
+</unit>

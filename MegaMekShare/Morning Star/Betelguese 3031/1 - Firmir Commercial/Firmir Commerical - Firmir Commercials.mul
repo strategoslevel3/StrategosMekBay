@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.05" >
+
+<TotalGenericBattleValue>11744</TotalGenericBattleValue>
+
+		<entity chassis="Behemoth Heavy Tank" model="(Laser)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="8b138f3e-727f-41ff-bae4-a5e82f1959f7">
+			<pilot size="7" name="Deborah Sporis" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" externalId="96605fdf-df20-402e-ae3e-4fef92835530" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-5" shots="24"/>
+				<slot index="2" type="IS Ammo LRM-5" shots="24"/>
+			</location>
+			<Game id="1"/>
+		</entity>
+
+		<entity chassis="Behemoth Heavy Tank" model="(Medium Laser Carrier)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="7cb5eefb-0c62-434d-a97a-822619afdea5">
+			<pilot size="7" name="Kuniaki" nick="" gender="MALE" clanperson="true" gunnery="4" piloting="5" externalId="500c7d3d-c4f9-438a-b7d8-3302a0302b71" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="2"/>
+		</entity>
+
+		<entity chassis="Schrek" model="(Large Laser)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="0fd46a4f-9c05-4d39-ad73-85f2ed0a70ad">
+			<pilot size="6" name="Nadzia Eckstein" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="e2f1ca22-cfa1-4f30-9de0-a5530d9ebe5e" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="3"/>
+		</entity>
+
+		<entity chassis="Schrek" model="(Large Laser)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="daadc320-81f0-4a3a-9e86-e631a92eae69">
+			<pilot size="6" name="Khrisanf Magazanik" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="4d6b9e34-b96f-499d-8bf2-971c4b8e6a46" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="4"/>
+		</entity>
+
+		<entity chassis="Laser Carrier Prototype" model="(ER Large Laser)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="16253793-c163-4e09-9bae-6d94f47393a0">
+			<pilot size="4" name="Ji-Woo" nick="" gender="FEMALE" clanperson="true" gunnery="4" piloting="5" externalId="0fe4ed3e-af57-45a1-9226-39a01321f9c1" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="5"/>
+		</entity>
+
+		<entity chassis="Laser Carrier Prototype" model="(ER Large Laser)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="0cb02419-9a62-4788-ad78-4918c03d6c1b">
+			<pilot size="4" name="J.J." nick="" gender="MALE" clanperson="true" gunnery="4" piloting="5" externalId="d172ebdb-40f6-4727-81e1-76232fe693bf" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="6"/>
+		</entity>
+
+		<entity chassis="Laser Carrier" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="fed72454-2e25-4771-8758-7868f38af3b6">
+			<pilot size="4" name="Serena Shuang" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="6d70766a-77a2-43e4-88d1-de75f1d81d23" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="7"/>
+		</entity>
+
+		<entity chassis="Laser Carrier" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="40e7826d-8024-4f19-8fc4-20e430029e1a">
+			<pilot size="4" name="Siew-Hon Sicak" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="e710f1ac-b593-40de-a202-8ac6bbe74b43" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="8"/>
+		</entity>
+
+		<entity chassis="Scorpion Light Tank" model="(Small Laser Carrier)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="7fe3aea8-af45-4774-a112-8cf98bcdb9c7">
+			<pilot size="2" name="Li-Chen" nick="" gender="FEMALE" clanperson="true" gunnery="4" piloting="5" externalId="f63d3227-b606-43cf-9d19-313f4aa677dc" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="9"/>
+		</entity>
+
+		<entity chassis="Scorpion Light Tank" model="(Small Laser Carrier)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="46c8ec5f-4559-497a-ae1c-d490a5356358">
+			<pilot size="2" name="Hermila" nick="" gender="FEMALE" clanperson="true" gunnery="4" piloting="5" externalId="98701ef2-eafe-44d7-9e5f-665e81f98d37" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="10"/>
+		</entity>
+
+		<entity chassis="Scorpion Light Tank" model="(Laser)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="76f46ce4-e7d3-4aab-8457-71d6c5be7be1">
+			<pilot size="2" name="Lilah" nick="" gender="FEMALE" clanperson="true" gunnery="4" piloting="5" externalId="5c8cab90-668b-496e-b8e8-d418d07d4e4b" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="11"/>
+		</entity>
+
+		<entity chassis="Scorpion Light Tank" model="(Laser)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="477a5024-7eec-4cd6-b77c-0f0e5b7851bc">
+			<pilot size="2" name="Shawna" nick="" gender="FEMALE" clanperson="true" gunnery="4" piloting="5" externalId="e2568a42-f6e5-4d59-a808-d9aecde4833a" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="12"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(Laser)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="bc555436-005d-495a-9fe2-5b3eff4d8782">
+			<pilot size="1" name="Rong-fang Ow-Yang" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="8" externalId="8a61e976-1741-4f74-ab52-7c87ec315d16" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="13"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(Laser)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="91d74dcf-9eae-4f73-a39e-7db537197627">
+			<pilot size="1" name="Madalin Moldovan" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="8" externalId="2cb2a131-06d5-4fe5-9eef-23371950f132" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="14"/>
+		</entity>
+
+</unit>

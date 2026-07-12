@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.06" >
+
+		<entity chassis="Prairie Schooner Land Train" model="(Montigou)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="c96a6322-13e9-4918-a670-08bb6012dd55">
+			<pilot size="3" name="Annabel MacCurtin" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" artillery="4" externalId="23a116c1-8923-4bc6-b322-94f11cb067e3" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="3" type="IS Ammo AC/5" shots="20"/>
+				<slot index="4" type="IS Ammo AC/5" shots="20"/>
+				<slot index="5" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<Game id="15"/>
+		</entity>
+
+</unit>

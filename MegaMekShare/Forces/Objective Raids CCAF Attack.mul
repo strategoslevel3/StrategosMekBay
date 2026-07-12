@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.49.19" >
+
+		<entity chassis="Ti Ts'ang" model="TSG-9J" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="3da468cc-c45f-4f35-9ade-72d5033fc810">
+			<pilot size="1" name="Sao-shao Hsi-Ho Chai" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="981ca0c4-5b1d-4f68-9ec9-e0f064d82e59" ejected="false" autoeject="true"/>
+			<Game id="1"/>
+		</entity>
+
+		<entity chassis="Men Shen" model="MS1-O" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e5954696-56c5-4b9c-8823-390d37fd578a">
+			<pilot size="1" name="Angelica Howard" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="d1cfaa46-730c-41f0-90ea-5a72e91c2b9d" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="8" type="IS Ammo LRM-15 Artemis-capable" shots="8"/>
+			</location>
+			<Game id="2"/>
+		</entity>
+
+		<entity chassis="Huron Warrior" model="HUR-WO-R4M" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="5faf74af-756f-4b0e-aabc-7d98dd1aed02">
+			<pilot size="1" name="Yeva Ghaziyan" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="10f84b00-88f2-4d64-bf44-dd0a897a3327" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="4" type="IS Gauss Ammo" shots="8"/>
+				<slot index="5" type="IS Gauss Ammo" shots="8"/>
+			</location>
+			<Game id="3"/>
+		</entity>
+
+		<entity chassis="Karnov UR Transport" model="(3055 Upgrade)" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="c668236e-b4d0-4f2b-86b9-09fdd80168c6">
+			<pilot size="2" name="Piotr Mayer" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="6c6a3b34-cc06-4c48-9a41-f246fa6b72e6" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="4"/>
+		</entity>
+
+		<entity chassis="Karnov UR Transport" model="(3055 Upgrade)" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="6a602f35-edce-4770-94c2-8eb118308e0c">
+			<pilot size="2" name="Geressu Kim" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="e6e2a76b-a92b-4b26-ae6c-50694c45f20c" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="5"/>
+		</entity>
+
+		<entity chassis="Hunter Light Support Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="5b35b309-87e5-4946-9398-56b459b72cae">
+			<pilot size="3" name="Kaze Tanaka" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="e497be94-0460-4a8e-b6da-addcd8094895" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="2" type="IS Ammo LRM-20" shots="6"/>
+			</location>
+			<Game id="6"/>
+		</entity>
+
+		<entity chassis="Hunter Light Support Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a102d188-74f2-4aa9-81c0-fbdb0b2e4b5a">
+			<pilot size="3" name="Bo Fu" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="0962feaf-5b3d-4891-a380-338eb7ae41a8" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="2" type="IS Ammo LRM-20" shots="6"/>
+			</location>
+			<Game id="7"/>
+		</entity>
+
+		<entity chassis="Jump Platoon" model="(MG)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="02da18e8-ed3d-4f41-afd1-6218a8c9625e">
+			<pilot size="1" name="Naaila Arain" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="90aa51f5-683d-4947-bb76-614ef5364307" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="8"/>
+		</entity>
+
+		<entity chassis="Jump Platoon" model="(MG)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="18e6508c-17f8-407c-8b70-18259e13d5b5">
+			<pilot size="1" name="Shawn Quick" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="ac2516a0-9afd-437c-b80b-0125f7c17d7d" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="9"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(Rifle)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a5ef0e73-89d8-4069-95d5-889b5afd2a37">
+			<pilot size="1" name="Manina Kong" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="8" externalId="f602b102-9e90-4330-9ae5-fdd9db9f77f3" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="10"/>
+		</entity>
+
+		<entity chassis="Foot Platoon" model="(Rifle)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="ce561d86-67cc-4dd0-93f9-6e2cafd3ddbb">
+			<pilot size="1" name="Sajiyya Ozaki" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="8" externalId="c78b828c-ba85-4da3-b731-708b7147c983" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="11"/>
+		</entity>
+
+</unit>

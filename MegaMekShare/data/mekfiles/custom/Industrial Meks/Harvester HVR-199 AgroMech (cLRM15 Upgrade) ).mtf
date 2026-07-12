@@ -1,0 +1,149 @@
+generator:MegaMek Suite 0.50.02 on 2025-03-01
+chassis:Harvester
+model:HVR-199 AgroMech (cLRM15 Upgrade) )
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3151
+rules level:5
+role:Missile Boat
+
+
+mass:40
+engine:160 ICE Engine(IS)
+structure:IS Industrial
+myomer:Standard
+
+heat sinks:2 Single
+walk mp:4
+jump mp:0
+
+armor:Heavy Industrial(Inner Sphere)
+LA armor:12
+RA armor:12
+LT armor:16
+RT armor:16
+CT armor:18
+HD armor:9
+LL armor:20
+RL armor:20
+RTL armor:4
+RTR armor:4
+RTC armor:5
+
+Weapons:1
+LRM 15, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+CLLRM15
+CLLRM15
+Clan Ammo LRM-15
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

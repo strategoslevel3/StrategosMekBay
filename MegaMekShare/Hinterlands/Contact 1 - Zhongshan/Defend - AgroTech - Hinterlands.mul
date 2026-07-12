@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.02" >
+
+		<entity chassis="Union" model="(3055)" type="Spheroid" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="f2330447-3f47-4d6c-ac33-9afa561fbb0e">
+			<pilot size="10" name="Commander Sam Hofsteder" nick="" gender="MALE" clanperson="false" gunnery="5" piloting="5" artillery="8" portraitCat="Male/Vessel Crewmember/" portraitFile="VesCrew_M_6.png" externalId="2a851d9f-4628-49fe-948e-c921b93e991c" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<fuel left="6450"/>
+			<structural integrity="11"/>
+			<heat sinks="85"/>
+			<transportBay index="1">
+				<damage>0.0</damage>
+				<doors>2</doors>
+			</transportBay>
+			<transportBay index="2">
+				<damage>0.0</damage>
+				<doors>2</doors>
+			</transportBay>
+			<transportBay index="3">
+				<damage>0.0</damage>
+				<doors>2</doors>
+			</transportBay>
+			<transportBay index="4">
+				<damage>0.0</damage>
+				<doors>2</doors>
+			</transportBay>
+			<transportBay index="0">
+				<damage>0.0</damage>
+				<doors>0</doors>
+			</transportBay>
+			<transportBay index="0">
+				<damage>0.0</damage>
+				<doors>0</doors>
+			</transportBay>
+			<transportBay index="0">
+				<damage>0.0</damage>
+				<doors>0</doors>
+			</transportBay>
+      The first slot in a location is at index="1".
+			<location index="0"> Nose
+				<slot index="5" type="IS Gauss Ammo" shots="24" weaponsBayIndex="4"/>
+				<slot index="9" type="IS Ammo LRM-20 Artemis-capable" shots="24" weaponsBayIndex="7"/>
+			</location>
+			<location index="1"> Left Side
+				<slot index="5" type="IS Gauss Ammo" shots="24" weaponsBayIndex="4"/>
+				<slot index="9" type="IS Ammo LRM-20 Artemis-capable" shots="24" weaponsBayIndex="7"/>
+			</location>
+			<location index="2"> Right Side
+				<slot index="5" type="IS Gauss Ammo" shots="24" weaponsBayIndex="4"/>
+				<slot index="9" type="IS Ammo LRM-20 Artemis-capable" shots="24" weaponsBayIndex="7"/>
+			</location>
+			<Game id="12"/>
+		</entity>
+
+		<entity chassis="Thunderbolt" model="TDR-12R (Border Dogs)" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="427e13e7-72cd-4959-952c-23db1057fd83" quirks="multi_trac::rugged_2::ubiquitous_is">
+			<pilot size="1" name="Corporal Darius &quot;Chemical&quot; Steiger" nick="Chemical" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="8" portraitCat="Male/MekWarrior/" portraitFile="MW_M_20.png" externalId="292afc2b-e8e4-4a56-8455-797c8b92cc02" commandB="3" ejected="false" edge="edge 1::edge_when_headhit" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="ISPlasmaRifleAmmo" shots="10"/>
+			</location>
+			<location index="2"> Right Torso
+				<slot index="6" type="ISPlasmaRifleAmmo" shots="10"/>
+				<slot index="7" type="IS Ammo Thunderbolt-5" shots="12"/>
+				<slot index="8" type="IS Ammo Thunderbolt-5" shots="12"/>
+				<slot index="9" type="Clan Ammo LRM-15" shots="8"/>
+				<slot index="10" type="Clan Ammo LRM-15" shots="8"/>
+			</location>
+			<Game id="3"/>
+		</entity>
+
+		<entity chassis="Shadow Hawk IIC" model="8" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="4f915dc2-9f47-44f3-9be4-24b0ca0ad489" quirks="battle_fists_la::battle_fists_ra::imp_life_support" camoCategory="Clans/Sea Fox (Dark Age)/" camoFileName="Clan Sea Fox.jpg" camoRotation="0" camoScale="10">
+			<pilot size="1" name="Corporal Hassim" nick="" gender="MALE" clanperson="true" gunnery="3" piloting="3" artillery="8" portraitCat="Male/MekWarrior/" portraitFile="MW_M_39.png" externalId="69568e0e-808d-4490-9440-1b665289b3d5" commandB="3" ejected="false" edge="edge 1::edge_when_headhit" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="10" type="Clan Ammo LRM-10" shots="11"/>
+				<slot index="11" type="Clan Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="4"/>
+		</entity>
+
+		<entity chassis="Mad Cat III" model="2" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="feb54aa8-cc93-4562-a839-a6092eef8175" quirks="imp_com::bad_rep_clan::difficult_maintain">
+			<pilot size="1" name="Captain Quentin &quot;Deadeye&quot; Elias Tresseraburg" nick="Deadeye" gender="MALE" clanperson="false" gunnery="5" piloting="5" artillery="8" portraitCat="Female/MekWarrior/" portraitFile="MW_F_26.png" externalId="954ae85c-9d6e-4a1d-a42e-6c1bb2578e74" commandB="2" ejected="false" edge="edge 1::edge_when_headhit" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="11" type="Clan Ammo SRM-6 (Clan) Artemis V-capable" shots="15"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="11" type="Clan Ammo SRM-6 (Clan) Artemis V-capable" shots="9"/>
+			</location>
+			<location index="4" isDestroyed="true" /> Right Arm
+			<Game id="5"/>
+		</entity>
+
+		<entity chassis="Spider" model="SDR-8X" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="7171da2d-284d-4bba-bd46-9e58916f31f4" quirks="easy_maintain::nimble_jumper::no_eject" camoCategory="-- Colour Camo --" camoFileName="GRAY" camoRotation="0" camoScale="10">
+			<pilot size="1" name="Corporal Yoshiro Takamotoi" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="4" artillery="8" portraitCat="Male/MekWarrior/" portraitFile="MW_M_26.png" externalId="ba9143f6-ac5f-4db4-98f5-3a2073d83dd0" commandB="2" ejected="false" edge="edge 3::edge_when_headhit" autoeject="false"/>
+			<Game id="6"/>
+		</entity>
+
+		<entity chassis="Starslayer" model="STY-3Dr" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="54dbe85f-0f32-4347-8e2b-47137709bedb" quirks="rugged_1">
+			<pilot size="1" name="Corporal Kurt Fischer" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="4" artillery="8" portraitCat="Male/MekWarrior/" portraitFile="MW_M_83.png" externalId="39787eb1-16cf-43d4-8f6c-c614303bc204" commandB="1" ejected="false" edge="edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+			<Game id="7"/>
+		</entity>
+
+		<entity chassis="Black Hawk (Nova)" model="S" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="d71cf06f-58c8-488d-ac89-39d903ab92e8" quirks="combat_computer::low_profile" camoCategory="Draconis Combine/DEST/" camoFileName="Red Hunters.jpg" camoRotation="0" camoScale="10">
+			<pilot size="1" name="Corporal Kage &quot;Zetsubo&quot; Ha Omi" nick="Zetsubo" gender="MALE" clanperson="false" gunnery="3" piloting="4" artillery="8" portraitCat="Custom/" portraitFile="Shado.png" externalId="bbd4300c-d54f-495c-b3fb-879221d1c53d" commandB="2" ejected="false" edge="edge 3::edge_when_headhit" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="9" type="CLAMS Ammo" shots="24"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="9" type="Clan Machine Gun Ammo - Half" shots="84"/>
+			</location>
+			<Game id="2"/>
+		</entity>
+
+		<entity chassis="Quasimodo" model="QSM-3D" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="097848ec-e0cf-44ad-99ea-a60e97f8b091" camoCategory="-- Colour Camo --" camoFileName="DEEP_PURPLE" camoRotation="0" camoScale="10">
+			<pilot size="1" name="Corporal Rufus &quot;Odyssey&quot; Langdon" nick="Odyssey" gender="MALE" clanperson="false" gunnery="4" piloting="5" artillery="8" portraitCat="Male/MekWarrior/" portraitFile="MW_M_94.png" externalId="8cea3493-4ea2-409c-ac31-04150518cb63" commandB="4" ejected="false" edge="edge 3::edge_when_headhit" autoeject="true"/>
+			<Game id="1"/>
+		</entity>
+
+</unit>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.04" >
+
+		<entity chassis="Daishi (Dire Wolf)" model="Prime" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="038ddf7c-962f-4216-b69d-cb90046db24d" quirks="imp_target_long::difficult_eject">
+			<pilot size="1" name="Star Captain Benjamin Wilmer" nick="" gender="MALE" clanperson="true" gunnery="2" piloting="3" externalId="62448104-4a14-422e-9478-a10018b021b6" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="12" type="Clan Ammo LRM-10" shots="12"/>
+			</location>
+			<location index="4"> Right Arm
+				<slot index="10" type="Clan Ultra AC/5 Ammo" shots="20"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="10" type="Clan Ultra AC/5 Ammo" shots="20"/>
+			</location>
+			<Game id="1"/>
+		</entity>
+
+		<entity chassis="Cauldron-Born (Ebon Jaguar)" model="Prime" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="7806a30f-0ffe-4047-baec-1689493a1013" quirks="low_profile">
+			<pilot size="1" name="Nighean" nick="" gender="FEMALE" clanperson="true" gunnery="3" piloting="4" externalId="5207d975-655b-47ee-9a16-b37a2b806fec" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="4" type="Clan Ammo SRM-2" shots="50"/>
+				<slot index="5" type="Clan Gauss Ammo" shots="8"/>
+				<slot index="6" type="Clan Gauss Ammo" shots="8"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="5" type="Clan Ammo LRM-10" shots="12"/>
+				<slot index="6" type="Clan Ammo LRM-10" shots="12"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="7" type="Clan LB 5-X AC Ammo" shots="20"/>
+				<slot index="8" type="Clan LB 5-X Cluster Ammo" shots="20"/>
+			</location>
+			<Game id="2"/>
+		</entity>
+
+		<entity chassis="Nobori-nin (Huntsman)" model="A" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="8690f51c-5130-4607-9286-a8bec4d0552a" quirks="stable">
+			<pilot size="1" name="Juan" nick="" gender="MALE" clanperson="true" gunnery="3" piloting="4" externalId="0986a964-647a-46fa-a833-422b7aae28f4" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="6" type="Clan LB 2-X AC Ammo" shots="45"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="6" type="Clan Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="3"/>
+		</entity>
+
+		<entity chassis="Mad Cat (Timber Wolf)" model="Prime" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="4473bf90-9c1c-40cc-90cf-3c8fbf9aee3c" quirks="imp_target_med::weak_head_1">
+			<pilot size="1" name="Sun-Mi" nick="" gender="FEMALE" clanperson="true" gunnery="3" piloting="4" externalId="6533c281-1e76-4ab5-803d-298fccd875e5" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="8" type="Clan Ammo LRM-20" shots="6"/>
+				<slot index="9" type="Clan Machine Gun Ammo - Full" shots="200"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="8" type="Clan Ammo LRM-20" shots="6"/>
+			</location>
+			<Game id="4"/>
+		</entity>
+
+		<entity chassis="Dasher (Fire Moth)" model="H" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="dd412f1c-3df9-4cdb-9994-1fe6ef4f3a52" quirks="low_profile::overhead_arms">
+			<pilot size="1" name="Aurora" nick="" gender="FEMALE" clanperson="true" gunnery="2" piloting="4" externalId="f16987bc-2e6c-4c8f-88de-6ab2ec3359fe" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="false"/>
+			<Game id="5"/>
+		</entity>
+
+		<entity chassis="Elemental Battle Armor" model="[MicroPL](Sqd5)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="1445b15c-d082-454e-bceb-0ff1a60ab306">
+			<pilot size="5" name="Star Commander Aden Hoff" nick="" gender="FEMALE" clanperson="true" gunnery="2" piloting="3" externalId="f72d2d7e-9db0-4d4c-bc63-d124c6d763f6" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<antiPersonnelMount baAPMMountNum="4" baAPMTypeName="InfantryAssaultRifle" />
+      The first slot in a location is at index="1".
+			<location index="0"> Point
+				<slot index="3" type="BA-SRM2 Ammo" shots="2"/>
+			</location>
+			<Game id="6"/>
+		</entity>
+
+		<entity chassis="Elemental Battle Armor" model="[MicroPL](Sqd5)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="b8cf3d82-2827-4945-8f3f-2f5df85b80c2">
+			<pilot size="5" name="Rubina" nick="" gender="FEMALE" clanperson="true" gunnery="3" piloting="4" externalId="a7c20788-c65d-4700-8251-91143fb26b20" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<antiPersonnelMount baAPMMountNum="4" baAPMTypeName="InfantryAssaultRifle" />
+      The first slot in a location is at index="1".
+			<location index="0"> Point
+				<slot index="3" type="BA-SRM2 Ammo" shots="2"/>
+			</location>
+			<Game id="7"/>
+		</entity>
+
+		<entity chassis="Elemental Battle Armor" model="[MicroPL](Sqd5)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="ff6e497a-28be-450b-8688-ffa8d74b9b77">
+			<pilot size="5" name="Ruth" nick="" gender="FEMALE" clanperson="true" gunnery="3" piloting="4" externalId="4065206d-232a-4f72-9226-fa5f446d0c22" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<antiPersonnelMount baAPMMountNum="4" baAPMTypeName="InfantryAssaultRifle" />
+      The first slot in a location is at index="1".
+			<location index="0"> Point
+				<slot index="3" type="BA-SRM2 Ammo" shots="2"/>
+			</location>
+			<Game id="8"/>
+		</entity>
+
+		<entity chassis="Elemental Battle Armor" model="[MicroPL](Sqd5)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e190a523-53e7-461c-a856-7f3e00aa01d7">
+			<pilot size="5" name="Ameena" nick="" gender="FEMALE" clanperson="true" gunnery="3" piloting="4" externalId="635a0338-d048-4458-9e43-0f276d637d60" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<antiPersonnelMount baAPMMountNum="4" baAPMTypeName="InfantryAssaultRifle" />
+      The first slot in a location is at index="1".
+			<location index="0"> Point
+				<slot index="3" type="BA-SRM2 Ammo" shots="2"/>
+			</location>
+			<Game id="9"/>
+		</entity>
+
+		<entity chassis="Elemental Battle Armor" model="[MicroPL](Sqd5)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="7b485923-5645-4475-8530-8a7595f0c122">
+			<pilot size="5" name="Lucrece" nick="" gender="FEMALE" clanperson="true" gunnery="3" piloting="4" externalId="c1cc79da-8050-4921-83d7-2cf061e14165" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<antiPersonnelMount baAPMMountNum="4" baAPMTypeName="InfantryAssaultRifle" />
+      The first slot in a location is at index="1".
+			<location index="0"> Point
+				<slot index="3" type="BA-SRM2 Ammo" shots="2"/>
+			</location>
+			<Game id="10"/>
+		</entity>
+
+</unit>

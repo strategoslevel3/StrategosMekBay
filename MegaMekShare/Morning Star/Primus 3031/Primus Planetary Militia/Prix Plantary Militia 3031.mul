@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.49.19.1" >
+
+		<entity chassis="Galleon Light Tank" model="GAL-100" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e155096d-f6d3-4830-9fb4-0f3942bc870c">
+			<pilot size="2" name="Sang-wei Jeremy Ghiata" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="3" externalId="9e1ba9fc-bb55-423f-b83d-4924ab3ea51d" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="1"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Recon Company|1||Recon Scout Lance|6||"/>
+		</entity>
+
+		<entity chassis="Galleon Light Tank" model="GAL-100" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="490c0bb4-9f31-4c86-91aa-9ef2e177c546">
+			<pilot size="2" name="Si-ben-bing Andel Kadlek" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="5c7377ff-656d-478d-a8b4-8d53b94e3ce2" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="2"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Recon Company|1||Recon Scout Lance|6||"/>
+		</entity>
+
+		<entity chassis="Galleon Light Tank" model="GAL-100" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="ecf046ee-a1ed-4593-b97a-d1d29cb73a39">
+			<pilot size="2" name="Si-ben-bing Thomas Nadin" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="e274ab8d-9923-4f76-8407-7321864696c8" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="3"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Recon Company|1||Recon Scout Lance|6||"/>
+		</entity>
+
+		<entity chassis="Galleon Light Tank" model="GAL-100" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="664bdcfd-7cb8-45da-928d-bc7dff8595f1">
+			<pilot size="2" name="Si-ben-bing Sankara Rupa" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="dfdaa23f-c19a-44c8-b52d-970d3c0465cc" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="4"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Recon Company|1||Recon Scout Lance|6||"/>
+		</entity>
+
+		<entity chassis="Hunter Light Support Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="1a9d25e7-349e-4770-b1f7-b84ad5abd524">
+			<pilot size="3" name="Sao-wei Leonid Rakovsky" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" externalId="c282f7bf-c0aa-4d11-84c1-1c007f39f875" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="2" type="IS Ammo LRM-20" shots="6"/>
+			</location>
+			<Game id="5"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Recon Company|1||Recon Indirect Fire Lance|7||"/>
+		</entity>
+
+		<entity chassis="Hunter Light Support Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="bc1bdb93-087b-4529-a57b-2581069874c4">
+			<pilot size="3" name="Si-ben-bing Tsung-Yuan Seto" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="527f7e46-83ce-4ae5-a32a-7fc203f12cfb" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="2" type="IS Ammo LRM-20" shots="6"/>
+			</location>
+			<Game id="6"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Recon Company|1||Recon Indirect Fire Lance|7||"/>
+		</entity>
+
+		<entity chassis="Hunter Light Support Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="b1055e47-455b-4584-b44a-5c0e0469edbe">
+			<pilot size="3" name="Si-ben-bing Halima Maideyi" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="96716bb4-c931-4359-84bf-ad3f624ab36f" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="2" type="IS Ammo LRM-20" shots="6"/>
+			</location>
+			<Game id="7"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Recon Company|1||Recon Indirect Fire Lance|7||"/>
+		</entity>
+
+		<entity chassis="Hunter Light Support Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="bd751bce-03ba-4551-8af9-2bd472b9ca39">
+			<pilot size="3" name="Si-ben-bing Kevin Scheffer" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="837b2833-5654-4633-8327-038792000e2e" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="2" type="IS Ammo LRM-20" shots="6"/>
+			</location>
+			<Game id="8"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Recon Company|1||Recon Indirect Fire Lance|7||"/>
+		</entity>
+
+		<entity chassis="Warrior Attack Helicopter" model="H-7" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="0b7d0a14-c61b-4fca-bfa7-1c7f1a3758c6">
+			<pilot size="2" name="Sao-wei Zanifa Rodov" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" externalId="d70cba22-1c63-417f-9797-f6dedb3ae4e4" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="2" type="IS Ammo AC/2" shots="45"/>
+			</location>
+			<Game id="9"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Recon Company|1||Recon VTOL Cavalry Lance|8||"/>
+		</entity>
+
+		<entity chassis="Warrior Attack Helicopter" model="H-7" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="b9563711-1f80-47a0-bfad-7c8a5a508a0f">
+			<pilot size="2" name="Si-ben-bing Latif Ghilzai" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="c2d334ae-ba35-4ac1-b3e7-fea86941d587" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="2" type="IS Ammo AC/2" shots="45"/>
+			</location>
+			<Game id="10"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Recon Company|1||Recon VTOL Cavalry Lance|8||"/>
+		</entity>
+
+		<entity chassis="Warrior Attack Helicopter" model="H-7" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="0819303f-dbfb-4af8-b869-f5bdab55aa1f">
+			<pilot size="2" name="Si-ben-bing Iust Rezunenko" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="ea952945-fc05-40fa-8ce3-94d8e8f7d12d" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="2" type="IS Ammo AC/2" shots="45"/>
+			</location>
+			<Game id="11"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Recon Company|1||Recon VTOL Cavalry Lance|8||"/>
+		</entity>
+
+		<entity chassis="Warrior Attack Helicopter" model="H-7" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="aaa77341-ff79-40de-8e24-e5e116d5bd26">
+			<pilot size="2" name="Si-ben-bing Michala Brendl" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="5157ab1d-f814-45a9-9845-ff056197b82d" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-4" shots="25"/>
+				<slot index="2" type="IS Ammo AC/2" shots="45"/>
+			</location>
+			<Game id="12"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Recon Company|1||Recon VTOL Cavalry Lance|8||"/>
+		</entity>
+
+		<entity chassis="Po Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="9e7bfd01-fd57-489b-a9c9-097ff5018eb7">
+			<pilot size="4" name="Sang-wei Maureen Werner" nick="" gender="FEMALE" clanperson="false" gunnery="2" piloting="3" externalId="e8441d6c-3754-40a7-826f-54befbca37e3" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+				<slot index="2" type="IS Ammo AC/10" shots="10"/>
+				<slot index="3" type="IS Ammo AC/10" shots="10"/>
+			</location>
+			<Game id="13"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Direct Fire Company|2||Direct Fire Lance Alpha|9||"/>
+		</entity>
+
+		<entity chassis="Po Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="154fc082-fe12-4ba3-928c-2c1425557814">
+			<pilot size="4" name="Si-ben-bing Flocerfida Kucera" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="4e6186a5-393b-4b68-a31b-48a182ed5d76" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+				<slot index="2" type="IS Ammo AC/10" shots="10"/>
+				<slot index="3" type="IS Ammo AC/10" shots="10"/>
+			</location>
+			<Game id="14"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Direct Fire Company|2||Direct Fire Lance Alpha|9||"/>
+		</entity>
+
+		<entity chassis="Po Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a5201cf8-8d6b-43a2-b751-02b445b23e90">
+			<pilot size="4" name="Si-ben-bing Sean Arendarski" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="2a638bd9-1698-4c1d-b0fe-ec1ac8ed6ea6" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+				<slot index="2" type="IS Ammo AC/10" shots="10"/>
+				<slot index="3" type="IS Ammo AC/10" shots="10"/>
+			</location>
+			<Game id="15"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Direct Fire Company|2||Direct Fire Lance Alpha|9||"/>
+		</entity>
+
+		<entity chassis="Po Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="c7ebded8-798d-4d1e-b936-2a1a88702ff9">
+			<pilot size="4" name="Si-ben-bing Salvador Ávila" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="d01e6295-e0c9-4507-b804-1eae35de898a" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+				<slot index="2" type="IS Ammo AC/10" shots="10"/>
+				<slot index="3" type="IS Ammo AC/10" shots="10"/>
+			</location>
+			<Game id="16"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Direct Fire Company|2||Direct Fire Lance Alpha|9||"/>
+		</entity>
+
+		<entity chassis="Po Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="d0d7043b-2373-4d9e-b692-f136604dc086">
+			<pilot size="4" name="Sao-wei Dan Lukyanov" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" externalId="bf7c75e4-6a5a-4d3c-af6e-9f750a05ee3d" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+				<slot index="2" type="IS Ammo AC/10" shots="10"/>
+				<slot index="3" type="IS Ammo AC/10" shots="10"/>
+			</location>
+			<Game id="17"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Direct Fire Company|2||Direct Fire Lance Bravo|10||"/>
+		</entity>
+
+		<entity chassis="Po Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="5909f045-491d-4edb-9849-228689ec5e35">
+			<pilot size="4" name="Si-ben-bing Jeff Belsey" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="2ddd1196-3d47-4448-be49-c4851bd55ca7" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+				<slot index="2" type="IS Ammo AC/10" shots="10"/>
+				<slot index="3" type="IS Ammo AC/10" shots="10"/>
+			</location>
+			<Game id="18"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Direct Fire Company|2||Direct Fire Lance Bravo|10||"/>
+		</entity>
+
+		<entity chassis="Po Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="c779592a-964e-4074-8095-2e0917989e58">
+			<pilot size="4" name="Si-ben-bing Miguel Estrada" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="1bf0fb37-425c-4c7f-a04d-7fd414c2431c" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+				<slot index="2" type="IS Ammo AC/10" shots="10"/>
+				<slot index="3" type="IS Ammo AC/10" shots="10"/>
+			</location>
+			<Game id="19"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Direct Fire Company|2||Direct Fire Lance Bravo|10||"/>
+		</entity>
+
+		<entity chassis="Po Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="fd2281fb-ea2e-45dd-9826-ae7e6805e64b">
+			<pilot size="4" name="Si-ben-bing Wu-ji Bicukowski" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="dbd40d06-0786-4b04-8854-d4e324242e00" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+				<slot index="2" type="IS Ammo AC/10" shots="10"/>
+				<slot index="3" type="IS Ammo AC/10" shots="10"/>
+			</location>
+			<Game id="20"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Direct Fire Company|2||Direct Fire Lance Bravo|10||"/>
+		</entity>
+
+		<entity chassis="Po Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="b1a3bed6-4289-4da1-8bd4-6c20e606fd8c">
+			<pilot size="4" name="Sao-wei Alexandra Elovsky" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" externalId="3d5491c1-8d53-42cf-9ab0-b2d458971238" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+				<slot index="2" type="IS Ammo AC/10" shots="10"/>
+				<slot index="3" type="IS Ammo AC/10" shots="10"/>
+			</location>
+			<Game id="21"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Direct Fire Company|2||Dierct Fire Lance Charlie|11||"/>
+		</entity>
+
+		<entity chassis="Po Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="881e3a09-b999-45fd-bd78-acbe28d45c60">
+			<pilot size="4" name="Si-ben-bing Yuk-Kum Zang" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="ecd4dc8d-1553-488d-a05d-2e2711263b6a" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+				<slot index="2" type="IS Ammo AC/10" shots="10"/>
+				<slot index="3" type="IS Ammo AC/10" shots="10"/>
+			</location>
+			<Game id="22"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Direct Fire Company|2||Dierct Fire Lance Charlie|11||"/>
+		</entity>
+
+		<entity chassis="Po Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="63855d12-90a6-46e7-9d46-b93857fbb5d5">
+			<pilot size="4" name="Si-ben-bing Hildegarde Wolden" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="3d243224-c4a3-4296-820a-09bb9f8c6785" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+				<slot index="2" type="IS Ammo AC/10" shots="10"/>
+				<slot index="3" type="IS Ammo AC/10" shots="10"/>
+			</location>
+			<Game id="23"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Direct Fire Company|2||Dierct Fire Lance Charlie|11||"/>
+		</entity>
+
+		<entity chassis="Po Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="163e4f58-ca57-42c6-8dcf-0d337430e19a">
+			<pilot size="4" name="Si-ben-bing Raziya Gahima" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="aa7b6d2e-b55f-4643-be5a-6e430d38db90" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+				<slot index="2" type="IS Ammo AC/10" shots="10"/>
+				<slot index="3" type="IS Ammo AC/10" shots="10"/>
+			</location>
+			<Game id="24"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Direct Fire Company|2||Dierct Fire Lance Charlie|11||"/>
+		</entity>
+
+		<entity chassis="AC/2 Carrier" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="386cbc74-80e4-4594-8fc4-a9c97b170b58">
+			<pilot size="4" name="Sang-wei Era Milan" nick="" gender="FEMALE" clanperson="false" gunnery="2" piloting="3" externalId="91b1f162-bd5b-4053-88c7-53800c917653" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo AC/2" shots="45"/>
+				<slot index="2" type="IS Ammo AC/2" shots="45"/>
+				<slot index="3" type="IS Ammo AC/2" shots="45"/>
+				<slot index="4" type="IS Ammo AC/2" shots="45"/>
+			</location>
+			<Game id="25"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Fire Support Company|3||Fire Support Artillery Lance|12||"/>
+		</entity>
+
+		<entity chassis="AC/2 Carrier" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a7b8649a-e60a-459d-b05f-83dfa3f42330">
+			<pilot size="4" name="Si-ben-bing Mie-Ann Sen" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="7387e03e-c0bb-4a86-a9f3-8b089d2921a2" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo AC/2" shots="45"/>
+				<slot index="2" type="IS Ammo AC/2" shots="45"/>
+				<slot index="3" type="IS Ammo AC/2" shots="45"/>
+				<slot index="4" type="IS Ammo AC/2" shots="45"/>
+			</location>
+			<Game id="26"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Fire Support Company|3||Fire Support Artillery Lance|12||"/>
+		</entity>
+
+		<entity chassis="LRM Carrier" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="df0bf0fc-426b-4179-9c99-b3025986980b">
+			<pilot size="4" name="Sao-wei Alexandra Poli" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" externalId="57cca81b-bbbf-43c9-ac74-1f7c71044d7f" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="2" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="3" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="4" type="IS Ammo LRM-20" shots="6"/>
+			</location>
+			<Game id="27"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Fire Support Company|3||Fire Support Indirect Lance|14||"/>
+		</entity>
+
+		<entity chassis="LRM Carrier" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e7e51a08-5ac0-4e19-88ed-356ac1f4bec4">
+			<pilot size="4" name="Si-ben-bing Damien Pribicevic" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="0c789235-8dbf-4bdf-8cf3-35e7d82f42c5" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="2" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="3" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="4" type="IS Ammo LRM-20" shots="6"/>
+			</location>
+			<Game id="28"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Fire Support Company|3||Fire Support Indirect Lance|14||"/>
+		</entity>
+
+		<entity chassis="LRM Carrier" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="368ac78c-ac75-4c1f-b24f-e3e9ac1460de">
+			<pilot size="4" name="Si-ben-bing Hau-Hing Damm" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="6dc7d16a-8de9-4434-916d-fc754106ab91" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="2" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="3" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="4" type="IS Ammo LRM-20" shots="6"/>
+			</location>
+			<Game id="29"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Fire Support Company|3||Fire Support Indirect Lance|14||"/>
+		</entity>
+
+		<entity chassis="LRM Carrier" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="7e451998-e0fc-4950-8f29-5d3256ea7b68">
+			<pilot size="4" name="Si-ben-bing Joseph Kralikov" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="f6e882e0-1e14-4cf6-bd6c-a259d4cae771" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="2" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="3" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="4" type="IS Ammo LRM-20" shots="6"/>
+			</location>
+			<Game id="30"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Fire Support Company|3||Fire Support Indirect Lance|14||"/>
+		</entity>
+
+		<entity chassis="SRM Carrier" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="f9b83f1c-5b20-41c9-bcda-da53bc78d990">
+			<pilot size="4" name="Sao-wei Jeffrey Yang" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" externalId="b9948f25-20ad-4e47-9823-743bee633df7" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="2" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="3" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="4" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="31"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Fire Support Company|3||Fire Support Direct Fire Lance|13||"/>
+		</entity>
+
+		<entity chassis="SRM Carrier" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="ab76424d-0216-43ac-b643-f3f3c62cc2b4">
+			<pilot size="4" name="Si-ben-bing Quien Furgal" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="211c7e26-1be5-41e7-adca-0288f31f7c9e" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="2" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="3" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="4" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="32"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Fire Support Company|3||Fire Support Direct Fire Lance|13||"/>
+		</entity>
+
+		<entity chassis="SRM Carrier" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a1947162-d43f-40a5-acf2-3ec54eedadb0">
+			<pilot size="4" name="Si-ben-bing Harvey Teng" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="acaaa96c-02c9-4aef-a7f9-51148a8df4c7" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="2" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="3" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="4" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="33"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Fire Support Company|3||Fire Support Direct Fire Lance|13||"/>
+		</entity>
+
+		<entity chassis="SRM Carrier" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="d2be26de-a58a-4082-a7a2-da98f3f82d27">
+			<pilot size="4" name="Si-ben-bing Connor Ala'" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="de623650-ed3d-4842-b546-1bbab154c585" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="2" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="3" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="4" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="34"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Fire Support Company|3||Fire Support Direct Fire Lance|13||"/>
+		</entity>
+
+		<entity chassis="Mobile Long Tom Artillery" model="LT-MOB-25" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="5c1fd21c-591c-4953-8b81-4bfe2dee9bbd">
+			<pilot size="5" name="Si-ben-bing Amy Ramos" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="a38bb0ed-a77c-4cb2-a616-e0f28d54b451" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="2" type="ISLongTomAmmo" shots="5"/>
+				<slot index="3" type="ISLongTomAmmo" shots="5"/>
+				<slot index="4" type="ISLongTomAmmo" shots="5"/>
+				<slot index="5" type="ISLongTomAmmo" shots="5"/>
+			</location>
+			<Game id="35"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Fire Support Company|3||Fire Support Artillery Lance|12||"/>
+		</entity>
+
+		<entity chassis="Mobile Long Tom Artillery" model="LT-MOB-25 (Ammunition Carriage)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="dfadab1a-9106-4477-8761-808da970a698">
+			<pilot size="1" name="Si-ben-bing Ipe Koper" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="22a41568-50df-4e57-b18a-7d8f5bb47d05" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="ISLongTomAmmo" shots="5"/>
+				<slot index="2" type="ISLongTomAmmo" shots="5"/>
+				<slot index="3" type="ISLongTomAmmo" shots="5"/>
+				<slot index="4" type="ISLongTomAmmo" shots="5"/>
+				<slot index="5" type="ISLongTomAmmo" shots="5"/>
+			</location>
+			<Game id="36"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Fire Support Company|3||Fire Support Artillery Lance|12||"/>
+		</entity>
+
+		<entity chassis="Mobile Long Tom Artillery" model="LT-MOB-25 (Support Carriage)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="f73839fe-4c84-478d-8baf-67bb0f2f39db">
+			<pilot size="1" name="Si-ben-bing Mardea Omariba" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="54c54b08-1bdf-44af-82f7-f4f1c87098dc" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="37"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Fire Support Company|3||Fire Support Artillery Lance|12||"/>
+		</entity>
+
+		<entity chassis="Mobile Long Tom Artillery" model="LT-MOB-25" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="b5037632-6a05-45c2-a292-6ca5a03dc3cc">
+			<pilot size="5" name="Si-ben-bing Immanuil Pruszkowski/a" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="590f05ac-4096-4a6d-b012-b66c414b0285" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="2" type="ISLongTomAmmo" shots="5"/>
+				<slot index="3" type="ISLongTomAmmo" shots="5"/>
+				<slot index="4" type="ISLongTomAmmo" shots="5"/>
+				<slot index="5" type="ISLongTomAmmo" shots="5"/>
+			</location>
+			<Game id="38"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Fire Support Company|3||Fire Support Artillery Lance|12||"/>
+		</entity>
+
+		<entity chassis="Mobile Long Tom Artillery" model="LT-MOB-25 (Ammunition Carriage)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="0ba15ae4-fff5-46be-b2c4-491fbde73ef2">
+			<pilot size="1" name="Si-ben-bing Tho Ut" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="d5e61087-6b76-4208-8eba-8cb675061836" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="ISLongTomAmmo" shots="5"/>
+				<slot index="2" type="ISLongTomAmmo" shots="5"/>
+				<slot index="3" type="ISLongTomAmmo" shots="5"/>
+				<slot index="4" type="ISLongTomAmmo" shots="5"/>
+				<slot index="5" type="ISLongTomAmmo" shots="5"/>
+			</location>
+			<Game id="39"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Fire Support Company|3||Fire Support Artillery Lance|12||"/>
+		</entity>
+
+		<entity chassis="Mobile Long Tom Artillery" model="LT-MOB-25 (Support Carriage)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="d955bd06-b553-497b-bba3-0ddf6f0f3cfc">
+			<pilot size="1" name="Si-ben-bing Gordon Madongo" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="6580cbc8-c2f3-46c5-9897-01c77e8d67f8" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="40"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Fire Support Company|3||Fire Support Artillery Lance|12||"/>
+		</entity>
+
+		<entity chassis="Behemoth Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="717ac559-ad46-4f11-8401-0c32bcc3530d">
+			<pilot size="7" name="Sao-shao Lori Farooq" nick="" gender="FEMALE" clanperson="false" gunnery="2" piloting="3" externalId="93d159e1-f702-4ff4-b5f5-46e656708f47" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-5" shots="24"/>
+				<slot index="2" type="IS Ammo LRM-5" shots="24"/>
+				<slot index="3" type="IS Ammo MG - Full" shots="200"/>
+				<slot index="4" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="5" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="6" type="IS Ammo AC/10" shots="10"/>
+				<slot index="7" type="IS Ammo AC/10" shots="10"/>
+				<slot index="8" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="41"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||HQ Command Lance|18||"/>
+		</entity>
+
+		<entity chassis="Demolisher Heavy Tank" model="(Mk. I)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="5afb50ef-b009-4762-85be-345425ac7e99">
+			<pilot size="6" name="Si-ben-bing Tom Kim" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="e2b9c7ce-4981-4df6-893d-5d1b17122e3c" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo AC/20" shots="5"/>
+				<slot index="2" type="IS Ammo AC/20" shots="5"/>
+				<slot index="3" type="IS Ammo AC/20" shots="5"/>
+				<slot index="4" type="IS Ammo AC/20" shots="5"/>
+			</location>
+			<Game id="42"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||HQ Command Lance|18||"/>
+		</entity>
+
+		<entity chassis="Ontos Heavy Tank" model="(LRM)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="084d26e4-60e4-4d24-8dee-4a42ca8e3288">
+			<pilot size="7" name="Si-ben-bing Sabiyya Lahsini" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="24d69ab3-793d-4e30-aa95-b4ff2bac0a92" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="2" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="3" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="4" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="5" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="6" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="43"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||HQ Command Lance|18||"/>
+		</entity>
+
+		<entity chassis="Mobile Headquarters" model="(ICE)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="74b550f2-7856-4389-8318-92e390c22f42">
+			<pilot size="2" name="Si-ben-bing Yao-pang Latham" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="a4757409-43a7-4ac3-9ed4-cf28710b8e83" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="44"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||HQ Command Lance|18||"/>
+		</entity>
+
+		<entity chassis="Sherpa Armored Truck" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="c08b10ba-bb7c-4768-9e29-2dd6060478ab">
+			<pilot size="3" name="Sao-wei Lira Daikhovsky" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="cabd2ec3-186f-425c-85bd-9f197cee566c" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="2" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="45"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Transport Company|5||"/>
+		</entity>
+
+		<entity chassis="Sherpa Armored Truck" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="db80d594-d5e8-461c-afb2-8485f7e5ba41">
+			<pilot size="3" name="Si-ben-bing Chih-tui Pither" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="6522829b-7ad5-4277-b98f-2d7685464e47" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="2" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="46"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Transport Company|5||"/>
+		</entity>
+
+		<entity chassis="Sherpa Armored Truck" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="431f3559-98b1-46d9-bad6-3599f0d852bb">
+			<pilot size="3" name="Si-ben-bing Tsing Huang" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="9e747ac2-50a4-4851-836f-065ce5191771" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="2" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="47"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Transport Company|5||"/>
+		</entity>
+
+		<entity chassis="Sherpa Armored Truck" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="723b5b21-a3a9-4bb0-84d1-057da30ac308">
+			<pilot size="3" name="Si-ben-bing Szczester Honigman" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="023f1364-6166-48fc-a440-d3a00fcf0d6c" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="2" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="48"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Transport Company|5||"/>
+		</entity>
+
+		<entity chassis="Sherpa Armored Truck" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="01e84735-40fe-43b5-9ff6-60bda2f6f9cc">
+			<pilot size="3" name="Si-ben-bing Priita Honka" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="d3b517ef-cecc-4266-8ba9-6f492f5b6d73" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="2" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="49"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Transport Company|5||"/>
+		</entity>
+
+		<entity chassis="Sherpa Armored Truck" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="d0a32628-6c78-4ee6-b6b1-cc34ae55447c">
+			<pilot size="3" name="Si-ben-bing Ashtyn Djajadiningrat" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="4659054a-938d-4784-a362-c2b747e1831d" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="2" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="50"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Transport Company|5||"/>
+		</entity>
+
+		<entity chassis="Sherpa Armored Truck" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="9de13f8e-5488-4695-9085-d5f7aa58a40a">
+			<pilot size="3" name="Si-ben-bing Leslie Egudin" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="3fab6f90-5987-4076-ac88-11878a1d836b" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="2" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="51"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Transport Company|5||"/>
+		</entity>
+
+		<entity chassis="Sherpa Armored Truck" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="0a9cb285-823d-42c1-9e2c-8b0fb8b2de4e">
+			<pilot size="3" name="Si-ben-bing Jeanette Sokoine" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="0e93b055-6927-46d2-aadd-2863aa372e9d" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="2" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="52"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Transport Company|5||"/>
+		</entity>
+
+		<entity chassis="Sherpa Armored Truck" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a77da9cf-b67d-49cf-94fa-015d054e6ca0">
+			<pilot size="3" name="Si-ben-bing Wan-Ka Zhou" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="afb30208-3b3a-495b-8d72-bde8a1675021" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="2" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="53"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Transport Company|5||"/>
+		</entity>
+
+		<entity chassis="Sherpa Armored Truck" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="26032619-a3bd-403b-8a3a-1a8835786fb4">
+			<pilot size="3" name="Si-ben-bing Brian Ware" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="15066c0b-6626-4d56-a285-6af2636e1529" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="2" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="54"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Transport Company|5||"/>
+		</entity>
+
+		<entity chassis="Sherpa Armored Truck" model="(MASH)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="7602e64b-47ed-4dc1-b1ac-20d39b5dfc37">
+			<pilot size="3" name="Si-ben-bing Lee tai hoi Thuc" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="cb754c57-a7d2-473a-8a20-3e79c977f624" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="2" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="55"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Transport Company|5||"/>
+		</entity>
+
+		<entity chassis="Sherpa Armored Truck" model="(MASH)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a050ce8d-fd13-4856-b0da-81e1adbfce8a">
+			<pilot size="3" name="Si-ben-bing Angelina Cartellieri" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="70976f35-cc5f-4316-9e93-9ce79e82c7eb" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="2" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="56"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Transport Company|5||"/>
+		</entity>
+
+		<entity chassis="Mechanized Tracked Platoon" model="(MG)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a810d113-2cea-435e-89a7-54ac98255625">
+			<pilot size="1" name="Sao-wei Dusan Bajic" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="8" externalId="c542a01d-71e0-4fc1-b775-7b448835398a" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="57"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Mechanised Infantry Battalion|4||Alpha Company|15||"/>
+		</entity>
+
+		<entity chassis="Mechanized Tracked Platoon" model="(MG)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="fdfdd6b0-048a-404b-b28e-67be126686b9">
+			<pilot size="1" name="Si-ben-bing Yin-reng Dinh" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="8" externalId="d369e34e-46af-43c7-8890-65d80e4135f2" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="58"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Mechanised Infantry Battalion|4||Alpha Company|15||"/>
+		</entity>
+
+		<entity chassis="Mechanized Tracked Platoon" model="(MG)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="2c06a7e9-9e0b-4baf-b2e5-cb760324eb14">
+			<pilot size="1" name="Si-ben-bing Enrichetta Ardito" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="8" externalId="93646e01-8e8b-4ece-8279-b21b9cc304e9" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="59"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Mechanised Infantry Battalion|4||Alpha Company|15||"/>
+		</entity>
+
+		<entity chassis="Mechanized Tracked Platoon" model="(SRM)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="316d72d1-20ac-4bbe-9e7a-4cb32e3c8c2c">
+			<pilot size="1" name="Sao-wei Cameron Chioke" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="8" externalId="e02aa454-5779-4773-84bc-0d2a8d5a905b" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="61"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Mechanised Infantry Battalion|4||Bravo Company|16||"/>
+		</entity>
+
+		<entity chassis="Mechanized Tracked Platoon" model="(SRM)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="3f3ca220-905a-4f57-b79d-c7839a828ee7">
+			<pilot size="1" name="Si-ben-bing Anurati Bonjani" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="8" externalId="4e16d08b-77e2-4d1a-8531-c4506e3cdc71" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="62"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Mechanised Infantry Battalion|4||Bravo Company|16||"/>
+		</entity>
+
+		<entity chassis="Mechanized Tracked Platoon" model="(SRM)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a4af711d-17b4-4d77-bc9f-d6a84e3a052d">
+			<pilot size="1" name="Si-ben-bing Hee-Liat Watkinson" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="8" externalId="7c1009be-27b3-4a36-a5f4-758866861035" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="63"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Mechanised Infantry Battalion|4||Bravo Company|16||"/>
+		</entity>
+
+		<entity chassis="Field Gunners" model="(AC10)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="1219aff7-a0b0-49a8-bd2e-a0743bd395be">
+			<pilot size="1" name="Sao-wei Ibarra Liriano" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="8" externalId="c5ec21e4-cc1c-497f-8059-18ae0d3ec3a0" ejected="false"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+				<slot index="2" type="IS Ammo AC/10" shots="10"/>
+				<slot index="4" type="IS Ammo AC/10" shots="10"/>
+			</location>
+			<Game id="65"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Mechanised Infantry Battalion|4||Charlie Company|17||"/>
+		</entity>
+
+		<entity chassis="Field Gunners" model="(AC10)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="4599ef2a-3e70-449e-8dea-6e2ff02bd63c">
+			<pilot size="1" name="Si-ben-bing SiuHay Reiler" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="8" externalId="6abe0ee7-b885-4b86-a234-26d84e9563f7" ejected="false"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+				<slot index="2" type="IS Ammo AC/10" shots="10"/>
+				<slot index="4" type="IS Ammo AC/10" shots="10"/>
+			</location>
+			<Game id="66"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Mechanised Infantry Battalion|4||Charlie Company|17||"/>
+		</entity>
+
+		<entity chassis="Field Gunners" model="(AC10)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="37dfa28d-72f7-42d2-b2ba-e34f54e5be66">
+			<pilot size="1" name="Si-ben-bing Xiao-gang Zhong" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="8" externalId="804b9e77-e8d6-481f-8fbf-c7307617d0ca" ejected="false"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+				<slot index="2" type="IS Ammo AC/10" shots="10"/>
+				<slot index="4" type="IS Ammo AC/10" shots="10"/>
+			</location>
+			<Game id="67"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Mechanised Infantry Battalion|4||Charlie Company|17||"/>
+		</entity>
+
+		<entity chassis="Mechanized Tracked Platoon" model="(Rifle)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e6778faa-d0bf-45b3-8403-8f942b79ca76">
+			<pilot size="1" name="Sang-wei Eleanor Safwani" nick="" gender="FEMALE" clanperson="false" gunnery="2" piloting="8" externalId="344bf75d-ba32-4fa0-a39d-eb5797f7edb7" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="69"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Mechanised Infantry Battalion|4||HQ Command Company|19||"/>
+		</entity>
+
+		<entity chassis="Mechanized Tracked Platoon" model="(Rifle)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="ac8c3026-144a-4763-982b-74cc76b30700">
+			<pilot size="1" name="Si-ben-bing Errol Blanchard" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="8" externalId="01e7d1e7-142f-40fd-9442-9f35523c2fe8" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="70"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Mechanised Infantry Battalion|4||HQ Command Company|19||"/>
+		</entity>
+
+		<entity chassis="Mechanized Tracked Platoon" model="(Rifle)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="619c4546-bee3-4232-812b-d3f64ab9a06e">
+			<pilot size="1" name="Si-ben-bing Theodora Demas" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="8" externalId="be73064a-800e-4def-a15f-07f22e68fda1" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="71"/>
+			<Force force="Prix Planetary Militia 2nd Battalion|0||Mechanised Infantry Battalion|4||HQ Command Company|19||"/>
+		</entity>
+
+</unit>

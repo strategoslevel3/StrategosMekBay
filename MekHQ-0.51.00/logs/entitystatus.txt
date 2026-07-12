@@ -1,0 +1,345 @@
+++++++++++ Strategos ++++++++++
+=============================================================
+Model: Fortress - (2613)
+Commander: Linda Oike (4/4)
+--- Armor: 796/796-------------------------------------------
+--- Internal: 0/0----------------------------------------
+-------------------------------------------------------------
+AC/5 Ammo: 40
+Long Tom Ammo: 125
+LRM 20 Ammo: 36
+AC/20 Ammo: 15
+AC/5 Ammo: 20
+LRM 10 Ammo: 24
+SRM 6 Ammo: 30
+LRM 20 Ammo: 36
+AC/20 Ammo: 15
+AC/5 Ammo: 20
+LRM 10 Ammo: 24
+SRM 6 Ammo: 30
+AC/5 Ammo: 20
+=============================================================
+=============================================================
+Model: Griffin - GRF-1N
+Pilot: Jimmy Eirikh (4/5)
+--- Armor: 152/152-------------------------------------------
+--- Internal: 91/91----------------------------------------
+         FRONT                REAR                INTERNAL
+         ( 9)                 (**)                  ( 3)
+      /20|20|20\           / 6| 7| 6\            /13|18|13\
+     (14/ || \14)         (   |  |   )          ( 9/ || \ 9)
+       /  /\  \               /  \                /  /\  \
+      (18/  \18)             /    \              (13/  \13)
+
+-------------------------------------------------------------
+Head        : Life Support,Sensors,Standard Cockpit,Sensors,Life Support
+Center Torso: Engine,Engine,Engine,Standard Gyro,Standard Gyro,Standard Gyro
+              Standard Gyro,Engine,Engine,Engine,Heat Sink,Jump Jet
+Right Torso : Jump Jet,Jump Jet,LRM 10,LRM 10,LRM 10 Ammo (12),LRM 10 Ammo (12)
+Left Torso  : Jump Jet,Jump Jet
+Right Arm   : Shoulder,Upper Arm,Lower Arm,Hand,PPC,PPC
+              PPC
+Left Arm    : Shoulder,Upper Arm,Lower Arm,Hand
+Right Leg   : Hip,Upper Leg,Lower Leg,Foot
+Left Leg    : Hip,Upper Leg,Lower Leg,Foot
+-------------------------------------------------------------
+LRM 10 Ammo: 12
+LRM 10 Ammo: 12
+=============================================================
+=============================================================
+Model: Griffin - GRF-1N
+Pilot: Arthur Wilder (4/6)
+--- Armor: 152/152-------------------------------------------
+--- Internal: 91/91----------------------------------------
+         FRONT                REAR                INTERNAL
+         ( 9)                 (**)                  ( 3)
+      /20|20|20\           / 6| 7| 6\            /13|18|13\
+     (14/ || \14)         (   |  |   )          ( 9/ || \ 9)
+       /  /\  \               /  \                /  /\  \
+      (18/  \18)             /    \              (13/  \13)
+
+-------------------------------------------------------------
+Head        : Life Support,Sensors,Standard Cockpit,Sensors,Life Support
+Center Torso: Engine,Engine,Engine,Standard Gyro,Standard Gyro,Standard Gyro
+              Standard Gyro,Engine,Engine,Engine,Heat Sink,Jump Jet
+Right Torso : Jump Jet,Jump Jet,LRM 10,LRM 10,LRM 10 Ammo (12),LRM 10 Ammo (12)
+Left Torso  : Jump Jet,Jump Jet
+Right Arm   : Shoulder,Upper Arm,Lower Arm,Hand,PPC,PPC
+              PPC
+Left Arm    : Shoulder,Upper Arm,Lower Arm,Hand
+Right Leg   : Hip,Upper Leg,Lower Leg,Foot
+Left Leg    : Hip,Upper Leg,Lower Leg,Foot
+-------------------------------------------------------------
+LRM 10 Ammo: 12
+LRM 10 Ammo: 12
+=============================================================
+=============================================================
+Model: Griffin - GRF-1N
+Pilot: Celina Minir (3/6)
+--- Armor: 152/152-------------------------------------------
+--- Internal: 91/91----------------------------------------
+         FRONT                REAR                INTERNAL
+         ( 9)                 (**)                  ( 3)
+      /20|20|20\           / 6| 7| 6\            /13|18|13\
+     (14/ || \14)         (   |  |   )          ( 9/ || \ 9)
+       /  /\  \               /  \                /  /\  \
+      (18/  \18)             /    \              (13/  \13)
+
+-------------------------------------------------------------
+Head        : Life Support,Sensors,Standard Cockpit,Sensors,Life Support
+Center Torso: Engine,Engine,Engine,Standard Gyro,Standard Gyro,Standard Gyro
+              Standard Gyro,Engine,Engine,Engine,Heat Sink,Jump Jet
+Right Torso : Jump Jet,Jump Jet,LRM 10,LRM 10,LRM 10 Ammo (12),LRM 10 Ammo (12)
+Left Torso  : Jump Jet,Jump Jet
+Right Arm   : Shoulder,Upper Arm,Lower Arm,Hand,PPC,PPC
+              PPC
+Left Arm    : Shoulder,Upper Arm,Lower Arm,Hand
+Right Leg   : Hip,Upper Leg,Lower Leg,Foot
+Left Leg    : Hip,Upper Leg,Lower Leg,Foot
+-------------------------------------------------------------
+LRM 10 Ammo: 12
+LRM 10 Ammo: 12
+=============================================================
+=============================================================
+Model: Griffin - GRF-1N
+Pilot: Opal Papasotiriou (4/5)
+--- Armor: 152/152-------------------------------------------
+--- Internal: 91/91----------------------------------------
+         FRONT                REAR                INTERNAL
+         ( 9)                 (**)                  ( 3)
+      /20|20|20\           / 6| 7| 6\            /13|18|13\
+     (14/ || \14)         (   |  |   )          ( 9/ || \ 9)
+       /  /\  \               /  \                /  /\  \
+      (18/  \18)             /    \              (13/  \13)
+
+-------------------------------------------------------------
+Head        : Life Support,Sensors,Standard Cockpit,Sensors,Life Support
+Center Torso: Engine,Engine,Engine,Standard Gyro,Standard Gyro,Standard Gyro
+              Standard Gyro,Engine,Engine,Engine,Heat Sink,Jump Jet
+Right Torso : Jump Jet,Jump Jet,LRM 10,LRM 10,LRM 10 Ammo (12),LRM 10 Ammo (12)
+Left Torso  : Jump Jet,Jump Jet
+Right Arm   : Shoulder,Upper Arm,Lower Arm,Hand,PPC,PPC
+              PPC
+Left Arm    : Shoulder,Upper Arm,Lower Arm,Hand
+Right Leg   : Hip,Upper Leg,Lower Leg,Foot
+Left Leg    : Hip,Upper Leg,Lower Leg,Foot
+-------------------------------------------------------------
+LRM 10 Ammo: 12
+LRM 10 Ammo: 12
+=============================================================
+=============================================================
+Model: Griffin - GRF-1N
+Pilot: Robbie Henley (3/6)
+--- Armor: 152/152-------------------------------------------
+--- Internal: 91/91----------------------------------------
+         FRONT                REAR                INTERNAL
+         ( 9)                 (**)                  ( 3)
+      /20|20|20\           / 6| 7| 6\            /13|18|13\
+     (14/ || \14)         (   |  |   )          ( 9/ || \ 9)
+       /  /\  \               /  \                /  /\  \
+      (18/  \18)             /    \              (13/  \13)
+
+-------------------------------------------------------------
+Head        : Life Support,Sensors,Standard Cockpit,Sensors,Life Support
+Center Torso: Engine,Engine,Engine,Standard Gyro,Standard Gyro,Standard Gyro
+              Standard Gyro,Engine,Engine,Engine,Heat Sink,Jump Jet
+Right Torso : Jump Jet,Jump Jet,LRM 10,LRM 10,LRM 10 Ammo (12),LRM 10 Ammo (12)
+Left Torso  : Jump Jet,Jump Jet
+Right Arm   : Shoulder,Upper Arm,Lower Arm,Hand,PPC,PPC
+              PPC
+Left Arm    : Shoulder,Upper Arm,Lower Arm,Hand
+Right Leg   : Hip,Upper Leg,Lower Leg,Foot
+Left Leg    : Hip,Upper Leg,Lower Leg,Foot
+-------------------------------------------------------------
+LRM 10 Ammo: 12
+LRM 10 Ammo: 12
+=============================================================
+=============================================================
+Model: Griffin - GRF-1N
+Pilot: Harley Abdul-Alim (3/6)
+--- Armor: 152/152-------------------------------------------
+--- Internal: 91/91----------------------------------------
+         FRONT                REAR                INTERNAL
+         ( 9)                 (**)                  ( 3)
+      /20|20|20\           / 6| 7| 6\            /13|18|13\
+     (14/ || \14)         (   |  |   )          ( 9/ || \ 9)
+       /  /\  \               /  \                /  /\  \
+      (18/  \18)             /    \              (13/  \13)
+
+-------------------------------------------------------------
+Head        : Life Support,Sensors,Standard Cockpit,Sensors,Life Support
+Center Torso: Engine,Engine,Engine,Standard Gyro,Standard Gyro,Standard Gyro
+              Standard Gyro,Engine,Engine,Engine,Heat Sink,Jump Jet
+Right Torso : Jump Jet,Jump Jet,LRM 10,LRM 10,LRM 10 Ammo (12),LRM 10 Ammo (12)
+Left Torso  : Jump Jet,Jump Jet
+Right Arm   : Shoulder,Upper Arm,Lower Arm,Hand,PPC,PPC
+              PPC
+Left Arm    : Shoulder,Upper Arm,Lower Arm,Hand
+Right Leg   : Hip,Upper Leg,Lower Leg,Foot
+Left Leg    : Hip,Upper Leg,Lower Leg,Foot
+-------------------------------------------------------------
+LRM 10 Ammo: 12
+LRM 10 Ammo: 12
+=============================================================
+=============================================================
+Model: Griffin - GRF-1N
+Pilot: Zarita Villegas (4/4)
+--- Armor: 152/152-------------------------------------------
+--- Internal: 91/91----------------------------------------
+         FRONT                REAR                INTERNAL
+         ( 9)                 (**)                  ( 3)
+      /20|20|20\           / 6| 7| 6\            /13|18|13\
+     (14/ || \14)         (   |  |   )          ( 9/ || \ 9)
+       /  /\  \               /  \                /  /\  \
+      (18/  \18)             /    \              (13/  \13)
+
+-------------------------------------------------------------
+Head        : Life Support,Sensors,Standard Cockpit,Sensors,Life Support
+Center Torso: Engine,Engine,Engine,Standard Gyro,Standard Gyro,Standard Gyro
+              Standard Gyro,Engine,Engine,Engine,Heat Sink,Jump Jet
+Right Torso : Jump Jet,Jump Jet,LRM 10,LRM 10,LRM 10 Ammo (12),LRM 10 Ammo (12)
+Left Torso  : Jump Jet,Jump Jet
+Right Arm   : Shoulder,Upper Arm,Lower Arm,Hand,PPC,PPC
+              PPC
+Left Arm    : Shoulder,Upper Arm,Lower Arm,Hand
+Right Leg   : Hip,Upper Leg,Lower Leg,Foot
+Left Leg    : Hip,Upper Leg,Lower Leg,Foot
+-------------------------------------------------------------
+LRM 10 Ammo: 12
+LRM 10 Ammo: 12
+=============================================================
+=============================================================
+Model: Griffin - GRF-1N
+Pilot: Guus Hoegh (4/4)
+--- Armor: 152/152-------------------------------------------
+--- Internal: 91/91----------------------------------------
+         FRONT                REAR                INTERNAL
+         ( 9)                 (**)                  ( 3)
+      /20|20|20\           / 6| 7| 6\            /13|18|13\
+     (14/ || \14)         (   |  |   )          ( 9/ || \ 9)
+       /  /\  \               /  \                /  /\  \
+      (18/  \18)             /    \              (13/  \13)
+
+-------------------------------------------------------------
+Head        : Life Support,Sensors,Standard Cockpit,Sensors,Life Support
+Center Torso: Engine,Engine,Engine,Standard Gyro,Standard Gyro,Standard Gyro
+              Standard Gyro,Engine,Engine,Engine,Heat Sink,Jump Jet
+Right Torso : Jump Jet,Jump Jet,LRM 10,LRM 10,LRM 10 Ammo (12),LRM 10 Ammo (12)
+Left Torso  : Jump Jet,Jump Jet
+Right Arm   : Shoulder,Upper Arm,Lower Arm,Hand,PPC,PPC
+              PPC
+Left Arm    : Shoulder,Upper Arm,Lower Arm,Hand
+Right Leg   : Hip,Upper Leg,Lower Leg,Foot
+Left Leg    : Hip,Upper Leg,Lower Leg,Foot
+-------------------------------------------------------------
+LRM 10 Ammo: 12
+LRM 10 Ammo: 12
+=============================================================
+=============================================================
+Model: Griffin - GRF-1N
+Pilot: Bikki Yoshida (4/6)
+--- Armor: 152/152-------------------------------------------
+--- Internal: 91/91----------------------------------------
+         FRONT                REAR                INTERNAL
+         ( 9)                 (**)                  ( 3)
+      /20|20|20\           / 6| 7| 6\            /13|18|13\
+     (14/ || \14)         (   |  |   )          ( 9/ || \ 9)
+       /  /\  \               /  \                /  /\  \
+      (18/  \18)             /    \              (13/  \13)
+
+-------------------------------------------------------------
+Head        : Life Support,Sensors,Standard Cockpit,Sensors,Life Support
+Center Torso: Engine,Engine,Engine,Standard Gyro,Standard Gyro,Standard Gyro
+              Standard Gyro,Engine,Engine,Engine,Heat Sink,Jump Jet
+Right Torso : Jump Jet,Jump Jet,LRM 10,LRM 10,LRM 10 Ammo (12),LRM 10 Ammo (12)
+Left Torso  : Jump Jet,Jump Jet
+Right Arm   : Shoulder,Upper Arm,Lower Arm,Hand,PPC,PPC
+              PPC
+Left Arm    : Shoulder,Upper Arm,Lower Arm,Hand
+Right Leg   : Hip,Upper Leg,Lower Leg,Foot
+Left Leg    : Hip,Upper Leg,Lower Leg,Foot
+-------------------------------------------------------------
+LRM 10 Ammo: 12
+LRM 10 Ammo: 12
+=============================================================
+=============================================================
+Model: Griffin - GRF-1N
+Pilot: Carmela Williams (4/4)
+--- Armor: 152/152-------------------------------------------
+--- Internal: 91/91----------------------------------------
+         FRONT                REAR                INTERNAL
+         ( 9)                 (**)                  ( 3)
+      /20|20|20\           / 6| 7| 6\            /13|18|13\
+     (14/ || \14)         (   |  |   )          ( 9/ || \ 9)
+       /  /\  \               /  \                /  /\  \
+      (18/  \18)             /    \              (13/  \13)
+
+-------------------------------------------------------------
+Head        : Life Support,Sensors,Standard Cockpit,Sensors,Life Support
+Center Torso: Engine,Engine,Engine,Standard Gyro,Standard Gyro,Standard Gyro
+              Standard Gyro,Engine,Engine,Engine,Heat Sink,Jump Jet
+Right Torso : Jump Jet,Jump Jet,LRM 10,LRM 10,LRM 10 Ammo (12),LRM 10 Ammo (12)
+Left Torso  : Jump Jet,Jump Jet
+Right Arm   : Shoulder,Upper Arm,Lower Arm,Hand,PPC,PPC
+              PPC
+Left Arm    : Shoulder,Upper Arm,Lower Arm,Hand
+Right Leg   : Hip,Upper Leg,Lower Leg,Foot
+Left Leg    : Hip,Upper Leg,Lower Leg,Foot
+-------------------------------------------------------------
+LRM 10 Ammo: 12
+LRM 10 Ammo: 12
+=============================================================
+=============================================================
+Model: Griffin - GRF-1N
+Pilot: Alicia Angrove (3/4)
+--- Armor: 152/152-------------------------------------------
+--- Internal: 91/91----------------------------------------
+         FRONT                REAR                INTERNAL
+         ( 9)                 (**)                  ( 3)
+      /20|20|20\           / 6| 7| 6\            /13|18|13\
+     (14/ || \14)         (   |  |   )          ( 9/ || \ 9)
+       /  /\  \               /  \                /  /\  \
+      (18/  \18)             /    \              (13/  \13)
+
+-------------------------------------------------------------
+Head        : Life Support,Sensors,Standard Cockpit,Sensors,Life Support
+Center Torso: Engine,Engine,Engine,Standard Gyro,Standard Gyro,Standard Gyro
+              Standard Gyro,Engine,Engine,Engine,Heat Sink,Jump Jet
+Right Torso : Jump Jet,Jump Jet,LRM 10,LRM 10,LRM 10 Ammo (12),LRM 10 Ammo (12)
+Left Torso  : Jump Jet,Jump Jet
+Right Arm   : Shoulder,Upper Arm,Lower Arm,Hand,PPC,PPC
+              PPC
+Left Arm    : Shoulder,Upper Arm,Lower Arm,Hand
+Right Leg   : Hip,Upper Leg,Lower Leg,Foot
+Left Leg    : Hip,Upper Leg,Lower Leg,Foot
+-------------------------------------------------------------
+LRM 10 Ammo: 12
+LRM 10 Ammo: 12
+=============================================================
+=============================================================
+Model: Griffin - GRF-1N
+Pilot: Lindsey Pilgrim (3/5)
+--- Armor: 152/152-------------------------------------------
+--- Internal: 91/91----------------------------------------
+         FRONT                REAR                INTERNAL
+         ( 9)                 (**)                  ( 3)
+      /20|20|20\           / 6| 7| 6\            /13|18|13\
+     (14/ || \14)         (   |  |   )          ( 9/ || \ 9)
+       /  /\  \               /  \                /  /\  \
+      (18/  \18)             /    \              (13/  \13)
+
+-------------------------------------------------------------
+Head        : Life Support,Sensors,Standard Cockpit,Sensors,Life Support
+Center Torso: Engine,Engine,Engine,Standard Gyro,Standard Gyro,Standard Gyro
+              Standard Gyro,Engine,Engine,Engine,Heat Sink,Jump Jet
+Right Torso : Jump Jet,Jump Jet,LRM 10,LRM 10,LRM 10 Ammo (12),LRM 10 Ammo (12)
+Left Torso  : Jump Jet,Jump Jet
+Right Arm   : Shoulder,Upper Arm,Lower Arm,Hand,PPC,PPC
+              PPC
+Left Arm    : Shoulder,Upper Arm,Lower Arm,Hand
+Right Leg   : Hip,Upper Leg,Lower Leg,Foot
+Left Leg    : Hip,Upper Leg,Lower Leg,Foot
+-------------------------------------------------------------
+LRM 10 Ammo: 12
+LRM 10 Ammo: 12
+=============================================================

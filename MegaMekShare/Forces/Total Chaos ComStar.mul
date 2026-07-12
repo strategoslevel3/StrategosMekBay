@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.49.19.1" >
+
+		<entity chassis="Mercury" model="MCY-104" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="68894d3e-1a5d-4d04-b40d-d006861ccb9e" c3UUID="3fd0ce29-8517-4fa9-814d-02bf90f88261">
+			<pilot size="1" name="Adept Melaku Kristo" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="47d32aca-9aa0-45f1-b35e-9a4fed245cf9" ejected="false" autoeject="true"/>
+			<c3iset>
+			<c3i_link link="3fd0ce29-8517-4fa9-814d-02bf90f88261"/>
+			<c3i_link link="fca88c16-4295-4905-bc6c-22d7be533697"/>
+			<c3i_link link="fe99615d-cabe-4a78-9612-5ad9eebc24c3"/>
+			<c3i_link link="2dc1f327-6ac5-4a7c-a66f-77407a7c1708"/>
+			<c3i_link link="b3d7299e-a6c3-4d41-808f-1b8b169eb97f"/>
+			<c3i_link link="d946f2af-183a-484f-a784-bec6f0400fb7"/>
+			</c3iset>
+			<Game id="1"/>
+		</entity>
+
+		<entity chassis="Ostscout" model="OTT-9CS" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="b888f78e-a439-4a45-a2ca-bf78b4e93c80" c3UUID="fca88c16-4295-4905-bc6c-22d7be533697">
+			<pilot size="1" name="Adept Zakiyya Muraya" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="412265d9-3b84-443d-aaca-31fa7fa091e4" ejected="false" autoeject="true"/>
+			<c3iset>
+			<c3i_link link="3fd0ce29-8517-4fa9-814d-02bf90f88261"/>
+			<c3i_link link="fca88c16-4295-4905-bc6c-22d7be533697"/>
+			<c3i_link link="fe99615d-cabe-4a78-9612-5ad9eebc24c3"/>
+			<c3i_link link="2dc1f327-6ac5-4a7c-a66f-77407a7c1708"/>
+			<c3i_link link="b3d7299e-a6c3-4d41-808f-1b8b169eb97f"/>
+			<c3i_link link="d946f2af-183a-484f-a784-bec6f0400fb7"/>
+			</c3iset>
+			<Game id="2"/>
+		</entity>
+
+		<entity chassis="Wasp" model="WSP-3L" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="903d658e-4f98-4c8a-b8ee-171c621fc3ab">
+			<pilot size="1" name="Adept Vicente Hernández" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="ead67b51-dbe9-492b-8242-1eec859430dc" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="5" type="RL10" munition="IS Ammo RL-10" isDestroyed="false"/>
+			</location>
+			<Game id="3"/>
+		</entity>
+
+		<entity chassis="Shadow Hawk" model="SHD-11CS" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a4c7611a-ee6c-4c52-9138-b5912ecc1b42" c3UUID="fe99615d-cabe-4a78-9612-5ad9eebc24c3">
+			<pilot size="1" name="Adept Consola Bruno" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" externalId="9c0f92ca-5817-481a-a170-ac2df0e7d925" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="9" type="IS Ammo LRM-15 Artemis-capable" shots="8"/>
+				<slot index="10" type="IS Ammo LRM-15 Artemis-capable" shots="8"/>
+			</location>
+			<c3iset>
+			<c3i_link link="3fd0ce29-8517-4fa9-814d-02bf90f88261"/>
+			<c3i_link link="fca88c16-4295-4905-bc6c-22d7be533697"/>
+			<c3i_link link="fe99615d-cabe-4a78-9612-5ad9eebc24c3"/>
+			<c3i_link link="2dc1f327-6ac5-4a7c-a66f-77407a7c1708"/>
+			<c3i_link link="b3d7299e-a6c3-4d41-808f-1b8b169eb97f"/>
+			<c3i_link link="d946f2af-183a-484f-a784-bec6f0400fb7"/>
+			</c3iset>
+			<Game id="4"/>
+		</entity>
+
+		<entity chassis="Griffin" model="GRF-6CS" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="ce50b87a-d42c-4158-8e58-cb9f3f7ed1b8" c3UUID="2dc1f327-6ac5-4a7c-a66f-77407a7c1708">
+			<pilot size="1" name="Adept Virginia Vincent" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" externalId="1ae0c527-16b2-4d5f-977d-4836b5c7741a" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="10" type="IS Ammo LRM-15 Artemis-capable" shots="8"/>
+				<slot index="11" type="IS Ammo LRM-15 Artemis-capable" shots="8"/>
+			</location>
+			<c3iset>
+			<c3i_link link="3fd0ce29-8517-4fa9-814d-02bf90f88261"/>
+			<c3i_link link="fca88c16-4295-4905-bc6c-22d7be533697"/>
+			<c3i_link link="fe99615d-cabe-4a78-9612-5ad9eebc24c3"/>
+			<c3i_link link="2dc1f327-6ac5-4a7c-a66f-77407a7c1708"/>
+			<c3i_link link="b3d7299e-a6c3-4d41-808f-1b8b169eb97f"/>
+			<c3i_link link="d946f2af-183a-484f-a784-bec6f0400fb7"/>
+			</c3iset>
+			<Game id="5"/>
+		</entity>
+
+		<entity chassis="Exterminator" model="EXT-5E" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="18960ece-1b67-46ef-99ec-bc8aa2ff3f9d" c3UUID="b3d7299e-a6c3-4d41-808f-1b8b169eb97f">
+			<pilot size="1" name="Adept Clement Tommasini" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" externalId="53220d8a-4351-4513-b85c-c25f5db8479e" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="4" type="ISiNarc ECM Pods" shots="4"/>
+				<slot index="5" type="ISiNarc Haywire Pods" shots="4"/>
+				<slot index="6" type="ISiNarc Explosive Pods" shots="4"/>
+				<slot index="7" type="ISiNarc Explosive Pods" shots="4"/>
+			</location>
+			<c3iset>
+			<c3i_link link="3fd0ce29-8517-4fa9-814d-02bf90f88261"/>
+			<c3i_link link="fca88c16-4295-4905-bc6c-22d7be533697"/>
+			<c3i_link link="fe99615d-cabe-4a78-9612-5ad9eebc24c3"/>
+			<c3i_link link="2dc1f327-6ac5-4a7c-a66f-77407a7c1708"/>
+			<c3i_link link="b3d7299e-a6c3-4d41-808f-1b8b169eb97f"/>
+			<c3i_link link="d946f2af-183a-484f-a784-bec6f0400fb7"/>
+			</c3iset>
+			<Game id="6"/>
+		</entity>
+
+		<entity chassis="Locust" model="LCT-3V" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="0271552b-50ee-40d6-a132-9d92ff590301">
+			<pilot size="1" name="Adept Leo Murakami" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="346e69b0-4822-46ac-ade4-3ac3d0cdab3e" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<location index="4"> Right Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<Game id="7"/>
+		</entity>
+
+		<entity chassis="King Crab" model="KGC-008" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="91328a34-c8a5-46a9-ae83-ecdb3921edac" c3UUID="d946f2af-183a-484f-a784-bec6f0400fb7">
+			<pilot size="1" name="Precentor Zarah Benítez" nick="" gender="FEMALE" clanperson="false" gunnery="2" piloting="2" externalId="ab6e1c0a-a446-4d10-9463-fa30cc0ea992" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="5" type="IS Precision Ammo LAC/2" shots="22"/>
+			</location>
+			<c3iset>
+			<c3i_link link="3fd0ce29-8517-4fa9-814d-02bf90f88261"/>
+			<c3i_link link="fca88c16-4295-4905-bc6c-22d7be533697"/>
+			<c3i_link link="fe99615d-cabe-4a78-9612-5ad9eebc24c3"/>
+			<c3i_link link="2dc1f327-6ac5-4a7c-a66f-77407a7c1708"/>
+			<c3i_link link="b3d7299e-a6c3-4d41-808f-1b8b169eb97f"/>
+			<c3i_link link="d946f2af-183a-484f-a784-bec6f0400fb7"/>
+			</c3iset>
+			<Game id="8"/>
+		</entity>
+
+		<entity chassis="Blizzard Hover Transport" model="(SRM)" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="28cb1da9-8541-463c-b6cb-493f8e45b5b4">
+			<pilot size="2" name="Adept Jace Theodorakis" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="1b3101fb-ed7d-474b-a36c-e40ce2088aeb" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2 Inferno" shots="50"/>
+			</location>
+			<Game id="9"/>
+		</entity>
+
+		<entity chassis="Blizzard Hover Transport" model="(SRM)" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="4060c0a1-513e-4d2d-b377-63ed2bd7a0af">
+			<pilot size="2" name="Adept Hanoona bin Ghalib" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="6" externalId="12eede9e-2e3f-465a-927a-aff342bf0364" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2 Inferno" shots="50"/>
+			</location>
+			<Game id="10"/>
+		</entity>
+
+		<entity chassis="Achileus Light Battle Armor" model="[MG](Sqd6)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="6fcb7962-f70d-41e4-8ad3-6bd70bda9e95">
+			<pilot size="6" name="Seong-Yoon Pak" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="6c59158b-0987-419c-a78c-e24ab2bfdb44" ejected="false"/>
+			<antiPersonnelMount baAPMMountNum="2" baAPMTypeName="InfantryAssaultRifle" />
+			<Game id="11"/>
+		</entity>
+
+		<entity chassis="Achileus Light Battle Armor" model="[MG](Sqd6)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="7feff28c-0a89-4eaa-9cd8-c813f43358c7">
+			<pilot size="6" name="Vuk Kim" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="5" externalId="2e004bbc-058a-4dac-bfef-8013eb773c49" ejected="false"/>
+			<antiPersonnelMount baAPMMountNum="2" baAPMTypeName="InfantryAssaultRifle" />
+			<Game id="12"/>
+		</entity>
+
+</unit>

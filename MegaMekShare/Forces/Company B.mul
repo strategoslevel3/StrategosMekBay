@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.49.19.1" >
+
+		<entity chassis="Grand Dragon" model="DRG-5K-DC" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="765233b8-85e5-4513-b9e5-70a67b2ebf43">
+			<crew crewType="command_console" ejected="false" autoeject="false">
+				<crewMember slot="0" name="Captain Reece MacCombie" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="3" externalId="097f2cea-7405-42e0-af1b-7b54853bc76d"/>
+				<crewMember slot="1" name="Jhanda Jat" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="cf03afc6-a7f2-410a-84ee-dea01e472237"/>
+			</crew>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="5" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="6" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="8"/>
+		</entity>
+
+		<entity chassis="Puma (Adder)" model="C" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="65f58046-7a1c-4add-a82f-ef0a217ab1a2">
+			<pilot size="1" name="Sg. Farha Jat" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="6" externalId="3aa7c831-afd1-4d35-b3a8-7f5eaec6231f" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="6" type="ISNarc Pods" shots="6"/>
+			</location>
+			<location index="4"> Right Arm
+				<slot index="7" type="Clan Ammo LRM-15 (Clan) Narc-capable" shots="8"/>
+				<slot index="8" type="Clan Ammo LRM-15 (Clan) Narc-capable" shots="8"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="6" type="Clan Ammo LRM-15 (Clan) Narc-capable" shots="8"/>
+				<slot index="7" type="Clan Ammo LRM-15 (Clan) Narc-capable" shots="8"/>
+			</location>
+			<Game id="9"/>
+		</entity>
+
+		<entity chassis="Puma (Adder)" model="C" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="96fe956b-574e-48d8-8b25-415624665c93">
+			<pilot size="1" name="Sg. Samantha Woods" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="6" externalId="a42cf56c-784f-4a8f-a4a0-e48d632bfd02" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="6" type="ISNarc Pods" shots="6"/>
+			</location>
+			<location index="4"> Right Arm
+				<slot index="7" type="Clan Ammo LRM-15 (Clan) Narc-capable" shots="8"/>
+				<slot index="8" type="Clan Ammo LRM-15 (Clan) Narc-capable" shots="8"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="6" type="Clan Ammo LRM-15 (Clan) Narc-capable" shots="8"/>
+				<slot index="7" type="Clan Ammo LRM-15 (Clan) Narc-capable" shots="8"/>
+			</location>
+			<Game id="10"/>
+		</entity>
+
+		<entity chassis="Black Hawk (Nova)" model="S" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="66ff3493-e105-4fe5-b668-83bdb9bfb673">
+			<pilot size="1" name="Lt. Knaval Umrani" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="9d0cd47b-1eea-40a5-988e-5e97147858cf" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="9" type="CLAMS Ammo" shots="24"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="9" type="Clan Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="12"/>
+		</entity>
+
+		<entity chassis="Black Hawk (Nova)" model="S" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="58a3f01b-84f2-4a9e-9cd2-2c0aa4c2cdae">
+			<pilot size="1" name="Sg. Lewis Paviour" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="9b8fc0c3-729c-41a3-a0ff-bd9a92cd3ff2" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="9" type="CLAMS Ammo" shots="24"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="9" type="Clan Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="13"/>
+		</entity>
+
+		<entity chassis="Phoenix Hawk" model="PXH-1c (Special)" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="8febf978-c981-4ccc-a388-e5bd05efe54c">
+			<pilot size="1" name="Sg. Branka Merklein" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="8d0e8d6a-8022-46d0-875e-87ce421d0019" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="7" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="14"/>
+		</entity>
+
+		<entity chassis="Wraith" model="TR1" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="0c3d300b-d042-4bac-a2ed-60883b2394bb">
+			<pilot size="1" name="Sg. Bedric Barta" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="2f594615-1ab0-434d-a0c7-3c5b0923683c" ejected="false" autoeject="true"/>
+			<Game id="15"/>
+		</entity>
+
+		<entity chassis="Dragonfly (Viper)" model="Prime" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e574197a-6828-49ac-b18a-a76b986e1d3f">
+			<pilot size="1" name="Lt. Hans Abdul-Razzaq" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="5" externalId="a994820d-3d04-4e88-ab17-590aafd0d652" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="7" type="Clan Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="6" type="CLAMS Ammo" shots="24"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="6" type="Clan Ammo SRM-4" shots="25"/>
+			</location>
+			<Game id="16"/>
+		</entity>
+
+		<entity chassis="Dragonfly (Viper)" model="Prime" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="99331392-a33f-4ee2-962d-ff3e41ba6696">
+			<pilot size="1" name="Sg. Powell Nakagawa" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="5a27e9c5-6a09-4320-a278-f9100cff3d5e" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="7" type="Clan Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="6" type="CLAMS Ammo" shots="24"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="6" type="Clan Ammo SRM-4" shots="25"/>
+			</location>
+			<Game id="17"/>
+		</entity>
+
+		<entity chassis="Arctic Wolf" model="2" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="f76d20d9-4261-469f-9ab8-b5411320d883">
+			<pilot size="1" name="Sg. Jacki MacAsgill" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="27bf06d1-5ba5-4f41-86bd-a4333d049fb3" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="5" type="ISNarc Pods" shots="6"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="5" type="Clan Ammo SRM-6 (Clan) Narc-capable" shots="15"/>
+				<slot index="6" type="Clan Ammo SRM-6 (Clan) Narc-capable" shots="15"/>
+				<slot index="7" type="Clan Ammo SRM-6 (Clan) Narc-capable" shots="15"/>
+			</location>
+			<Game id="18"/>
+		</entity>
+
+		<entity chassis="Ostscout" model="OTT-9S" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="26f11f2a-e705-401b-9e8b-bf114fba8e3c">
+			<pilot size="1" name="Sg. Kalakuta Shadilya" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="8d513aa8-4ad0-4e46-86fb-36761d60f629" ejected="false" autoeject="true"/>
+			<Game id="20"/>
+		</entity>
+
+		<entity chassis="Seydlitz" model="SYD-Z2B" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="85ccaad3-9ff9-4621-8430-aca3203fad47">
+			<pilot size="1" name="Sg. Donnelly Paisley" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="aa5265f7-0834-4f3c-b849-39b06cef9f97" ejected="false"/>
+			<fuel left="400"/>
+			<bombs>
+				<bomb type="HEBomb" load="4" Internal="false"/>
+			</bombs>
+			<structural integrity="11"/>
+			<heat sinks="10"/>
+			<Game id="21"/>
+		</entity>
+
+		<entity chassis="Seydlitz" model="SYD-Z1" type="Aerodyne" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" velocity="0" altitude="5" externalId="d0269831-a441-48fd-a407-1a2c45ead6ab">
+			<pilot size="1" name="Lt. José Francisco" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="4" externalId="f54e2742-5cdc-47f9-9193-155fe781e928" ejected="false"/>
+			<fuel left="240"/>
+			<bombs>
+				<bomb type="HEBomb" load="4" Internal="false"/>
+			</bombs>
+			<structural integrity="11"/>
+			<heat sinks="10"/>
+			<Game id="22"/>
+		</entity>
+
+		<entity chassis="Ostscout" model="OTT-9S" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="9ae4fa1a-ec4c-4377-b3ba-7a7b0829fc94">
+			<pilot size="1" name="Sg. Giovonni Berthelot" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="001a29e4-74ae-4c95-8e69-56013c17ec23" ejected="false" autoeject="true"/>
+			<Game id="23"/>
+		</entity>
+
+</unit>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.49.19" >
+
+		<entity chassis="BattleMaster" model="C 3" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="7bb08ad4-c238-4c51-a091-d9f86a2483e8">
+			<pilot size="1" name="Lisa-Maria" nick="" gender="FEMALE" clanperson="true" gunnery="4" piloting="5" externalId="a46f8b26-01fb-49a5-a17a-b2d3df143f31" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="10" type="Clan Streak SRM 6 Ammo" shots="15"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="9" type="Clan Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="1"/>
+		</entity>
+
+		<entity chassis="Thunderbolt" model="TDR-10SE" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="61174ed5-c365-4a9e-a04c-55e7180d33ac">
+			<pilot size="1" name="Rajko Suárez" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="5" externalId="88b85e7d-fdcc-42b5-8f5e-62d64a5241a5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="9" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="2"/>
+		</entity>
+
+		<entity chassis="Shadow Hawk" model="SHD-6D" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="1813abae-5af9-4234-a24d-d6deed6816bd">
+			<pilot size="1" name="Ctirad Vakhnin" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="ae699a1e-7ae6-4495-8a76-dc3e4299e6d7" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="0"> Head
+				<slot index="4" type="ISStreakSRM2IOS" munition="IS Streak SRM 2 Ammo" isDestroyed="false"/>
+			</location>
+			<location index="2"> Right Torso
+				<slot index="6" type="IS Ammo MML-5 LRM" shots="24"/>
+				<slot index="7" type="IS Ammo MML-5 SRM" shots="20"/>
+			</location>
+			<Game id="3"/>
+		</entity>
+
+		<entity chassis="Locust" model="LCT-7V2" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="c7cbae3c-8b17-4610-ae80-c82583757283">
+			<pilot size="1" name="Hikaru Sakamoto" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="532b6d14-5d76-4828-add5-f0a9eca4c3d1" ejected="false" autoeject="true"/>
+			<Game id="4"/>
+		</entity>
+
+</unit>
