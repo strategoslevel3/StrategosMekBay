@@ -84,7 +84,7 @@
       "value" : "."
     }, {
       "element" : "campaignsDirectory",
-      "value" : "/Users/stuart/Documents/GitHub/StrategosMekBay/MegaMekShare/Morning Star/Manxiome Industries/Scenario 4 Defend Manxiome"
+      "value" : "/Users/stuart/Documents/GitHub/StrategosMekBay/MegaMekShare/Sabretooth/Manxiome Industries/Scenario 4 Defend Manxiome"
     }, {
       "element" : "planetsDirectory",
       "value" : "."
@@ -126,7 +126,7 @@
     "class" : "mekhq.gui.CampaignGUI",
     "elements" : [ {
       "element" : "mainWindow",
-      "value" : "2240|1230|96|30|false"
+      "value" : "2240|1230|152|41|false"
     } ]
   }, {
     "class" : "mekhq.gui.PersonnelTab",

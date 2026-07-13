@@ -1,4 +1,4 @@
-21:11:50,444 INFO  [megamek.MegaMek] {main}
+21:19:32,723 INFO  [megamek.MegaMek] {main}
 megamek.MegaMek.initializeLogging(MegaMek.java:195) - Starting MegaMek v0.51.00
     Build Date: 2026-06-06T11:16:58.662803800
     Today: 2026-07-13
@@ -13,37 +13,37 @@ megamek.MegaMek.initializeLogging(MegaMek.java:195) - Starting MegaMek v0.51.00
     MHQ Code Revision: e08a0129915bfd3efbec875a5827cced258c9125
 
 
-21:11:50,456 INFO  [megamek.client.ui.util.FontHandler] {main}
+21:19:32,734 INFO  [megamek.client.ui.util.FontHandler] {main}
 megamek.client.ui.util.FontHandler.initializeFonts(FontHandler.java:129) - Loading fonts from data/fonts/
 
-21:11:53,848 INFO  [megamek.client.ui.util.FontHandler] {main}
+21:19:34,014 INFO  [megamek.client.ui.util.FontHandler] {main}
 megamek.client.ui.util.FontHandler.initializeFonts(FontHandler.java:134) - Loading fonts from /Users/stuart/Documents/GitHub/StrategosMekBay/MegaMekShare
 
-21:11:54,028 INFO  [megamek.client.ui.util.FontHandler] {main}
+21:19:34,177 INFO  [megamek.client.ui.util.FontHandler] {main}
 megamek.client.ui.util.FontHandler.initializeFonts(FontHandler.java:138) - Loading fonts from Java's GraphicsEnvironment
 
-21:11:54,217 INFO  [megamek.client.ui.preferences.SuitePreferences] {AWT-EventQueue-0}
+21:19:34,337 INFO  [megamek.client.ui.preferences.SuitePreferences] {AWT-EventQueue-0}
 megamek.client.ui.preferences.SuitePreferences.loadFromFile(SuitePreferences.java:145) - Loading user preferences from: mmconf/mm.preferences
 
-21:11:54,247 INFO  [megamek.client.ui.preferences.SuitePreferences] {AWT-EventQueue-0}
+21:19:34,367 INFO  [megamek.client.ui.preferences.SuitePreferences] {AWT-EventQueue-0}
 megamek.client.ui.preferences.SuitePreferences.loadFromFile(SuitePreferences.java:145) - Loading user preferences from: mmconf/mml.preferences
 
-21:11:54,255 INFO  [megamek.client.ui.preferences.SuitePreferences] {AWT-EventQueue-0}
+21:19:34,375 INFO  [megamek.client.ui.preferences.SuitePreferences] {AWT-EventQueue-0}
 megamek.client.ui.preferences.SuitePreferences.loadFromFile(SuitePreferences.java:145) - Loading user preferences from: mmconf/mhq.preferences
 
-21:12:06,116 INFO  [megamek.common.universe.Factions2] {SwingWorker-pool-2-thread-1}
+21:20:09,849 INFO  [megamek.common.universe.Factions2] {SwingWorker-pool-2-thread-1}
 megamek.common.universe.Factions2.loadFactionsFromFile(Factions2.java:161) - Loading Faction and Command data...
 
-21:12:07,700 WARN  [megamek.common.universe.Factions2] {SwingWorker-pool-2-thread-1}
+21:20:10,564 WARN  [megamek.common.universe.Factions2] {SwingWorker-pool-2-thread-1}
 megamek.common.universe.Factions2.loadFactionsFromDirectory(Factions2.java:194) - Cannot load factions from /Users/stuart/Documents/GitHub/StrategosMekBay/MegaMekShare/data/universe/factions (directory not present or not a directory)
 
-21:12:07,715 WARN  [megamek.common.universe.Factions2] {SwingWorker-pool-2-thread-1}
+21:20:10,565 WARN  [megamek.common.universe.Factions2] {SwingWorker-pool-2-thread-1}
 megamek.common.universe.Factions2.loadFactionsFromDirectory(Factions2.java:194) - Cannot load factions from /Users/stuart/Documents/GitHub/StrategosMekBay/MegaMekShare/data/universe/commands (directory not present or not a directory)
 
-21:12:07,716 INFO  [megamek.common.universe.Factions2] {SwingWorker-pool-2-thread-1}
+21:20:10,565 INFO  [megamek.common.universe.Factions2] {SwingWorker-pool-2-thread-1}
 megamek.common.universe.Factions2.loadFactionsFromFile(Factions2.java:170) - Loaded a total of 415 factions and commands
 
-21:12:08,487 ERROR [megamek.common.loaders.MekFileParser] {Mek Cache Loader}
+21:20:11,837 ERROR [megamek.common.loaders.MekFileParser] {Mek Cache Loader}
 megamek.common.loaders.MekFileParser.<init>(MekFileParser.java:134) - 
 megamek.common.loaders.EntityLoadingException: Could not find name block.
 	at megamek.common.loaders.BLKFile.setBasicEntityData(BLKFile.java:121)
@@ -61,443 +61,287 @@ megamek.common.loaders.EntityLoadingException: Could not find name block.
 	at megamek.common.loaders.MekSummaryCache.lambda$startLoadLocked$0(MekSummaryCache.java:203)
 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
-21:12:10,636 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (SCC) not found.
-
-21:12:10,757 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (SCC) not found.
-
-21:12:10,818 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (Refit) not found.
-
-21:12:10,819 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (SCC) not found.
-
-21:12:10,924 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (Refit) not found.
-
-21:12:10,925 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (SCC) not found.
-
-21:12:11,012 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (Refit) not found.
-
-21:12:11,012 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (SCC) not found.
-
-21:12:11,084 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (Refit) not found.
-
-21:12:11,085 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (SCC) not found.
-
-21:12:11,441 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (Refit) not found.
-
-21:12:11,451 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (SCC) not found.
-
-21:12:11,526 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.loadEra(RATGenerator.java:1511) - Faction MalCon not found in data/forcegenerator/3150.xml
-
-21:12:11,526 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.loadEra(RATGenerator.java:1511) - Faction VSM not found in data/forcegenerator/3150.xml
-
-21:12:11,527 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See 'Astrolux' Staryacht[Small Craft].
-
-21:12:11,533 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (Refit) not found.
-
-21:12:11,534 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (SCC) not found.
-
-21:12:11,534 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Avanti Aerospace Airliner[Conventional Fighter].
-
-21:12:11,548 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Cardinal Transport[VTOL].
-
-21:12:11,559 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Coanda Personal Sports Craft[Tank].
-
-21:12:11,562 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Fensalir Combat WiGE[Tank].
-
-21:12:11,563 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1682) - VSM not a valid faction code in year 3150. See model Fensalir Combat WiGE.
-
-21:12:11,565 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1682) - VSM not a valid faction code in year 3150. See model Fensalir Combat WiGE (HAG).
-
-21:12:11,565 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1682) - VSM not a valid faction code in year 3150. See model Fensalir Combat WiGE (Infantry).
-
-21:12:11,565 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Ferret Light Scout VTOL[VTOL].
-
-21:12:11,594 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Jonah Submarine[Naval].
-
-21:12:11,594 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1682) - VSM not a valid faction code in year 3150. See model Jonah Submarine JN-002.
-
-21:12:11,596 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Karnov UR Transport[VTOL].
-
-21:12:11,603 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Pandion Combat WiGE[Tank].
-
-21:12:11,605 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Quicksilver Personal Sports Craft[Tank].
-
-21:12:11,606 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Raubvogel Aerobomber[Conventional Fighter].
-
-21:12:11,613 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Sturmvogel Gunship[Tank].
-
-21:12:11,613 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Sturmvogel Maritime Patrol WiGE[Tank].
-
-21:12:11,613 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Swallow Attack WIGE[Tank].
-
-21:12:11,613 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1682) - VSM not a valid faction code in year 3150. See model Swallow Attack WIGE.
-
-21:12:11,613 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1682) - VSM not a valid faction code in year 3150. See model Swallow Attack WIGE (Original).
-
-21:12:11,618 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Wurger Assault Craft[Small Craft].
-
-21:12:11,649 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.loadEra(RATGenerator.java:1511) - Faction MalCon not found in data/forcegenerator/3160.xml
-
-21:12:11,649 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.loadEra(RATGenerator.java:1511) - Faction VSM not found in data/forcegenerator/3160.xml
-
-21:12:11,650 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See 'Astrolux' Staryacht[Small Craft].
-
-21:12:11,652 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (Refit) not found.
-
-21:12:11,653 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (SCC) not found.
-
-21:12:11,654 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Avanti Aerospace Airliner[Conventional Fighter].
-
-21:12:11,661 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Cardinal Transport[VTOL].
-
-21:12:11,663 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Coanda Personal Sports Craft[Tank].
-
-21:12:11,667 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Fensalir Combat WiGE[Tank].
-
-21:12:11,668 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1682) - VSM not a valid faction code in year 3160. See model Fensalir Combat WiGE.
-
-21:12:11,669 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1682) - VSM not a valid faction code in year 3160. See model Fensalir Combat WiGE (HAG).
-
-21:12:11,669 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1682) - VSM not a valid faction code in year 3160. See model Fensalir Combat WiGE (Infantry).
-
-21:12:11,669 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Ferret Light Scout VTOL[VTOL].
-
-21:12:11,675 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Jonah Submarine[Naval].
-
-21:12:11,675 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1682) - VSM not a valid faction code in year 3160. See model Jonah Submarine JN-002.
-
-21:12:11,676 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Karnov UR Transport[VTOL].
-
-21:12:11,682 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Neptune Submarine[Naval].
-
-21:12:11,683 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Nisos Attack WIGE[Tank].
-
-21:12:11,684 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Pandion Combat WiGE[Tank].
-
-21:12:11,686 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Quicksilver Personal Sports Craft[Tank].
-
-21:12:11,686 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Raubvogel Aerobomber[Conventional Fighter].
-
-21:12:11,690 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Sturmvogel Gunship[Tank].
-
-21:12:11,690 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Sturmvogel Maritime Patrol WiGE[Tank].
-
-21:12:11,691 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Swallow Attack WIGE[Tank].
-
-21:12:11,691 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1682) - VSM not a valid faction code in year 3160. See model Swallow Attack WIGE.
-
-21:12:11,691 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1682) - VSM not a valid faction code in year 3160. See model Swallow Attack WIGE (Original).
-
-21:12:11,694 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
-megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Wurger Assault Craft[Small Craft].
-
-21:12:15,709 INFO  [megamek.client.ui.tileset.MekTileset] {SwingWorker-pool-2-thread-1}
-megamek.client.ui.tileset.MekTileset.loadFromFile(MekTileset.java:352) - Loading unit icons from mekset.txt
-
-21:12:15,753 INFO  [megamek.client.ui.tileset.MekTileset] {SwingWorker-pool-2-thread-1}
-megamek.client.ui.tileset.MekTileset.loadFromFile(MekTileset.java:352) - Loading unit icons from localserver_mekset.txt
-
-21:12:15,755 INFO  [megamek.client.ui.tileset.MekTileset] {SwingWorker-pool-2-thread-1}
-megamek.client.ui.tileset.MekTileset.loadFromFile(MekTileset.java:352) - Loading unit icons from localclient_mekset.txt
-
-21:12:15,915 INFO  [megamek.common.MMRandom] {SwingWorker-pool-2-thread-1}
+21:20:11,961 INFO  [megamek.common.MMRandom] {Mek Cache Loader}
 megamek.common.MMRandom.generate(MMRandom.java:63) - Generating RNG type #1
 
-21:12:16,367 INFO  [megamek.common.weapons.handlers.WeaponOrderHandler] {Thread-1}
+21:20:12,037 INFO  [megamek.common.weapons.handlers.WeaponOrderHandler] {Mek Cache Loader}
 megamek.common.weapons.handlers.WeaponOrderHandler.loadWeaponOrderFile(WeaponOrderHandler.java:259) - Parsing customWeaponOrder.xml
 ...Parsing finished.
 	Total number of custom weapon order entries: 0
 
-21:12:21,465 WARN  [megamek.client.ui.dialogs.buttonDialogs.CommonSettingsDialog] {SwingWorker-pool-2-thread-1}
-megamek.client.ui.dialogs.buttonDialogs.CommonSettingsDialog.filteredFilesWithSubDirs(CommonSettingsDialog.java:3888) - Path /Users/stuart/Documents/GitHub/StrategosMekBay/MegaMekShare/data/universe/academies does not exist.
+21:20:15,264 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (SCC) not found.
 
-21:12:21,704 WARN  [megamek.common.loaders.MULParser] {SwingWorker-pool-2-thread-1}
-megamek.common.loaders.MULParser.parse(MULParser.java:444) - Error restoring quirk: obsolete 2510.
+21:20:15,424 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (SCC) not found.
 
+21:20:15,480 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (Refit) not found.
 
-21:12:21,707 WARN  [megamek.common.loaders.MULParser] {SwingWorker-pool-2-thread-1}
-megamek.common.loaders.MULParser.parse(MULParser.java:444) - Error restoring quirk: obsolete 2510.
+21:20:15,480 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (SCC) not found.
 
+21:20:15,583 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (Refit) not found.
 
-21:12:21,816 WARN  [megamek.common.loaders.MULParser] {SwingWorker-pool-2-thread-1}
-megamek.common.loaders.MULParser.parse(MULParser.java:444) - Could not find the IS Ammo MG - Full equipment that was expected at index 0 of location 0.
+21:20:15,583 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (SCC) not found.
 
+21:20:15,649 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (Refit) not found.
 
-21:12:21,818 WARN  [megamek.common.loaders.MULParser] {SwingWorker-pool-2-thread-1}
-megamek.common.loaders.MULParser.parse(MULParser.java:444) - Could not find the IS Ammo MG - Full equipment that was expected at index 0 of location 0.
+21:20:15,651 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (SCC) not found.
 
+21:20:15,854 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (Refit) not found.
 
-21:12:21,819 WARN  [megamek.common.loaders.MULParser] {SwingWorker-pool-2-thread-1}
-megamek.common.loaders.MULParser.parse(MULParser.java:444) - Could not find the IS Ammo MG - Full equipment that was expected at index 0 of location 0.
+21:20:15,907 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (SCC) not found.
 
+21:20:16,117 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (Refit) not found.
 
-21:12:21,819 WARN  [megamek.common.loaders.MULParser] {SwingWorker-pool-2-thread-1}
-megamek.common.loaders.MULParser.parse(MULParser.java:444) - Could not find the IS Ammo MG - Full equipment that was expected at index 0 of location 0.
+21:20:16,118 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (SCC) not found.
 
+21:20:16,180 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.loadEra(RATGenerator.java:1511) - Faction MalCon not found in data/forcegenerator/3150.xml
 
-21:12:21,871 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
+21:20:16,181 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.loadEra(RATGenerator.java:1511) - Faction VSM not found in data/forcegenerator/3150.xml
+
+21:20:16,182 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See 'Astrolux' Staryacht[Small Craft].
+
+21:20:16,187 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (Refit) not found.
+
+21:20:16,187 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (SCC) not found.
+
+21:20:16,188 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Avanti Aerospace Airliner[Conventional Fighter].
+
+21:20:16,201 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Cardinal Transport[VTOL].
+
+21:20:16,209 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Coanda Personal Sports Craft[Tank].
+
+21:20:16,214 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Fensalir Combat WiGE[Tank].
+
+21:20:16,214 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1682) - VSM not a valid faction code in year 3150. See model Fensalir Combat WiGE.
+
+21:20:16,215 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1682) - VSM not a valid faction code in year 3150. See model Fensalir Combat WiGE (HAG).
+
+21:20:16,215 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1682) - VSM not a valid faction code in year 3150. See model Fensalir Combat WiGE (Infantry).
+
+21:20:16,216 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Ferret Light Scout VTOL[VTOL].
+
+21:20:16,238 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Jonah Submarine[Naval].
+
+21:20:16,239 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1682) - VSM not a valid faction code in year 3150. See model Jonah Submarine JN-002.
+
+21:20:16,241 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Karnov UR Transport[VTOL].
+
+21:20:16,249 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Pandion Combat WiGE[Tank].
+
+21:20:16,250 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Quicksilver Personal Sports Craft[Tank].
+
+21:20:16,251 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Raubvogel Aerobomber[Conventional Fighter].
+
+21:20:16,258 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Sturmvogel Gunship[Tank].
+
+21:20:16,258 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Sturmvogel Maritime Patrol WiGE[Tank].
+
+21:20:16,258 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Swallow Attack WIGE[Tank].
+
+21:20:16,260 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1682) - VSM not a valid faction code in year 3150. See model Swallow Attack WIGE.
+
+21:20:16,261 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1682) - VSM not a valid faction code in year 3150. See model Swallow Attack WIGE (Original).
+
+21:20:16,265 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3150. See Wurger Assault Craft[Small Craft].
+
+21:20:16,287 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.loadEra(RATGenerator.java:1511) - Faction MalCon not found in data/forcegenerator/3160.xml
+
+21:20:16,287 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.loadEra(RATGenerator.java:1511) - Faction VSM not found in data/forcegenerator/3160.xml
+
+21:20:16,288 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See 'Astrolux' Staryacht[Small Craft].
+
+21:20:16,290 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (Refit) not found.
+
+21:20:16,291 ERROR [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1644) - Arondight Pocket Warship (SCC) not found.
+
+21:20:16,308 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Avanti Aerospace Airliner[Conventional Fighter].
+
+21:20:16,316 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Cardinal Transport[VTOL].
+
+21:20:16,319 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Coanda Personal Sports Craft[Tank].
+
+21:20:16,323 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Fensalir Combat WiGE[Tank].
+
+21:20:16,323 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1682) - VSM not a valid faction code in year 3160. See model Fensalir Combat WiGE.
+
+21:20:16,323 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1682) - VSM not a valid faction code in year 3160. See model Fensalir Combat WiGE (HAG).
+
+21:20:16,324 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1682) - VSM not a valid faction code in year 3160. See model Fensalir Combat WiGE (Infantry).
+
+21:20:16,324 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Ferret Light Scout VTOL[VTOL].
+
+21:20:16,330 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Jonah Submarine[Naval].
+
+21:20:16,330 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1682) - VSM not a valid faction code in year 3160. See model Jonah Submarine JN-002.
+
+21:20:16,331 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Karnov UR Transport[VTOL].
+
+21:20:16,337 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Neptune Submarine[Naval].
+
+21:20:16,338 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Nisos Attack WIGE[Tank].
+
+21:20:16,339 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Pandion Combat WiGE[Tank].
+
+21:20:16,340 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Quicksilver Personal Sports Craft[Tank].
+
+21:20:16,341 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Raubvogel Aerobomber[Conventional Fighter].
+
+21:20:16,345 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Sturmvogel Gunship[Tank].
+
+21:20:16,345 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Sturmvogel Maritime Patrol WiGE[Tank].
+
+21:20:16,345 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Swallow Attack WIGE[Tank].
+
+21:20:16,346 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1682) - VSM not a valid faction code in year 3160. See model Swallow Attack WIGE.
+
+21:20:16,347 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseModelNode(RATGenerator.java:1682) - VSM not a valid faction code in year 3160. See model Swallow Attack WIGE (Original).
+
+21:20:16,351 WARN  [megamek.client.ratgenerator.RATGenerator] {RAT Generator unit populator}
+megamek.client.ratgenerator.RATGenerator.parseChassisNode(RATGenerator.java:1607) - VSM not a valid faction code in year 3160. See Wurger Assault Craft[Small Craft].
+
+21:20:18,489 INFO  [megamek.client.ui.tileset.MekTileset] {SwingWorker-pool-2-thread-1}
+megamek.client.ui.tileset.MekTileset.loadFromFile(MekTileset.java:352) - Loading unit icons from mekset.txt
+
+21:20:18,528 INFO  [megamek.client.ui.tileset.MekTileset] {SwingWorker-pool-2-thread-1}
+megamek.client.ui.tileset.MekTileset.loadFromFile(MekTileset.java:352) - Loading unit icons from localserver_mekset.txt
+
+21:20:18,530 INFO  [megamek.client.ui.tileset.MekTileset] {SwingWorker-pool-2-thread-1}
+megamek.client.ui.tileset.MekTileset.loadFromFile(MekTileset.java:352) - Loading unit icons from localclient_mekset.txt
+
+21:20:24,261 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
 megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
 
-21:12:21,906 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
+21:20:24,284 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
 megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
 
-21:12:21,919 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
+21:20:24,293 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
 megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
 
-21:12:21,927 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
+21:20:24,312 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
 megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
 
-21:12:21,944 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
+21:20:24,321 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
 megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
 
-21:12:21,957 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
+21:20:24,330 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
 megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
 
-21:12:21,978 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
+21:20:24,341 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
 megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
 
-21:12:21,982 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
+21:20:24,349 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
 megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
 
-21:12:21,998 WARN  [megamek.common.loaders.MULParser] {SwingWorker-pool-2-thread-1}
-megamek.common.loaders.MULParser.parse(MULParser.java:444) - Error restoring quirk: obsolete 2510.
-
-
-21:12:21,999 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
+21:20:24,353 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
 megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
 
-21:12:22,013 WARN  [megamek.common.loaders.MULParser] {SwingWorker-pool-2-thread-1}
-megamek.common.loaders.MULParser.parse(MULParser.java:444) - Error restoring quirk: obsolete 2510.
-
-
-21:12:22,013 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
+21:20:24,358 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
 megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
 
-21:12:22,024 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
+21:20:24,367 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
 megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
 
-21:12:22,047 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
+21:20:24,371 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
 megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
 
-21:12:22,057 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
+21:20:24,399 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
 megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
 
-21:12:22,064 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
+21:20:24,409 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
 megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
 
-21:12:22,066 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
+21:20:24,413 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
 megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
 
-21:12:22,070 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,116 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,124 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,127 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,130 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,618 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,650 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,661 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,699 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,713 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,718 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,720 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,737 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,740 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,747 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,756 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,801 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,808 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,816 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,822 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,827 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,830 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,865 WARN  [megamek.common.loaders.MULParser] {SwingWorker-pool-2-thread-1}
-megamek.common.loaders.MULParser.parse(MULParser.java:444) - Could not find the IS Ammo MG - Full equipment that was expected at index 0 of location 0.
-
-
-21:12:22,866 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,898 WARN  [megamek.common.loaders.MULParser] {SwingWorker-pool-2-thread-1}
-megamek.common.loaders.MULParser.parse(MULParser.java:444) - Could not find the IS Ammo MG - Full equipment that was expected at index 0 of location 0.
-
-
-21:12:22,898 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,900 WARN  [megamek.common.loaders.MULParser] {SwingWorker-pool-2-thread-1}
-megamek.common.loaders.MULParser.parse(MULParser.java:444) - Could not find the IS Ammo MG - Full equipment that was expected at index 0 of location 0.
-
-
-21:12:22,900 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,901 WARN  [megamek.common.loaders.MULParser] {SwingWorker-pool-2-thread-1}
-megamek.common.loaders.MULParser.parse(MULParser.java:444) - Could not find the IS Ammo MG - Full equipment that was expected at index 0 of location 0.
-
-
-21:12:22,901 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,905 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,911 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,915 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,920 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,934 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,951 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,964 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,972 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,983 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:22,997 WARN  [megamek.common.equipment.ExternalCargo] {SwingWorker-pool-2-thread-1}
-megamek.common.equipment.ExternalCargo.setGame(ExternalCargo.java:342) - External Cargo has no entity or entityId
-
-21:12:23,284 WARN  [megamek.client.ui.dialogs.buttonDialogs.CommonSettingsDialog] {SwingWorker-pool-2-thread-1}
+21:20:24,686 WARN  [megamek.client.ui.dialogs.buttonDialogs.CommonSettingsDialog] {SwingWorker-pool-2-thread-1}
 megamek.client.ui.dialogs.buttonDialogs.CommonSettingsDialog.filteredFilesWithSubDirs(CommonSettingsDialog.java:3888) - Path /Users/stuart/Documents/GitHub/StrategosMekBay/MegaMekShare/data/universe/awards does not exist.
 
-21:12:31,004 INFO  [megamek.client.ui.tileset.MekTileset] {AWT-EventQueue-0}
+21:20:24,778 WARN  [megamek.client.ui.dialogs.buttonDialogs.CommonSettingsDialog] {SwingWorker-pool-2-thread-1}
+megamek.client.ui.dialogs.buttonDialogs.CommonSettingsDialog.filteredFilesWithSubDirs(CommonSettingsDialog.java:3888) - Path /Users/stuart/Documents/GitHub/StrategosMekBay/MegaMekShare/data/universe/academies does not exist.
+
+21:20:30,059 INFO  [megamek.client.ui.tileset.MekTileset] {AWT-EventQueue-0}
 megamek.client.ui.tileset.MekTileset.loadFromFile(MekTileset.java:352) - Loading unit icons from wreckset.txt
 
-21:12:31,036 INFO  [megamek.client.ui.tileset.MekTileset] {AWT-EventQueue-0}
+21:20:30,081 INFO  [megamek.client.ui.tileset.MekTileset] {AWT-EventQueue-0}
 megamek.client.ui.tileset.MekTileset.loadFromFile(MekTileset.java:352) - Loading unit icons from localclient_wreckset.txt
 
-21:12:31,133 INFO  [megamek.client.ui.tileset.HexTileset] {AWT-EventQueue-0}
-megamek.client.ui.tileset.HexTileset.loadFromFile(HexTileset.java:363) - HexTileset saxarba.tileset loaded in 92ms.
+21:20:30,168 INFO  [megamek.client.ui.tileset.HexTileset] {AWT-EventQueue-0}
+megamek.client.ui.tileset.HexTileset.loadFromFile(HexTileset.java:363) - HexTileset saxarba.tileset loaded in 83ms.
 
-21:12:32,494 INFO  [megamek.common.util.ImageUtil] {AWT-EventQueue-0}
+21:20:30,611 INFO  [megamek.common.util.ImageUtil] {AWT-EventQueue-0}
 megamek.common.util.ImageUtil$TileMapImageLoader.loadImage(ImageUtil.java:395) - Loading atlas: data/images/universe/planets.png
 
-21:12:50,804 ERROR [megamek.common.loaders.MekFileParser] {Thread-1}
+21:20:52,023 ERROR [megamek.common.loaders.MekFileParser] {Thread-1}
 megamek.common.loaders.MekFileParser.postLoadInit(MekFileParser.java:362) - Unable to match RISC Laser Pulse Module to laser for Rifleman RFL-8X RISC
 
-21:12:50,823 ERROR [megamek.common.loaders.MekFileParser] {Thread-1}
+21:20:52,037 ERROR [megamek.common.loaders.MekFileParser] {Thread-1}
 megamek.common.loaders.MekFileParser.postLoadInit(MekFileParser.java:362) - Unable to match RISC Laser Pulse Module to laser for Rifleman RFL-8X RISC
 
-21:12:50,934 ERROR [megamek.common.loaders.MekFileParser] {Thread-1}
+21:20:52,164 ERROR [megamek.common.loaders.MekFileParser] {Thread-1}
 megamek.common.loaders.MekFileParser.postLoadInit(MekFileParser.java:362) - Unable to match RISC Laser Pulse Module to laser for Rifleman RFL-8X RISC
 
-21:12:50,934 ERROR [megamek.common.loaders.MekFileParser] {Thread-1}
+21:20:52,164 ERROR [megamek.common.loaders.MekFileParser] {Thread-1}
 megamek.common.loaders.MekFileParser.postLoadInit(MekFileParser.java:362) - Unable to match RISC Laser Pulse Module to laser for Rifleman RFL-8X RISC
 
