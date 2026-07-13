@@ -6,6 +6,12 @@
       "value" : "2240|616|0|322|false"
     } ]
   }, {
+    "class" : "mekhq.gui.dialog.NewRecruitDialog",
+    "elements" : [ {
+      "element" : "dialog",
+      "value" : "871|247|534|426|false"
+    } ]
+  }, {
     "class" : "mekhq.gui.dialog.camOpsSalvage.SalvageFormationPicker",
     "elements" : [ {
       "element" : "SalvageFormationPicker",
@@ -84,13 +90,19 @@
       "value" : "."
     }, {
       "element" : "campaignsDirectory",
-      "value" : "/Users/stuart/Documents/GitHub/StrategosMekBay/MegaMekShare/Morning Star/Manxiome Industries/Scenario 4 Defend Manxiome"
+      "value" : "C:\\Users\\Xavier\\Documents\\GitHub\\StrategosMekBay\\MegaMekShare\\Sabretooth\\Manxiome Industries\\Scenario 4 Defend Manxiome"
     }, {
       "element" : "planetsDirectory",
       "value" : "."
     }, {
       "element" : "selectedTheme",
       "value" : ""
+    } ]
+  }, {
+    "class" : "mekhq.gui.dialog.UnitMarketDialog",
+    "elements" : [ {
+      "element" : "UnitMarketDialog",
+      "value" : "1526|864|197|108|false"
     } ]
   }, {
     "class" : "mekhq.gui.dialog.AddOrEditKillEntryDialog",
@@ -126,7 +138,7 @@
     "class" : "mekhq.gui.CampaignGUI",
     "elements" : [ {
       "element" : "mainWindow",
-      "value" : "2240|1230|144|73|false"
+      "value" : "1940|1100|0|0|false"
     } ]
   }, {
     "class" : "mekhq.gui.PersonnelTab",
@@ -138,7 +150,7 @@
       "value" : "false"
     }, {
       "element" : "personnelType",
-      "value" : "11"
+      "value" : "0"
     }, {
       "element" : "personnelTable",
       "value" : "1|DESCENDING"
@@ -166,6 +178,42 @@
     "elements" : [ {
       "element" : "dialog",
       "value" : "250|150|995|555|false"
+    } ]
+  }, {
+    "class" : "mekhq.gui.panes.UnitMarketPane",
+    "elements" : [ {
+      "element" : "chkShowAerospace",
+      "value" : "false"
+    }, {
+      "element" : "chkFilterByPercentageOfCost",
+      "value" : "false"
+    }, {
+      "element" : "chkShowVehicles",
+      "value" : "true"
+    }, {
+      "element" : "chkShowMeks",
+      "value" : "true"
+    }, {
+      "element" : "chkShowLargeVessels",
+      "value" : "false"
+    }, {
+      "element" : "spnCostPercentageThreshold",
+      "value" : "100"
+    }, {
+      "element" : "chkShowInfantry",
+      "value" : "false"
+    }, {
+      "element" : "marketTable",
+      "value" : "0|ASCENDING"
+    }, {
+      "element" : "UnitMarketPane",
+      "value" : "712"
+    }, {
+      "element" : "chkShowConvAero",
+      "value" : "false"
+    }, {
+      "element" : "EntityViewPane",
+      "value" : "0"
     } ]
   } ]
 }
