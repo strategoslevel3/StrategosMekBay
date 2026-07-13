@@ -126,19 +126,19 @@
     "class" : "mekhq.gui.CampaignGUI",
     "elements" : [ {
       "element" : "mainWindow",
-      "value" : "2240|1230|144|73|false"
+      "value" : "2240|1230|96|30|false"
     } ]
   }, {
     "class" : "mekhq.gui.PersonnelTab",
     "elements" : [ {
       "element" : "personnelView",
-      "value" : "0"
+      "value" : "1"
     }, {
       "element" : "groupByUnit",
       "value" : "false"
     }, {
       "element" : "personnelType",
-      "value" : "11"
+      "value" : "4"
     }, {
       "element" : "personnelTable",
       "value" : "1|DESCENDING"
