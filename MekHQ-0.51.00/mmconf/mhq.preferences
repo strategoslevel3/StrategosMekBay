@@ -126,7 +126,7 @@
     "class" : "mekhq.gui.CampaignGUI",
     "elements" : [ {
       "element" : "mainWindow",
-      "value" : "2240|1230|152|41|false"
+      "value" : "2240|1230|60|30|false"
     } ]
   }, {
     "class" : "mekhq.gui.PersonnelTab",
