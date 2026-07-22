@@ -1,20 +1,3 @@
-# MegaMek Data (C) 2025 by The MegaMek Team is licensed under CC BY-NC-SA 4.0.
-# To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
-#
-# NOTICE: The MegaMek organization is a non-profit group of volunteers
-# creating free software for the BattleTech community.
-#
-# MechWarrior, BattleMech, `Mech and AeroTech are registered trademarks
-# of The Topps Company, Inc. All Rights Reserved.
-#
-# Catalyst Game Labs and the Catalyst Game Labs logo are trademarks of
-# InMediaRes Productions, LLC.
-#
-# MechWarrior Copyright Microsoft Corporation. MegaMek Data was created under
-# Microsoft's "Game Content Usage Rules"
-# <https://www.xbox.com/en-US/developers/rules> and it is not endorsed by or
-# affiliated with Microsoft.
-
 # Standard Rail and Maglev fluff
 
 super * "fluff:10:00" "" "hq_fluff/rail00.gif"
@@ -81,13 +64,6 @@ super * "fluff:10:60" "" "hq_fluff/rail60.gif"
 super * "fluff:10:61" "" "hq_fluff/rail61.gif"
 super * "fluff:10:62" "" "hq_fluff/rail62.gif"
 super * "fluff:10:63" "" "hq_fluff/rail63.gif"
-super * "fluff:10:64" "" "hq_fluff/rail_road01.gif"
-super * "fluff:10:65" "" "hq_fluff/rail_road02.gif"
-super * "fluff:10:66" "" "hq_fluff/rail_road03.gif"
-super * "fluff:10:67" "" "hq_fluff/rail_road04.gif"
-super * "fluff:10:68" "" "hq_fluff/rail_road05.gif"
-super * "fluff:10:69" "" "hq_fluff/rail_road06.gif"
-
 
 super * "fluff:9:00" "" "fluff/maglevtrack1.gif"
 super * "fluff:9:01" "" "fluff/maglevtrack2.gif"

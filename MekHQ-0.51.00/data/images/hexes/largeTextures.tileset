@@ -1,20 +1,3 @@
-# MegaMek Data (C) 2025 by The MegaMek Team is licensed under CC BY-NC-SA 4.0.
-# To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
-#
-# NOTICE: The MegaMek organization is a non-profit group of volunteers
-# creating free software for the BattleTech community.
-#
-# MechWarrior, BattleMech, `Mech and AeroTech are registered trademarks
-# of The Topps Company, Inc. All Rights Reserved.
-#
-# Catalyst Game Labs and the Catalyst Game Labs logo are trademarks of
-# InMediaRes Productions, LLC.
-#
-# MechWarrior Copyright Microsoft Corporation. MegaMek Data was created under
-# Microsoft's "Game Content Usage Rules"
-# <https://www.xbox.com/en-US/developers/rules> and it is not endorsed by or
-# affiliated with Microsoft.
-
 # iLarge Textures Tileset made by Ahne 04.07.2020
 #
 # contains water, sand, lunar, volcano, magmacrust, magma, plains and grass textures, also in default file the extra pavement, light, megaart, heavy and hardened roofs plus sandbags
@@ -188,8 +171,6 @@ base -6 "" "" "Ahne/iLarge_Textures/BigPlains-6.jpg"
 
 base 0 "space:1" "" "largeTextures/BigSpace.jpg"
 
-include "StandardIncludes/StandardUltraSublevel.tileinc"
-include "StandardIncludes/StandardHazardousLiquid.tileinc"
 
 #base 1 "water:*" "" "Ahne/iLarge_Textures/BigWater.jpg(0,72-84,-72);Ahne/iLarge_Textures/BigWater.jpg(84,0--84,72);Ahne/iLarge_Textures/BigWater.jpg(84,72--84,-72)"
 #base -1 "water:*" "" "Ahne/iLarge_Textures/BigWater2.jpg(0,72-84,-72);Ahne/iLarge_Textures/BigWater2.jpg(84,0--84,72);Ahne/iLarge_Textures/BigWater2.jpg(84,72--84,-72)"

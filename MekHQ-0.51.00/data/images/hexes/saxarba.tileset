@@ -1,20 +1,3 @@
-# MegaMek Data (C) 2025 by The MegaMek Team is licensed under CC BY-NC-SA 4.0.
-# To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
-#
-# NOTICE: The MegaMek organization is a non-profit group of volunteers
-# creating free software for the BattleTech community.
-#
-# MechWarrior, BattleMech, `Mech and AeroTech are registered trademarks
-# of The Topps Company, Inc. All Rights Reserved.
-#
-# Catalyst Game Labs and the Catalyst Game Labs logo are trademarks of
-# InMediaRes Productions, LLC.
-#
-# MechWarrior Copyright Microsoft Corporation. MegaMek Data was created under
-# Microsoft's "Game Content Usage Rules"
-# <https://www.xbox.com/en-US/developers/rules> and it is not endorsed by or
-# affiliated with Microsoft.
-
 ### Search for #REMAINS for things left from former tileset
 
 # Same as isometric, except it contains animated tiles
@@ -106,9 +89,6 @@ super 7 "sand:*" "" "saxarba/base/base_sand_7.png"
 super 8 "sand:*" "" "saxarba/base/base_sand_8.png"
 super 9 "sand:*" "" "saxarba/base/base_sand_9.png"
 super 10 "sand:*" "" "saxarba/base/base_sand_10.png"
-
-include "StandardIncludes/StandardUltraSublevel.tileinc"
-include "StandardIncludes/StandardHazardousLiquid.tileinc"
 
 #MARS THEME WATER
 super * "water:0" "mars" "saxarba/theme_mars/water_mars_0.png"
@@ -236,15 +216,6 @@ super * "rubble:4" "" "saxarba/misc/rubble_hardened.png"
 super * "rubble:5" "" "saxarba/misc/rubble_wall.png"
 super * "rubble:6" "" "saxarba/misc/rubble_heavy.png"
 super * "rubble:*" "" "saxarba/misc/rubble_heavy.png"
-#bulldozer-cleared rubble: the hex is clear; cosmetic overlays show scraped ground + the _path tiles. The
-#ground_fluff (gravel) layer must precede the fluff (_path) layer so it draws UNDER it, and precede the
-#ground_fluff:* catch-all below so that wins for level 2000.
-super * "ground_fluff:2000" "" "saxarba/cleared_rubble_gravel.png"
-super * "fluff:2001" "" "saxarba/rubble_light_path.png"
-super * "fluff:2002" "" "saxarba/rubble_medium_path.png"
-super * "fluff:2003" "" "saxarba/rubble_heavy_path.png"
-super * "fluff:2004" "" "saxarba/rubble_hardened_path.png"
-super * "fluff:2005" "" "saxarba/rubble_wall_path.png"
 
 #LUNAR THEME FIELDS
 super * "planted_fields:1" "lunar" "saxarba/theme_lunar/field_lunar_a.png"
@@ -311,7 +282,7 @@ include "saxarba/SMV_Seaport/SeaPort.tileinc"
 #TROPICAL THEME TREES
 super * "woods:1;foliage_elev:*;fluff:12" "tropical" "saxarba/theme_tropical/orchard_tropical.png"
 super * "woods:1;foliage_elev:1" "tropical" "saxarba/theme_tropical/trop_lvl1fol01.png;saxarba/theme_tropical/trop_lvl1fol02.png;saxarba/theme_tropical/trop_lvl1fol03.png;saxarba/theme_tropical/trop_lvl1fol04.png;saxarba/theme_tropical/trop_lvl1fol05.png;saxarba/theme_tropical/trop_lvl1fol06.png"
-super * "woods:2;foliage_elev:1" "tropical" "saxarba/theme_tropical/trop_lvl1hfol01.png;saxarba/theme_tropical/trop_lvl1hfol02.png;saxarba/theme_tropical/trop_lvl1hfol03.png;saxarba/theme_tropical/trop_lvl1hfol04.png;saxarba/theme_tropical/trop_lvl1hfol05.png;saxarba/theme_tropical/trop_lvl1hfol06.png"
+super * "woods:2;foliage_elev:1" "tropical" "saxarba/theme_tropical/trop_lvl1hfol01.png;saxarba/theme_tropical/trop_lvl1hfol02.png;saxarba/theme_tropical/trop_lvl1hfol03.png;saxarba/theme_tropical/trop_lvl1hfol04.png;saxarba/theme_tropical/trop_lvl1hfol05.png;saxarba/theme_tropical/trop_lvl1hfol0
 super * "woods:1;foliage_elev:*" "tropical" "saxarba/theme_tropical/woods_light_tropical_a.png;saxarba/theme_tropical/woods_light_tropical_b.png;saxarba/theme_tropical/woods_light_tropical_c.png;saxarba/theme_tropical/woods_light_tropical_d.png;saxarba/theme_tropical/woods_light_tropical_e.png;saxarba/theme_tropical/woods_light_tropical_f.png"
 super * "woods:2;foliage_elev:*" "tropical" "saxarba/theme_tropical/woods_heavy_tropical_a.png;saxarba/theme_tropical/woods_heavy_tropical_b.png;saxarba/theme_tropical/woods_heavy_tropical_c.png;saxarba/theme_tropical/woods_heavy_tropical_d.png"
 

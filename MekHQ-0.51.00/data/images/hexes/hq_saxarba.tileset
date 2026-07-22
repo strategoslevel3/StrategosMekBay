@@ -1,20 +1,3 @@
-# MegaMek Data (C) 2025 by The MegaMek Team is licensed under CC BY-NC-SA 4.0.
-# To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
-#
-# NOTICE: The MegaMek organization is a non-profit group of volunteers
-# creating free software for the BattleTech community.
-#
-# MechWarrior, BattleMech, `Mech and AeroTech are registered trademarks
-# of The Topps Company, Inc. All Rights Reserved.
-#
-# Catalyst Game Labs and the Catalyst Game Labs logo are trademarks of
-# InMediaRes Productions, LLC.
-#
-# MechWarrior Copyright Microsoft Corporation. MegaMek Data was created under
-# Microsoft's "Game Content Usage Rules"
-# <https://www.xbox.com/en-US/developers/rules> and it is not endorsed by or
-# affiliated with Microsoft.
-
 ### Search for #REMAINS for things left from former tileset
 
 # Same as isometric, except it contains animated tiles
@@ -103,9 +86,6 @@ super 7 "sand:*" "" "saxarba/base/base_sand_7.png"
 super 8 "sand:*" "" "saxarba/base/base_sand_8.png"
 super 9 "sand:*" "" "saxarba/base/base_sand_9.png"
 super 10 "sand:*" "" "saxarba/base/base_sand_10.png"
-
-include "StandardIncludes/StandardUltraSublevel.tileinc"
-include "StandardIncludes/StandardHazardousLiquid.tileinc"
 
 #MARS THEME WATER
 super * "water:0" "mars" "saxarba/theme_mars/water_anim_mars_0.gif"
@@ -235,14 +215,6 @@ super * "rubble:4" "" "saxarba/misc/rubble_hardened.png"
 super * "rubble:5" "" "saxarba/misc/rubble_wall.png"
 super * "rubble:6" "" "saxarba/misc/rubble_heavy.png"
 super * "rubble:*" "" "saxarba/misc/rubble_heavy.png"
-#bulldozer-cleared rubble: the hex is clear; cosmetic overlays show scraped ground (gravel) UNDER the _path
-#tiles. The ground_fluff layer must precede the fluff layer (drawn under it) and any ground_fluff:* catch-all.
-super * "ground_fluff:2000" "" "saxarba/cleared_rubble_gravel.png"
-super * "fluff:2001" "" "saxarba/rubble_light_path.png"
-super * "fluff:2002" "" "saxarba/rubble_medium_path.png"
-super * "fluff:2003" "" "saxarba/rubble_heavy_path.png"
-super * "fluff:2004" "" "saxarba/rubble_hardened_path.png"
-super * "fluff:2005" "" "saxarba/rubble_wall_path.png"
 
 #LUNAR THEME FIELDS
 super * "planted_fields:1" "lunar" "saxarba/theme_lunar/field_lunar_a.png"
